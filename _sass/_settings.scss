@@ -1,12 +1,38 @@
-$systemSansSerif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Source Sans Pro", sans-serif;
-$systemSerif: "Apple Garamond", "Baskerville", "Times New Roman", "Droid Serif", "Times","Source Serif Pro", serif;
+// System sans-serif font stack 
+$systemSansSerif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Source Sans Pro", sans-serif,"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$systemSerif: "Apple Garamond", "Baskerville", "Georgia", "Times New Roman", "Droid Serif", "Times","Source Serif Pro", serif;
 $systemMonospace: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace;
+
+// Is 24px overkill? Maybe, but I'm a size queen.
 $fontSize: 24px;
+
+// Body settings inspired by bettermotherfuckingwebsite.com.
 $lineHeight: 1.6;
 $headingLineHeight: 1.2;
 $margin: 40px auto;
 $padding: 0 10px;
 $maxWidth: 700px;
-$black1: #1e1e1e;
-$black2: #111111;
-$white: #f3f3f3;
+
+// off-black and off-white colors for gentler text contrast.
+$offBlack1: #1e1e1e;
+$offBlack2: #111111;
+$offWhite: #fafafa;
+
+//Color variables from clrs.cc converted from postcss to Sass.
+$aqua:  #7FDBFF;
+$blue:  #0074D9;
+$navy:  #001F3F;
+$teal:  #39CCCC;
+$green: #2ECC40;
+$olive: #3D9970;
+$lime:  #01FF70;
+$yellow:  #FFDC00;
+$orange:  #FF851B;
+$red:     #FF4136;
+$fuchsia: #F012BE;
+$purple:  #B10DC9;
+$maroon:  #85144B;
+$white:  #FFFFFF;
+$silver: #DDDDDD;
+$gray:   #AAAAAA;
+$black:  #111111;
