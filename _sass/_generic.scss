@@ -1,15 +1,15 @@
 // taken from http://mrmrs.io/links/
 a {
   transition: color .4s;
-  color: #265C83;
+  color: $navy;
 }
 
 a:link,
-a:visited { color: #265C83; }
-a:hover   { color: #7FDBFF; }
+a:visited { color: $navy; }
+a:hover   { color: $aqua; }
 a:active  {
   transition: color .3s;
-  color: #007BE6;
+  color: $blue;
 }
 
 .link { text-decoration: none; }
