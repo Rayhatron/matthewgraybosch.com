@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<main>
-{{ content }}
+<header id="page_header">
+  <p class="masthead">{{ site.title }}</p>
+</header>
+<main id="#main_content">
+  {{ content }}
 </main>
 {% include footer.html %}

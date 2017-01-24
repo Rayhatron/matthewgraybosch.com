@@ -1,3 +1,37 @@
 ---
 layout: default
 ---
+<header id="page_header">
+  <p class="masthead">{{ site.title }}</p>
+  <nav id="page_nav">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/blog/">Blog Archive</a></li>
+    </ul>
+  </nav>
+</header>
+<main id="#main_content">
+  <article>
+    <header id="article_header">
+      <p class="reading_time">
+        {% assign words = content | number_of_words %}
+			  {% if words < 360 %}
+				  1 minute
+			  {% else %}
+				  {{ words | divided_by: 180 }} minutes
+			  {% endif %} read
+      </p>
+    </header>
+    <section>
+      {{ content }}
+    </section>
+    <footer id="article_footer">
+      <p class="post_info">Posted on {{ page.date | date: '%B %d, %Y' }}</p>
+      {% if page.updated %}
+      <p class="post_info">Updated on {{ page.updated | date: '%B %d, %Y' }}</p>
+      {% endif %}
+    </footer>
+  </article>
+</main>
+{% include footer.html %}

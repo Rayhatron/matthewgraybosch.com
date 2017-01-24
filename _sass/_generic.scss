@@ -1,3 +1,8 @@
+/*
+ * Generic. This includes all the third-party CSS used throughout the site.
+ * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
+ */
+
 // taken from http://mrmrs.io/links/
 a {
   transition: color .4s;
@@ -13,3 +18,21 @@ a:active  {
 }
 
 .link { text-decoration: none; }
+
+// Taken from http://webaim.org/techniques/css/invisiblecontent/#skipnavlinks
+#skip a
+{ 
+  position:absolute; 
+  left:-10000px; 
+  top:auto; 
+  width:1px; 
+  height:1px; 
+  overflow:hidden;
+} 
+ 
+#skip a:focus 
+{ 
+  position:static; 
+  width:auto; 
+  height:auto; 
+} 

@@ -1,3 +1,8 @@
+/*
+ * Base. These are element styles — no classes or IDs. Base typography styles go here, as well as anything needed to style raw elements.
+ * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
+ */
+
 html {
   font-size: $fontSize;
 
@@ -7,12 +12,18 @@ html {
     max-width: $maxWidth;
     margin: $margin;
     padding: $padding;
-    color: $black1;
-    background-color: $white;
+    color: $offBlack1;
+    background-color: $offWhite;
 
     h1, h2, h3, h4, h5, h6 {
-      color: $black2;
+      font-family: $systemSerif;
+      color: $offBlack2;
       line-height: $headingLineHeight;
+    }
+
+    blockquote {
+      font-family: $systemSerif;
+      color: $offBlack2;
     }
 
     code, pre {
@@ -20,7 +31,7 @@ html {
     }
 
     footer {
-      border-top-color: $black2;
+      border-top-color: $offBlack2;
       border-top-style: solid;
       border-top-width: 1px;
       font-size: .75rem;
