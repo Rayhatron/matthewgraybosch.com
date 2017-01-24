@@ -1,0 +1,13 @@
+language: node_js
+node_js: node
+before_install:
+  - rvm install ruby --latest
+install:
+  - gem install bundler
+  - bundle install
+  - npm install
+script: 
+  - npm run build:js
+  - bundle exec jekyll build
+after_success:
+  - surge --project ./_site
