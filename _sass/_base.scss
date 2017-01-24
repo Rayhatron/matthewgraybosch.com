@@ -1,0 +1,30 @@
+html {
+  font-size: $fontSize;
+
+  body {
+    font-family: $systemSansSerif;
+    line-height: $lineHeight;
+    max-width: $maxWidth;
+    margin: $margin;
+    padding: $padding;
+    color: $black1;
+    background-color: $white;
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: $systemSerif;
+      color: $black2;
+      line-height: $headingLineHeight;
+    }
+
+    code, pre {
+      font-family: $systemMonospace;
+    }
+
+    footer {
+      border-top-color: $black2;
+      border-top-style: solid;
+      border-top-width: 1px;
+      font-size: .75rem;
+    }
+  }
+}
