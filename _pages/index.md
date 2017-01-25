@@ -10,7 +10,7 @@ I'm Matthew Graybosch, a science fantasy author, self-taught developer, and long
 Here are my latest blog posts. You might find something you like.
 
 <ul>
-{% for post in site.posts | limit: 10 %}
+{% for post in site.posts limit: 10 %}
   <li><span class="post_date">{{ post.date | date: "%b %d, %Y" }}</span> &mdash; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>

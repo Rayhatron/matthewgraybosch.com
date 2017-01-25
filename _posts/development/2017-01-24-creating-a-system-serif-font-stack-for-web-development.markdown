@@ -2,9 +2,7 @@
 layout: post
 title: Creating a System Serif Font Stack for Web Development
 date: 2017-01-24 10:36:01 -0500
-categories: 
-  - web development
-  - fonts
+category: development
 ---
 Because I do web development at my day job, I try to keep up with the latest trends in web development. One of them is [the use of system user interface (UI) fonts in CSS instead of downloading fonts](https://css-tricks.com/snippets/css/system-font-stack/).
 
