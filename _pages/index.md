@@ -9,11 +9,7 @@ I'm Matthew Graybosch, a science fantasy author, self-taught developer, and long
 
 Here are my latest blog posts. You might find something you like.
 
-<ul>
-{% for post in site.posts limit: 10 %}
-  <li><span class="post_date">{{ post.date | date: "%b %d, %Y" }}</span> &mdash; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include recent-posts.html %}
 
 You can find all of my posts [in the archive](/blog/).
 

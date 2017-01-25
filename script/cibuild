@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-bundle exec jekyll build
-bundle exec htmlproofer ./_site --disable-external
+if [[ "$IS_TRAVIS" ]]
+  then bundle exec jekyll build --config _config.prod.yml
+  else bundle exec jekyll build --config _config.dev.yml
+fi
+bundle exec htmlproofer ./_site --allow-hash-href --disable-external

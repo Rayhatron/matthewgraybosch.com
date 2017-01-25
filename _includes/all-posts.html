@@ -1,0 +1,5 @@
+<ul>
+{% for post in site.posts %}
+  <li><span class="post_date">{{ post.date | date: "%b %d, %Y" }}</span> &mdash; <a href="{{ site.base_url}}/{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

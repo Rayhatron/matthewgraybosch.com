@@ -4,7 +4,7 @@ locale: en_US
 description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm Matthew Graybosch, author of the Starbreaker science fantasy novels, developer, and metalhead from New York currently living in Pennsylvania. This is my website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metalheadscifi
 github_username:  matthewgraybosch
 
@@ -29,6 +29,10 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
+  - .travis.yml
+  - CNAME
+  - Gemfile.lock
+  - package.json
   - LICENSE
   - log
   - node_modules
@@ -36,8 +40,9 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - ./script
+  - ./docs # ignore Minimal Mistakes /docs
+  - ./test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -72,7 +77,7 @@ sass:
 
 
 # Outputting
-permalink: /:title/
+permalink: /blog/:year/:month/:day/:title
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/New_York

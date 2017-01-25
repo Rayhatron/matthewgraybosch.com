@@ -1,5 +1,7 @@
 # matthewgraybosch.com
 
+[![Build Status](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com.svg?branch=master)](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com)
+
 This is [my website](http://motherfuckingwebsite.com). There are [many like it](http://bettermotherfuckingwebsite.com), but [this one is mine](http://matthewgraybosch.surge.sh).
 
 ## Built with...
