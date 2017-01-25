@@ -1,12 +1,22 @@
-language: node_js
-node_js: node
-before_install:
-  - rvm install ruby --latest
-install:
-  - gem install bundler
-  - bundle install
-  - npm install
-script: 
-  - bundle exec jekyll build
+language: ruby
+rvm:
+- 2.4.0
+
+before_script:
+ - chmod +x ./script/cibuild
+ - npm install --global surge
+
+script: ./script/cibuild
+
+branches:
+  only:
+  - source
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
 after_success:
-  - surge --project ./_site
+  surge -p ./_site/ --domain $SURGE_DOMAIN
