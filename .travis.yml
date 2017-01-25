@@ -7,7 +7,6 @@ install:
   - bundle install
   - npm install
 script: 
-  - npm run build:js
   - bundle exec jekyll build
 after_success:
   - surge --project ./_site
