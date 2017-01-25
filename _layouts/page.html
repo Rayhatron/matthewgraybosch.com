@@ -2,7 +2,8 @@
 layout: default
 ---
 <header id="page_header">
-  <p class="masthead">{{ site.title }}</p>
+  {% include skip-nav.html %}
+  {% include masthead.html %}
   <nav id="page_nav">
     <ul>
       <li><a href="/">Home</a></li>
