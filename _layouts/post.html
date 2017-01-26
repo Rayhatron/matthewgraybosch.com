@@ -4,10 +4,12 @@ layout: default
 <header id="page_header">
   {% include skip-nav.html %}
   <nav id="page_nav">
-    <span class="bold blue" role="heading" aria-level="1">{{ site.name }}</span>
-    <a href="/" class="link">Home</a>
-    <a href="/about/" class="link">About</a>
-    <a href="/blog/" class="link">Blog Archive</a>
+    <ul>
+      <li><span class="bold blue" role="heading" aria-level="1">{{ site.name }}</span></li>
+      <li><a href="/" class="link">Home</a></li>
+      <li><a href="/about/" class="link">About</a></li>
+      <li><a href="/blog/" class="link">Blog Archive</a>
+    </ul>
   </nav>
 </header>
 <main id="main_content">

@@ -3,7 +3,22 @@
  * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
  */
 
- @media print { 
+@media all and (min-width:640px) {
+  nav {
+    ul {
+      li {
+        display: inline-block;
+        margin-right: .5rem;
+        
+        a {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media print { 
   body {
     font-family: $systemSerif !important;
     font-size: $printFontSize !important;
