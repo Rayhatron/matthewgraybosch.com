@@ -4,7 +4,7 @@ layout: default
 <header id="page_header">
   {% include skip-nav.html %}
   <nav id="page_nav">
-    <span class="bold blue" role="heading" aria-level="1">{{ site.name }}:</span>
+    <span class="bold blue" role="heading" aria-level="1">{{ site.name }}</span>
     <a href="/" class="link">Home</a>
     <a href="/about/" class="link">About</a>
     <a href="/blog/" class="link">Blog Archive</a>
@@ -27,10 +27,9 @@ layout: default
       {{ content }}
     </section>
     <footer id="article_footer">
-      <p class="post_info">By <a href="/about/" class="link bold" rel="author">{{ site.name }}</a></p>
-      <p class="post_info">Posted on <span class="bold">{{ page.date | date: '%B %d, %Y' }}</span> under {{ page.category }}</p>
+      <p class="post_info">Posted on <strong>{{ page.date | date: '%B %d, %Y' }}</strong> under <strong>{{ page.category }}</strong></p>
       {% if page.updated %}
-      <p class="post_info">Updated on <span class="bold">{{ page.updated | date: '%B %d, %Y' }}</bold></p>
+      <p class="post_info">Updated on <strong>{{ page.updated | date: '%B %d, %Y' }}</strong></p>
       {% endif %}
     </footer>
   </article>
