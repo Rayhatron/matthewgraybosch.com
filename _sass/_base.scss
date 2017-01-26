@@ -44,11 +44,9 @@ html {
     * Blockquotes
     */
     blockquote {
-      color: $gray;
+      color: $offBlack2;
       border-left: 4px solid $silver;
       padding-left: $spacing-unit / 2;
-      font-size: 18px;
-      letter-spacing: -1px;
       font-style: italic;
 
       > :last-child {
@@ -65,25 +63,9 @@ html {
       */
       pre,
       code {
-        font-size: 15px;
         border: 1px solid $silver;
         border-radius: 3px;
         background-color: $white;
-      }
-
-      code {
-        padding: 1px 5px;
-      }
-
-      pre {
-        padding: 8px 12px;
-        overflow-x: auto;
-
-        > code {
-          border: 0;
-          padding-right: 0;
-          padding-left: 0;
-        }
       }
 
     /**
@@ -92,6 +74,27 @@ html {
     img {
       max-width: 100%;
       vertical-align: middle;
+    }
+
+    nav {
+    width: 100%;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: row;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav ul li {
+        list-style: none;
+        flex-grow: 1;
+        text-align: center;
+    }
+
+    nav ul li a {
+        display: block;
     }
   }
 }
