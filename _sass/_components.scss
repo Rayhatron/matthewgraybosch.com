@@ -3,12 +3,16 @@
  * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
  */
 
+.reading_time {
+  font-size: .75rem;
+}
+
 .bold {
   font-weight: bold;
 }
 
 #page_footer {
   margin-top: 1rem;
-  border-top: 1px solid $blue;
+  border-top: 2px solid $blue;
   text-align: center;
 }

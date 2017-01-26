@@ -5,9 +5,9 @@
 
  @media print { 
   body {
-    font-family: $systemSerif;
-    font-size: $printFontSize;
-    line-height: $printLineHeight;
+    font-family: $systemSerif !important;
+    font-size: $printFontSize !important;
+    line-height: $printLineHeight !important;
     max-width: 100%;
     margin: auto;
     padding: auto;
