@@ -2,3 +2,20 @@
  * Trumps (no relation). These are styles that override other styles, and should be used very sparingly. Color overrides, forced floats, and text alignment classes can go here. This is the only place in your CSS that the `!important` tag is acceptable.
  * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
  */
+
+ @media print { 
+  body {
+    font-family: $systemSerif;
+    font-size: $printFontSize;
+    line-height: $printLineHeight;
+    max-width: 100%;
+    margin: auto;
+    padding: auto;
+    color: $black;
+    background-color: $white;
+  }
+
+  #top_link { 
+    display: none; 
+  } 
+}
