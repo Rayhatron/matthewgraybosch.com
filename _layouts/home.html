@@ -3,7 +3,12 @@ layout: default
 ---
 <header id="page_header">
   {% include skip-nav.html %}
-  {% include masthead.html %}
+  <nav id="page_nav">
+    <ul>
+      <li>{{ site.name }}</li>
+      <li><a href="/about/" class="link">About</a></li>
+    </ul>
+  </nav>
 </header>
 <main id="main_content">
   {{ content }}
