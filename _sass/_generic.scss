@@ -20,7 +20,7 @@ a:active  {
 .link { text-decoration: none; }
 
 // Taken from http://webaim.org/techniques/css/invisiblecontent/#skipnavlinks
-#skip a
+#skip_link a
 { 
   position:absolute; 
   left:-10000px; 
@@ -30,7 +30,7 @@ a:active  {
   overflow:hidden;
 } 
  
-#skip a:focus 
+#skip_link a:focus 
 { 
   position:static; 
   width:auto; 
