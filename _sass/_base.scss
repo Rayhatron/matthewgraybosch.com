@@ -13,7 +13,7 @@ html {
     background: $blue;
     left: 0;
     right: 0;
-    height: 2px;
+    height: 3px;
   }
 
   body:before {
@@ -82,6 +82,7 @@ html {
     pre {
       margin-left: 0;
       margin-right: 0;
+      padding:5px;
       width: 100%;
       border: 1px solid $silver;
       border-radius: 3px;
