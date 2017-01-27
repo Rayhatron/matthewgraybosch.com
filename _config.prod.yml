@@ -9,6 +9,23 @@ url: "http://matthewgraybosch.surge.sh" # the base hostname & protocol for your 
 twitter_username: metalheadscifi
 github_username:  matthewgraybosch
 
+# Jekyll SEO Tag settings.
+webmaster_verifications:
+  google: VNQL_phR6oPdagir5F_krnwVdws-jkL4roHooo0MyNQ
+
+twitter:
+  username: metalheadscifi
+
+social:
+  name: Matthew Graybosch
+  links:
+    - https://plus.google.com/+MatthewGraybosch
+    - https://plus.google.com/u/0/101103204333421326989
+    - https://twitter.com/MGraybosch
+    - https://twitter.com/metalheadscifi
+    - https://facebook.com/matthew.graybosch
+    - https://facebook.com/matthewgrayboschnovelist
+
 # Reading Files
 include:
   - .htaccess
