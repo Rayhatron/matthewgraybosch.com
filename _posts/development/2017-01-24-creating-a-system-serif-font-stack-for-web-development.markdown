@@ -7,8 +7,7 @@ category: development
 seo:
   type: BlogPosting
 options:
-  jquery: true
-  code: true
+  highlight: true
 ---
 Because I do web development at my day job, I try to keep up with the latest trends in web development. One of them is [the use of system user interface (UI) fonts in CSS instead of downloading fonts](https://css-tricks.com/snippets/css/system-font-stack/).
 
