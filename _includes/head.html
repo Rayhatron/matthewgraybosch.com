@@ -9,3 +9,6 @@
 <style type="text/css">
   {{ inline_sass | scssify }}
 </style>
+{% if page.options.code %}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/highlightjs/tomorrow-night-eighties.css">
+{% endif %}

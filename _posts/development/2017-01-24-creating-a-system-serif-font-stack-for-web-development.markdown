@@ -4,6 +4,10 @@ title: Creating a System Serif Font Stack for Web Development
 description: An overview of the use of system UI fonts in stylesheets, with ideas on how to do the same with serif and monospace fonts.
 date: 2017-01-24 10:36:01 -0500
 category: development
+seo:
+  type: BlogPosting
+options:
+  code: true
 ---
 Because I do web development at my day job, I try to keep up with the latest trends in web development. One of them is [the use of system user interface (UI) fonts in CSS instead of downloading fonts](https://css-tricks.com/snippets/css/system-font-stack/).
 
