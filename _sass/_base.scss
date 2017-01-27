@@ -6,6 +6,7 @@
 html {
   font-size: $fontSize;
 
+  // body-border shenanigans from https://css-tricks.com/body-border/
   body:before, body:after {
     content: "";
     position: fixed;
@@ -31,8 +32,6 @@ html {
     padding: $padding;
     color: $offBlack1;
     background-color: $offWhite;
-    border-top: 3px solid $blue;
-    border-bottom: 3px solid $blue;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
