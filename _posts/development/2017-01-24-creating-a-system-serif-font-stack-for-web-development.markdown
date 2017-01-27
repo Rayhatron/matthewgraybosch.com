@@ -56,7 +56,7 @@ body {
 
 ## Why use a system UI font stack?
 
-This approach has a couple of advantages, which [Ire Aderinokun explained in "The New System Font Stack?"](https://bitsofco.de/the-new-system-font-stack/). I'll paraphrase them below for your convenience:
+This approach has a couple of advantages, which Ire Aderinokun explained in her article. I'll paraphrase them below for your convenience:
 
 ### Performance
 
@@ -100,7 +100,7 @@ You may have noticed that all of the fonts in the various system UI font stacks 
 
 > This makes a lot of sense and I plan to use this in my next website, but these are all sans-serif fonts. I can’t help but wonder if it’s possible to create similar stacks for system-default serif and monospace fonts. I might want to use the serif fonts on headings or blockquotes for emphasis, and apply monospace to the pre and code elements.
 
-It might not be the worst comment ever posted (it isn't abusive, racist, or sexist enough), but I've seen better. Hell, I've posted better &mdash; just not on a smart-phone at four in the morning while taking a leak.
+It might not be the worst comment ever posted (it isn't abusive, racist, or sexist enough), but I've seen better. Hell, I've posted better &mdash; just not on a smartphone at four in the morning while taking a leak.
 
 Here is [Chris Coyier's reply](https://css-tricks.com/snippets/css/system-font-stack/#comment-1606238):
 
