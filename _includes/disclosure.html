@@ -1,0 +1,11 @@
+{% if page.options.jquery or page.options.highlight %}
+<section>
+  <h2>Disclosure</h2>
+  <p class="post_info">You have <a href="https://www.gnu.org/philosophy/loyal-computers.html" rel="nofollow">a right to know what your computer is doing</a>, so here are the JavaScript libraries this page uses to offer you <a href="http://alistapart.com/article/understandingprogressiveenhancement" rel="nofollow">an enhanced viewing experience</a>.</p>
+  <ul>
+    {% if page.options.jquery or page.options.highlight %}<li><a href="https://jquery.org/">jQuery</a></li>{% endif %}
+    {% if page.options.highlight %}<li><a href="https://highlightjs.org/">highlight.js</a></li>{% endif %}
+  </ul>
+  <p class="post_info">These libraries are self-hosted, and <a href="https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/" rel="nofollow">you may disable JavaScript if you wish</a> without losing the ability to view this page. Thanks again for visiting.</p>
+</section>
+{% endif %}
