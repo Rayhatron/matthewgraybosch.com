@@ -7,14 +7,28 @@
 a {
   transition: color .4s;
   color: $navy;
+  text-decoration-color: $blue;
+  -webkit-text-decoration-color: $blue;
+  text-decoration-skip: true;
+  -webkit-text-decoration-skip: true;
 }
 
 a:link,
-a:visited { color: $navy; }
-a:hover   { color: $aqua; }
+a:visited { 
+  color: $navy;
+  text-decoration-color: $teal;
+  -webkit-text-decoration-color: $teal;
+}
+a:hover   { 
+  color: $aqua; 
+  text-decoration-color: $blue;
+  -webkit-text-decoration-color: $blue;
+}
 a:active  {
   transition: color .3s;
   color: $blue;
+  text-decoration-color: $aqua;
+  -webkit-text-decoration-color: $aqua;
 }
 
 .link { text-decoration: none; }
