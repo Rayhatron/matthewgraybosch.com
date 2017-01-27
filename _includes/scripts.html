@@ -1,4 +1,13 @@
+{% if page.options.jquery %}
+<script src="{{ site.url }}/assets/js/jquery-3.1.1.min.js" type="text/javascript" async="true"></script>
+{% endif %}
 {% if page.options.code %}
 <script src="{{ site.url }}/assets/js/highlight.pack.js" type="text/javascript" async="true"></script>
-<script type="text/javascript">hljs.initHighlightingOnLoad();</script>
+<script type="text/javascript">
+$(document).ready(function() {
+  $('pre code').each(function(i, block) {
+    hljs.highlightBlock(block);
+  });
+});
+</script>
 {% endif %}
