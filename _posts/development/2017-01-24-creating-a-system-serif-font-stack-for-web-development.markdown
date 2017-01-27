@@ -17,7 +17,7 @@ I'd like to tell you a bit about this trend, because I'm rebuilding my personal 
 
 Ire Aderinokun describes and compares stacks used by [WordPress](http://wordpress.org), [Medium](http://medium.com), [Ghost](https://ghost.org/) (not the band), and [GitHub](http://github.com) in ["The New System Font Stack?"](https://bitsofco.de/the-new-system-font-stack/). Toward the end, she recommends using WordPress' set, implemented as follows:
 
-{% highlight css %}
+~~~ css
 body {  
    font-family: -apple-system,  
                 BlinkMacSystemFont,  
@@ -29,11 +29,11 @@ body {
                 "Helvetica Neue",  
                 sans-serif;  
 }
-{% endhighlight %}
+~~~
 
 I've extended this stack, borrowing from other stacks and adding Adobe's "Source Sans" font. Like GitHub's, my stack also supports emoji. :cat:
 
-{% highlight css %}
+~~~ css
 body {  
    font-family: -apple-system,  
                 BlinkMacSystemFont,  
@@ -52,7 +52,7 @@ body {
                 "Segoe UI Emoji",  
                 "Segoe UI Symbol";  
 }
-{% endhighlight %}
+~~~
 
 ## Why use a system UI font stack?
 
@@ -146,7 +146,7 @@ With the original system UI font stack's example in mind, I've tried to arrange 
 
 ### Serif SSFS
 
-{% highlight css %}
+~~~ css
 h1, h2, h3, h4, h5, h6, blockquote {  
    font-family: "Apple Garamond",  
                 "Baskerville",  
@@ -161,11 +161,11 @@ h1, h2, h3, h4, h5, h6, blockquote {
                 "Segoe UI Emoji",  
                 "Segoe UI Symbol";  
 }
-{% endhighlight %}
+~~~
 
 ### Monospace SSFS
 
-{% highlight css %}
+~~~ css
 pre, code {  
    font-family: "SF Mono",  
                 "Monaco",  
@@ -175,7 +175,7 @@ pre, code {
                 "Source Code Pro",  
                 monospace;  
 }
-{% endhighlight %}
+~~~
 
 ### Notes and Caveats
 
