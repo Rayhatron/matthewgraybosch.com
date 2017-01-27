@@ -6,6 +6,23 @@
 html {
   font-size: $fontSize;
 
+  body:before, body:after {
+    content: "";
+    position: fixed;
+    background: $blue;
+    left: 0;
+    right: 0;
+    height: 5px;
+  }
+
+  body:before {
+      top: 0;
+  }
+
+  body:after {
+      bottom: 0;
+  }
+
   body {
     font-family: $systemSansSerif;
     line-height: $lineHeight;
@@ -64,6 +81,9 @@ html {
       * Code formatting
       */
     pre {
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
       border: 1px solid $silver;
       border-radius: 3px;
       background-color: $white;
