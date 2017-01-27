@@ -16,41 +16,14 @@ layout: default
   <article>
     <header id="article_header">
       <h1>{{ page.title }}</h1>
-      <p class="reading_time bold">
-        {% assign words = content | number_of_words %}
-			  {% if words < 360 %}
-				  1 minute
-			  {% else %}
-				  {{ words | divided_by: 180 }} minutes
-			  {% endif %} read
-      </p>
+      {% include reading-time.html %}
     </header>
     <section id="article_content">
       {{ content }}
     </section>
     <footer id="article_footer">
-      <section id="article_footer_thanks">
-        <h2>Thanks For Reading</h2>
-        <p>If you enjoyed this post and want to continue the conversaion, I'd love it if you linked to my post and quoted it in your own blog. If you prefer social media, here are some safe sharing links.</p>
-        <nav id="article_sharing_nav">
-          <ul>
-            <li>Thanks for sharing!</li>
-            <li><a href="http://wordpress.com/press-this.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}&s={{ page.description }}&i={{ site.url }}{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" class="link">WordPress</a></li>
-            <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="link">Google+</a></li>
-            <li><a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title }}&description={{ page.description }}" class="link">Tumblr</a></li>
-            <li><a href="http://reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" class="link">Reddit</a></li>
-            <li><a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via={{ site.twitter_username }}&hashtags=#{{ page.category }}" class="link">Twitter</a></li>
-            <li><a href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="link">Facebook</a></li>
-          </ul>
-        </nav>
-      </section>
-      <section id="article_footer_about_post">
-      <h2>About This Post</h2>
-        <p class="post_info">Posted on {{ page.date | date: '%B %d, %Y' }} under <strong>{{ page.category }}</strong></p>
-        {% if page.updated %}
-        <p class="post_info">Updated on {{ page.updated | date: '%B %d, %Y' }}</p>
-        {% endif %}
-      </section>
+      {% include thanks-for-reading.html %}
+      {% include post-info.html %}
     </footer>
   </article>
 </main>
