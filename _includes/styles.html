@@ -1,5 +1,5 @@
 {% capture inline_sass %}{% include main.scss %}{% endcapture %}
 <style type="text/css">
   {{ inline_sass | scssify }}
-  {% if page.options.highlight %}{% include xcode-min.css %}{% endif %}
+  {% if page.options.highlight %}{% include xcode.css %}{% endif %}
 </style>
