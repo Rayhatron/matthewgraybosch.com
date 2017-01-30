@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-sshpass -e
-rsync -v -rz --checksum --delete _site/ $SSHUSER:$RSYNC_TARGET
+sshpass -e rsync -v -rz --checksum --delete _site/ $SSHUSER:$RSYNC_TARGET
