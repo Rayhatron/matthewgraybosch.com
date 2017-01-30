@@ -7,6 +7,10 @@ if [[ "$IS_TRAVIS" ]]
   else bundle exec jekyll build --config _config.yml _config.dev.yml
 fi
 
+# Make target directories for images.
+mkdir -p _site/assets/images/fullsize/
+mkdir -p _site/assets/images/resized/
+
 # Gotta copy over images.
 rsync -avzh _assets/images/fullsize/ _site/assets/images/fullsize/
 rsync -avzh _assets/images/resized/ _site/assets/images/resized/
