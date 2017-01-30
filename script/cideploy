@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+sshpass -p $SSH_PASSWORD
+rsync -v -rz --checksum --delete _site/ $SSH_USERNAME:/matthewgraybosch.com/
