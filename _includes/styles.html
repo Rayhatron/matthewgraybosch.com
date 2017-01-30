@@ -2,3 +2,7 @@
 <style type="text/css">
   {{ inline_sass | scssify }}
 </style>
+<!--We'll take a perfomance hit if we load additional stylesheets, but I don't want to inline this shit if I'm not using it.-->
+{% if page.options.highlight %}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/highlightjs/xcode.css">
+{% endif %}

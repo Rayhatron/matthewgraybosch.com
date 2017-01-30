@@ -26,6 +26,12 @@ social:
     - https://facebook.com/matthew.graybosch
     - https://facebook.com/matthewgrayboschnovelist
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/fullsize/author-nyc.jpg
+
 # Reading Files
 include:
   - .htaccess
