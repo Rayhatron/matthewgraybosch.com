@@ -1,0 +1,12 @@
+<form method="POST" action="http://formspree.io/matthew@matthewgraybosch.com">
+  {% if include.subject %}
+  <input type="hidden" name="_subject" value="[matthewgraybosch.com] {{ include.subject }}">
+  {% else %}
+  <input type="hidden" name="_subject" value="[matthewgraybosch.com] Message from Contact Form">
+  {% endif %}
+  <input type="hidden" name="_next" value="//matthewgraybosch.com/contact/thanks/" />
+  <label>From: <input name="_replyto" placeholder="Your email" type="email" required="true"></label>
+  <label>Message: <textarea name="message" placeholder="Your message" required="true" spellcheck="true"></textarea></label>
+  <label class="hidden">Spam Trap: <input class="hidden" type="text" name="_gotcha" /></label>
+  <button type="submit">Send</button>
+</form>

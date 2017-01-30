@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Hello
+title: Home
+description: Welcome to Matthew Graybosch's website.
 permalink: /
 ---
 # Hello
 
-I'm Matthew Graybosch, a science fantasy author, self-taught developer, and long-haired metalhead from New York. You can [learn more about me here](/about/) or [see what I'm up to now](/now/).
+I'm Matthew Graybosch: author, developer, metalhead, and blogger. You can [learn more about me here](/about/) or [see what I'm up to now](/now/).
 
 ## Recent Posts
 

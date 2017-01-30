@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Information about Matthew Graybosch, his work, and website.
 permalink: /about/
 ---
 # About...?

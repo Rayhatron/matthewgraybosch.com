@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog Archive
+title: Blog
+description: Main archive page for Matthew Graybosch's blog.
 permalink: /blog/
 ---
 # Blog Archive
