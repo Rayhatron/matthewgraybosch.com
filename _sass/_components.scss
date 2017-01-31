@@ -20,16 +20,30 @@
 }
 
 .form_row {
+  display: flex;
   width: 100%;
 
-  label {
-    width: 20%;
-    text-align: right;
+  label, button {
+   margin: 10px;
+   flex-grow: 1;
+   flex-shrink: 1;
   }
-  
+
+  textarea {
+    margin: 10px;
+    flex-grow: 3;
+    flex-shrink: 3;
+  }
+
   input {
-    width: 80%;
+    margin: 10px;
+    flex-grow: 3;
+    flex-shrink: 3;
   }
+}
+
+.form_row_right_align {
+  flex-direction: row-reverse;
 }
 
 #article_footer {
