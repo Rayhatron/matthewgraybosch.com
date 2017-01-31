@@ -6,7 +6,7 @@ permalink: /
 ---
 # Hello
 
-I'm Matthew Graybosch: author, developer, metalhead, and blogger. You can [contact me](/contact/), learn [more about me](/about/) or [see what I'm up to now](/now/).
+I'm Matthew Graybosch: author, developer, metalhead, and blogger. You can [contact me](/contact/), learn [more about me](/about/), or [see what I'm up to now](/now/).
 
 {% include nav-menu.html id="wip_nav" aria_label="List of Works in Progress" menu="wip"  %}
 

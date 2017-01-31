@@ -28,7 +28,7 @@ about:
   title: "Further Information"
   description: "You'll find everything you need here. Just use the links below."
   items:
-    - title: "About Starbreaker: Science Fantasy for Metalheads"
+    - title: "About Starbreaker"
       url: /about/starbreaker/
     - title: How to Hire Me for a Development Position
       url: /about/hiring/
@@ -36,17 +36,17 @@ wip:
   title: "Works in Progress"
   description: "Here's what I'm working on now. Bookmark the links below and visit often to keep up with my progress."
   items:
-    - title: "*Blackened Phoenix* &mdash; Part Two of Starbreaker"
+    - title: "*Blackened Phoenix*"
       url: /books/starbreaker/blackened-phoenix/
       date: draft
 novels:
   title: "Novels"
   description: "I've published the following novels. Click the links below for descriptions, excerpts, and purchase links."
   items:
-    - title: "*Silent Clarion* &mdash; a Starbreaker novel"
+    - title: "*Silent Clarion*"
       url: /books/starbreaker/silent-clarion/
       date: 2016
-    - title: "*Without Bloodshed* &mdash; Part One of Starbreaker"
+    - title: "*Without Bloodshed*"
       url: /books/starbreaker/without-bloodshed/
       date: 2013
 shorts:
