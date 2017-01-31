@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<header id="page_header">
+  {% include skip-nav.html %}
+  {% include nav-menu.html id="page_nav" aria_label="Page Menu" class="flat_nav_menu" menu="starbreaker" %}
+</header>
+<main id="main_content">
+  {{ content }}
+</main>
+{% include footer.html %}
