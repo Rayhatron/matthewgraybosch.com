@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hiring
+title: About Hiring
 description: Information about how to hire Matthew Graybosch as a developer.
 permalink: /about/hiring/
 ---

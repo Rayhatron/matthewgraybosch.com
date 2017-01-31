@@ -20,11 +20,35 @@ about:
   title: "Further Information"
   description: "You'll find everything you need here. Just use the links below."
   items:
+    - title: "About Starbreaker: Science Fantasy for Metalheads"
+      url: /about/starbreaker/
     - title: How to Hire Me for a Development Position
       url: /about/hiring/
 wip:
   title: "Works in Progress"
-  description: "Here's my current writing project."
+  description: "Here's what I'm working on now. Bookmark the links below and visit often to keep up with my progress."
   items:
-    - title: "*Blackened Phoenix*: Part Two of Starbreaker (draft)"
+    - title: "draft: *Blackened Phoenix* &mdash; Part Two of Starbreaker"
       url: /books/starbreaker/blackened-phoenix/
+novels:
+  title: "Novels"
+  description: "I've published the following novels. Click the links below for descriptions, excerpts, and purchase links."
+  items:
+    - title: "2016: *Silent Clarion* &mdash; a Starbreaker novel"
+      url: /books/starbreaker/silent-clarion/
+    - title: "2013: *Without Bloodshed* &mdash; Part One of Starbreaker"
+      url: /books/starbreaker/without-bloodshed/
+shorts:
+  title: "Short Stories, Novelettes, and Novellas"
+  description: "While I prefer to write novels, I sometimes write shorter pieces as well."
+  items:
+    - title: '2015: "Limited Liability"'
+      url: /stories/starbreaker/limited-liability/
+    - title: '2014: '"Steadfast"''
+      url: /stories/starbreaker/steadfast/
+    - title: '2013: '"The Milgram Battery"''
+      url: /stories/starbreaker/milgram-battery/
+    - title: '2012: '"Of Cats and Cardigans"''
+      url: /stories/starbreaker/of-cats-and-cardigans/
+    - title: '2012: '"Tattoo Vampire"''
+      url: /stories/starbreaker/tattoo-vampire/
