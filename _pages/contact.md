@@ -38,4 +38,4 @@ I don't do much with Facebook, but my publisher would have kittens if I quit. If
 
 ## Notes for Tech Recruiters
 
-Did you come to my website because you're a technical recruiter looking for candidates? You probably want to check my ["How to Hire Me"](/about/hiring/) page. Thanks!
+Did you come to my website because you're a technical recruiter looking for candidates? You probably want to check my ["How to Hire Me"]({{ site.url }}/about/hiring/) page. Thanks!

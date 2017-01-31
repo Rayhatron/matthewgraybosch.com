@@ -2,7 +2,7 @@
 layout: page
 title: Hiring
 description: Information about how to hire Matthew Graybosch as a developer.
-permalink: /about/hiring
+permalink: /about/hiring/
 ---
 # How to Hire Me
 

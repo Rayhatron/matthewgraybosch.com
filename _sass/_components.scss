@@ -11,6 +11,10 @@
   font-weight: bold;
 }
 
+.normal_font_size {
+  font-size: $fontSize;
+}
+
 #article_footer {
   border-top: 1px dotted $navy;
 
