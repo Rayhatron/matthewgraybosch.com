@@ -1,0 +1,11 @@
+<nav id="article_sharing_nav" aria-label="Sharing Menu" class="class="flat_nav_menu">
+  <ul>
+    <li class="bold charcoal">Thanks for sharing!</li>
+    <li><a href="http://wordpress.com/press-this.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}&s={{ page.description }}&i={{ site.url }}{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" class="link">WordPress</a></li>
+    <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="link">Google+</a></li>
+    <li><a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title }}&description={{ page.description }}" class="link">Tumblr</a></li>
+    <li><a href="http://reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" class="link">Reddit</a></li>
+    <li><a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via={{ site.twitter_username }}&hashtags=#{{ page.category }}" class="link">Twitter</a></li>
+    <li><a href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="link">Facebook</a></li>
+  </ul>
+</nav>
