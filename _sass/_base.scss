@@ -82,7 +82,7 @@ html {
     pre {
       margin-left: 0;
       margin-right: 0;
-      padding:5px;
+      padding: .25rem;
       width: 100%;
       border: 1px solid $silver;
       border-radius: 3px;
@@ -90,6 +90,19 @@ html {
       overflow: auto;
     }
 
+    form, figure {
+      margin-left: 0;
+      margin-right: 0;
+      padding: .25rem;
+      width: 100%;
+      border-radius: 3px;
+    }
+
+    figcaption {
+      font-size: .8rem;
+      font-weight: bold;
+      text-align: right;
+    }
     /**
       * Images
       */
