@@ -1,12 +1,27 @@
 <form method="POST" action="http://formspree.io/matthew@matthewgraybosch.com">
-  {% if include.subject %}
-  <input type="hidden" name="_subject" value="[matthewgraybosch.com] {{ include.subject }}">
-  {% else %}
-  <input type="hidden" name="_subject" value="[matthewgraybosch.com] Message from Contact Form">
-  {% endif %}
-  <input type="hidden" name="_next" value="//matthewgraybosch.com/contact/thanks/" />
-  <label>From: <input name="_replyto" placeholder="Your email" type="email" required="true"></label>
-  <label>Message: <textarea name="message" placeholder="Your message" required="true" spellcheck="true"></textarea></label>
-  <label class="hidden">Spam Trap: <input class="hidden" type="text" name="_gotcha" /></label>
-  <button type="submit">Send</button>
+  <div class="form_row">
+    {% if include.subject %}
+    <input type="hidden" name="_subject" value="[matthewgraybosch.com] {{ include.subject }}">
+    {% else %}
+    <input type="hidden" name="_subject" value="[matthewgraybosch.com] Message from Contact Form">
+    {% endif %}
+  </div>
+  <div class="form_row">
+    <input type="hidden" name="_next" value="//matthewgraybosch.com/contact/thanks/" />
+  </div>
+  <div class="form_row">
+    <label for="emailField">From:</label>
+    <input id="emailField" name="_replyto" placeholder="Your email" type="email" required="true">
+  </div>
+  <div class="form_row">
+    <label for="messageField">Message:</label>
+    <textarea id="messageField" name="message" placeholder="Your message" required="true" spellcheck="true"></textarea>
+  </div>
+  <div class="form_row hidden">
+    <label for="spamTrapField">Spam Trap:</label>
+    <input id="spamTrapField" type="text" name="_gotcha" />
+  </div>
+  <div class="form_row">
+    <button id="sendEmailButton" type="submit">Send</button>
+  </div>
 </form>

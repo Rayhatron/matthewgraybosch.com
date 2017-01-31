@@ -15,6 +15,23 @@
   font-size: $fontSize;
 }
 
+.hidden {
+  display: none;
+}
+
+.form_row {
+  width: 100%;
+
+  label {
+    width: 20%;
+    text-align: right;
+  }
+  
+  input {
+    width: 80%;
+  }
+}
+
 #article_footer {
   border-top: 1px dotted $navy;
 

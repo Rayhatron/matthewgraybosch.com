@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-rsync -v -rz --checksum --progress --delete _site/ $SSHUSER:$RSYNC_TARGET
+rsync -v -rz --checksum --progress --delete $TRAVIS_BUILD_DIR/_site/ $DEPLOY_TARGET
