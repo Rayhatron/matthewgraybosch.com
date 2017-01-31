@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /assets/images/
+Allow: /
+
+Sitemap: http://www.matthewgraybosch.com/sitemap.xml
