@@ -10,11 +10,7 @@ So, what did you want to know? Were you looking for a bio? Information about how
 
 You'll find all of that here. Just use the links below.
 
-<nav>
-  <ul>
-    <li><a href="/about/hiring/">How to Hire Me</a></li>
-  </ul>
-</nav>
+{% include nav-menu.html id="page_nav" aria_label="Further Information" menu="about"  %}
 
 Also, here's a photo of me getting ready to summon Gozer.
 

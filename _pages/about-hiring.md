@@ -4,7 +4,7 @@ title: Hiring
 description: Information about how to hire Matthew Graybosch as a developer.
 permalink: /about/hiring/
 ---
-# How to Hire Me
+# How to Hire Me for a Development Position
 
 Hi. If you're reading this page, you're probably a technical recruiter looking for candidates for a position. Since we're both professionals, allow me to provide some information to help you decide whether it's worth your time to reach out to me.
 

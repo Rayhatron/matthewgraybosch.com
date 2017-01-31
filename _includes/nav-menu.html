@@ -1,11 +1,11 @@
   {% assign menu = site.data.menus[include.menu] %}
   <nav id="{{ include.id }}" aria-label="{{ include.aria_label }}" {% if include.class %}class="{{ include.class }}"{% endif %}>
     {% if menu.title %}<h2>{{ menu.title }}</h2>{% endif %}
-    {% if menu.description %}<p>{{ menu.description | markdownify }}</p>{% endif %}
+    {% if menu.description %}<p>{{ menu.description | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
     <ul>
       {% unless menu.title %}<li><h1 class="normal_font_size charcoal">{{ site.name }}</h1></li>{% endunless %}
       {% for item in menu.items %}
-      <li><a href="{{ item.menu }}" class="link">{{ item.title }}</a></li>
+      <li><a href="{{ item.url }}" class="link">{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
       {% endfor %}
     </ul>
   </nav>

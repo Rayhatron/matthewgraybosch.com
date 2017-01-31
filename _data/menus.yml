@@ -2,3 +2,29 @@ home:
   items:
     - title: About
       url: /about/
+page:
+  items:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+blog:
+  items:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Blog
+      url: /blog/
+about:
+  title: "Further Information"
+  description: "You'll find everything you need here. Just use the links below."
+  items:
+    - title: How to Hire Me for a Development Position
+      url: /about/hiring/
+wip:
+  title: "Works in Progress"
+  description: "Here's my current writing project."
+  items:
+    - title: "*Blackened Phoenix*: Part Two of Starbreaker (draft)"
+      url: /books/starbreaker/blackened-phoenix/

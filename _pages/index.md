@@ -8,6 +8,8 @@ permalink: /
 
 I'm Matthew Graybosch: author, developer, metalhead, and blogger. You can [learn more about me here](/about/) or [see what I'm up to now](/now/).
 
+{% include nav-menu.html id="page_nav" aria_label="List of Works in Progress" menu="wip"  %}
+
 ## Recent Posts
 
 Here are my latest blog posts. You might find something you like.
