@@ -1,0 +1,23 @@
+  {% if include.category %}
+  {% assign posts = site.categories.[include.category] %}
+  {% assign category = site.data.categories[include.category] %}
+  {% else %}
+  {% assign posts = site.posts %}
+  {% endif %}
+  {% if category %}
+  <h1>{{ category.title }} Posts</h1>
+  <p>{{ category.description | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  {% endif %}
+  <nav id="{{ include.id }}" aria-label="{{ include.aria_label }}">
+    <ul>
+    {% if include.limit %}
+      {% for post in posts limit: include.limit %}
+      <li><span class="small charcoal">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" class="link">{{ post.title }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for post in posts %}
+      <li><span class="small charcoal">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" class="link">{{ post.title }}</a></li>
+      {% endfor %}
+    {% endif %}
+    </ul>
+  </nav>

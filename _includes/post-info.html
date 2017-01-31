@@ -1,7 +1,9 @@
 <section id="article_footer_about_post">
+{% assign category0 = post.categories[0] %}
+{% assign category = site.data.categories[category0] %}
 <h2>About This Post</h2>
-  <p class="post_info">Posted on {{ page.date | date: '%B %d, %Y' }} under <strong>{{ page.category }}</strong></p>
+  <p class="post_info">Posted on {{ page.date | date: '%m/%d/%Y' }} under <a href="/blog/{{ category0 }}/">{{ category.title }}</a>.</p>
   {% if page.updated %}
-  <p class="post_info">Updated on {{ page.updated | date: '%B %d, %Y' }}</p>
+  <p class="post_info">Updated on {{ page.updated | date: '%m/%d/%Y' }}</p>
   {% endif %}
 </section>

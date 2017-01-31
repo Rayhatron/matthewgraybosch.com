@@ -18,7 +18,7 @@ I'm Matthew Graybosch: author, developer, metalhead, and blogger. You can [conta
 
 Here are my latest blog posts. You might find something you like.
 
-{% include recent-posts.html %}
+{% include blog-nav-menu.html limit="5" id="recent_posts" aria_label="Recent Posts List" %}
 
 You can find all of my posts [in the archive](/blog/).
 
