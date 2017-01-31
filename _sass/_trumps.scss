@@ -4,20 +4,17 @@
  */
 
 @media all and (min-width:640px) {
-  nav {
-    .flat_nav_menu {
-      ul {
-        li {
-          display: inline-block;
-          margin-right: .5rem;
-          line-height: $lineHeight;
-          a {
-            display: block;
-          }
+  .flat_nav_menu {
+    ul {
+      li {
+        display: inline-block !important;
+        margin-right: .5rem !important;
+        line-height: $lineHeight !important;
+        a {
+          display: block !important;
         }
       }
     }
-  }
 }
 
 @media print { 
