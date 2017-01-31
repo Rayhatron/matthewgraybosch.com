@@ -27,11 +27,11 @@
   }
 
   label, input, textarea {
-   width: $maxWidth;
+   max-width: $maxWidth;
   }
 
   button {
-    width: $maxWidth / 7;
+    max-width: $maxWidth / 7;
   }
 }
 
