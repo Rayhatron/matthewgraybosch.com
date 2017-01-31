@@ -15,3 +15,7 @@ You'll find all of that here. Just use the links below.
 Also, here's a photo of me getting ready to summon Gozer.
 
 {% include image.html src="/assets/images/resized/author-nyc.jpg" alt="A photo of Matthew Graybosch in NYC" caption="Photograph by Catherine Gatt" %}
+
+My wife Catherine took this photo about ten years ago when we visited [Top of the Rock](https://www.topoftherocknyc.com/), the observation deck atop Rockefeller Center in Manhattan.
+
+My [publishers](https://curiosityquills.com) insisted on using it because my smirk, the clouds behind me, and the Empire State Building in the background supposedly make me look like one of the sorcerers in my Starbreaker stories. Though I'd like to think my magicians have better fashion sense.
