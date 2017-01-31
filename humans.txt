@@ -1,0 +1,28 @@
+---
+---
+/* TEAM */
+  Author: {{ site.name }}
+  Site: {{ site.email }}
+  Twitter: @{{ site.twitter.username }}
+  From: {{ site.location }}
+
+/* THANKS */
+  Wife: Catherine Gatt
+  From: Melbourne, Australia
+  
+  Cat: Virgil
+  From: Center Hall, PA
+
+  Cat: Smudge
+  From: Middletown, PA
+
+/* SITE */
+  Last Update: {{ site.time | date: '%m/%d/%Y %k:%M:%S %z' }}
+  Language: English
+  Doctype: HTML5
+  Standards: HTML5, CSS3, WCAG 2.0 Level AAA, WAI-ARIA
+  Software: Jekyll, Atom, Github, Travis CI, rsync, ssh
+  Host: Dreamhost.com
+
+/* FUCK YOU */
+  POTUS: Donald M. Trump
