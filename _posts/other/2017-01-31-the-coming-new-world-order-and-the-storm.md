@@ -8,8 +8,6 @@ categories:
 seo:
   type: BlogPosting
 ---
-# Despite Trump, the New World Order is Coming
-
 This new world order isn't about "one world government". It's about people, especially women, rising up and claiming as their due the natural human right to be fully human and realize their full potential.
 
 It isn't inevitable, but short of a nuclear fucking holocaust there's little the regressives among us can do to stop it from happening.
