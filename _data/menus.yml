@@ -28,27 +28,35 @@ wip:
   title: "Works in Progress"
   description: "Here's what I'm working on now. Bookmark the links below and visit often to keep up with my progress."
   items:
-    - title: "draft: *Blackened Phoenix* &mdash; Part Two of Starbreaker"
+    - title: "*Blackened Phoenix* &mdash; Part Two of Starbreaker"
       url: /books/starbreaker/blackened-phoenix/
+      date: draft
 novels:
   title: "Novels"
   description: "I've published the following novels. Click the links below for descriptions, excerpts, and purchase links."
   items:
-    - title: "2016: *Silent Clarion* &mdash; a Starbreaker novel"
+    - title: "*Silent Clarion* &mdash; a Starbreaker novel"
       url: /books/starbreaker/silent-clarion/
-    - title: "2013: *Without Bloodshed* &mdash; Part One of Starbreaker"
+      date: 2016
+    - title: "*Without Bloodshed* &mdash; Part One of Starbreaker"
       url: /books/starbreaker/without-bloodshed/
+      date: 2013
 shorts:
   title: "Short Stories, Novelettes, and Novellas"
   description: "While I prefer to write novels, I sometimes write shorter pieces as well."
   items:
-    - title: "2015: &quot;Limited Liability&quot;"
+    - title: "&quot;Limited Liability&quot;"
       url: /stories/starbreaker/limited-liability/
-    - title: "2014: &quot;Steadfast&quot;"
+      date: 2015
+    - title: "&quot;Steadfast&quot;"
       url: /stories/starbreaker/steadfast/
-    - title: "2013: &quot;The Milgram Battery&quot;"
+      date: 2014
+    - title: "&quot;The Milgram Battery&quot;"
       url: /stories/starbreaker/milgram-battery/
-    - title: "2012: &quot;Of Cats and Cardigans&quot;"
+      date: 2013
+    - title: "&quot;Of Cats and Cardigans&quot;"
       url: /stories/starbreaker/of-cats-and-cardigans/
-    - title: "2012: &quot;Tattoo Vampire&quot;"
+      date: 2012
+    - title: "&quot;Tattoo Vampire&quot;"
       url: /stories/starbreaker/tattoo-vampire/
+      date: 2012
