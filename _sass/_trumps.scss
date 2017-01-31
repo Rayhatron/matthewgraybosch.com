@@ -22,6 +22,22 @@
   }
 }
 
+.form_row {
+  max-width: $maxWidth !important;
+
+  label {
+    font-weight: bold;
+  }
+
+  label, input, textarea {
+    max-width: $maxWidth !important;
+  }
+
+  button {
+    max-width: $maxWidth / 7 !important;
+  }
+}
+
 @media print { 
   body {
     font-family: $systemSerif !important;

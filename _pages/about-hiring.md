@@ -38,20 +38,11 @@ I prefer projects where I can use and expand my skills to serve the common good.
 * Non-profits and NGOs like the EFF, ACLU, Amnesty International, or the United Way
 * Life sciences/medical/bioinformatics
 
-## Jobs I Will Refuse on Sight
-
-* I will not consider contracts shorter than six months.
-* I will not consider jobs that require Federal security clearance.
-* I will not consider public-sector positions involving the military or Federal law enforcement.
-* I will not consider private-sector positions in social media, advertising, or the videogame industry.
-* I am not willing to relocate.
-
 ## Compensation Requirements
 
 * For salaried positions, I require between $75,000 and $100,000 depending on benefits.
 * For W2 contracts my hourly rate is $50.
-* For 1099 contracts my hourly rate is $100.
-* I expect to get time-and-a-half for overtime in hourly positions.
+* For 1099 contracts my hourly rate is $75.
 
 ## Still Want to Contact Me?
 

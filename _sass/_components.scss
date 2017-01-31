@@ -20,17 +20,18 @@
 }
 
 .form_row {
-  max-width: $maxWidth;
-
+  width: 100%;
+  
   label {
     font-weight: bold;
   }
 
   label, input, textarea {
-   max-width: $maxWidth;
+    width: 100%;
   }
 
   button {
+    width: 100px;
     max-width: $maxWidth / 7;
   }
 }
