@@ -20,6 +20,12 @@
 }
 
 .form_row {
+  width: 650px;
+
+  label {
+    font-family: $systemSerif;
+  }
+
   label, input, textarea {
    width: 100%;
   }
