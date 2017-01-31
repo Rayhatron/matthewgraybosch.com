@@ -5,7 +5,7 @@
   {% assign posts = site.posts %}
   {% endif %}
   {% if category %}
-  <h1>{{ category.title }} Posts</h1>
+  <h1>{{ category.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
   <p>{{ category.description | markdownify | remove: '<p>' | remove: '</p>' }}</p>
   {% endif %}
   <nav id="{{ include.id }}" aria-label="{{ include.aria_label }}">

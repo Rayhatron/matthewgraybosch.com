@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Development Blog
 description: Development post archive for Matthew Graybosch's blog.
 permalink: /blog/development/
