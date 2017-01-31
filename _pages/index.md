@@ -8,11 +8,11 @@ permalink: /
 
 I'm Matthew Graybosch: author, developer, metalhead, and blogger. You can [contact me](/contact/), learn [more about me](/about/) or [see what I'm up to now](/now/).
 
-{% include nav-menu.html id="page_nav" aria_label="List of Works in Progress" menu="wip"  %}
+{% include nav-menu.html id="wip_nav" aria_label="List of Works in Progress" menu="wip"  %}
 
-{% include nav-menu.html id="page_nav" aria_label="List of Novels" menu="novels"  %}
+{% include nav-menu.html id="novels_nav" aria_label="List of Novels" menu="novels"  %}
 
-{% include nav-menu.html id="page_nav" aria_label="List of Short Works" menu="shorts"  %}
+{% include nav-menu.html id="stories_nav" aria_label="List of Short Works" menu="shorts"  %}
 
 ## Recent Posts
 
