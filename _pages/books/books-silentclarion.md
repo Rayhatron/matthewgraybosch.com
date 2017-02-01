@@ -46,7 +46,9 @@ Published by Curiosity Quills Press and edited by Matthew Cox.
 
 ## Featured Review
 
-> Graybosch creates an interesting world of light-handed and benevolent totalitarian rule against the background of a world that has rebuilt itself after a global collapse. This allows Artificial Intelligences and cutting-edge technology to sit comfortably next to ubiquitous mêlée combat and secrets hidden in the backwoods. <cite><a href="https://davidjhiggins.wordpress.com/2015/10/23/silent-clarion-by-matthew-graybosch/">Dave Higgins</a></cite>
+> Graybosch creates an interesting world of light-handed and benevolent totalitarian rule against the background of a world that has rebuilt itself after a global collapse. This allows Artificial Intelligences and cutting-edge technology to sit comfortably next to ubiquitous mêlée combat and secrets hidden in the backwoods. 
+
+> <cite><a href="https://davidjhiggins.wordpress.com/2015/10/23/silent-clarion-by-matthew-graybosch/">&mdash;Dave Higgins</a></cite>
 
 ## Soundtrack
 
