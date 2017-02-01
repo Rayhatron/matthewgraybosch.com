@@ -55,3 +55,5 @@ But don't yield to despair. The old ways are dying. Those who cling to them prob
 When the storm passes, we will remain. We will rebuild. But in the meantime, let's find solidarity. Let's work together. Let's help each other ride out this storm, even if we can't abate its fury. The reactionaries' anger is a storm, but this is *our* world and *our* time. They had their chance. 
 
 Together, we are a juggernaut. We have the power and the right to grind them and their false ideals into the dust of history. So, what are we waiting for?
+
+But first, [we must stop Trump from corrupting our government, our economy, and our culture](https://www.theatlantic.com/magazine/archive/2017/03/how-to-build-an-autocracy/513872/). Call your representatives in Congress. Send them letters. Corner them in public if you must, and you can do so without getting arrested. [The purges have begun, and we must resist by any non-violent means necessary.](http://www.gq.com/story/trump-attorney-general-fired)
