@@ -33,12 +33,14 @@ If you decide to fork this project, please do the following in your copy:
 
 1. Create a Travis CI account if you don't already have one.
 2. Get yourself a host that offers SSH access and allows uploads via SFTP and rsync.
-3. Change all of the settings in ```_config.yml```.
-4. Remove the items under ```before_install``` in ```.travis.yml```.
-5. Replace ```deploy_rsa.enc``` with your own copy [using these instructions](https://oncletom.io/2016/travis-ssh-deploy/).
-6. Clean out the following directories: 
+3. Replace ```googled52e2c0a5887f7f5.html``` with a file provided by [Google Webmaster Central](https://www.google.com/webmasters/verification/home?hl=en) to verify ownership of your own domain.
+4. Update ```humans.txt```.
+5. Change all of the settings in ```_config.yml```.
+6. Remove the items under ```before_install``` in ```.travis.yml```.
+7. Replace ```deploy_rsa.enc``` with your own copy [using these instructions](https://oncletom.io/2016/travis-ssh-deploy/).
+8. Clean out the following directories: 
   * ```_drafts```
   * ```_posts```
   * ```_pages```
   * ```_assets/images```
-7. Have fun.
+9. Have fun.
