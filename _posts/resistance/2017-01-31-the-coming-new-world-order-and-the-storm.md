@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Despite Trump, the New World Order is Coming
-description: Though we now have a demagogue for a President, we shouldn't yield to despair. A better world is coming, and we can make it happen.
+title: Despite Reactionaries, the New World Order is Coming
+description: Though we now have a demagogue for a President, we shouldn't yield to despair or to reactionaries. A better world is coming, and we can make it happen.
 date: 2017-01-31 17:57:01 -0500
 categories: 
   - resistance
