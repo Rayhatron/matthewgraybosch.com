@@ -5,7 +5,7 @@
     <ul>
       {% unless menu.title %}<li><h1 class="normal_font_size charcoal">{{ site.name }}</h1></li>{% endunless %}
       {% for item in menu.items %}
-      <li>{% if item.date %}<span class="small charcoal">{{ item.date }}</span>{% endif %} <a href="{{ item.url }}" class="link">{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
+      <li>{% if item.date %}<span class="small charcoal">{{ item.date }}</span>{% endif %} <a href="{{ item.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
       {% endfor %}
     </ul>
   </nav>

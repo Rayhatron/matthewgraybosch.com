@@ -12,11 +12,11 @@
     <ul>
     {% if include.limit %}
       {% for post in posts limit: include.limit %}
-      <li><span class="small charcoal">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" class="link">{{ post.title }}</a></li>
+      <li><span class="small charcoal">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ post.title }}</a></li>
       {% endfor %}
     {% else %}
       {% for post in posts %}
-      <li><span class="small charcoal">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" class="link">{{ post.title }}</a></li>
+      <li><span class="small charcoal">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ post.title }}</a></li>
       {% endfor %}
     {% endif %}
     </ul>

@@ -8,4 +8,4 @@ permalink: /blog/
 
 Here are all of the blog posts available on this site, in reverse chronological order. Have fun!
 
-{% include blog-nav-menu.html id="all_posts" aria_label="Full Post Archive" %}
+{% include blog-nav-menu.html id="all_posts" aria_label="Full Post Archive" underline_links="true" %}
