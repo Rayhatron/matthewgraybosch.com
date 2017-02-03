@@ -10,7 +10,7 @@ html {
   body:before, body:after {
     content: "";
     position: fixed;
-    background: $blue;
+    background: $material500;
     left: 0;
     right: 0;
     height: 3px;
@@ -30,8 +30,8 @@ html {
     max-width: $maxWidth;
     margin: $margin;
     padding: $padding;
-    color: $offBlack1;
-    background-color: $offWhite1;
+    color: $materialBlack;
+    background-color: $material50;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -41,7 +41,7 @@ html {
 
     h1, h2, h3, h4, h5, h6 {
       font-family: $systemSerif;
-      color: $offBlack2;
+      color: $material900;
       line-height: $headingLineHeight;
     }
 
@@ -62,8 +62,8 @@ html {
     * Blockquotes
     */
     blockquote {
-      color: $offBlack2;
-      border-left: 4px solid $silver;
+      color: $material100;
+      border-left: 4px solid $material200;
       padding-left: $spacing-unit / 2;
       font-style: italic;
 
@@ -84,9 +84,9 @@ html {
       margin-right: 0;
       padding: .25rem;
       width: 100%;
-      border: 1px solid $silver;
+      border: 1px solid $material200;
       border-radius: 3px;
-      background-color: $white;
+      background-color: $materialWhite;
       overflow: auto;
     }
 

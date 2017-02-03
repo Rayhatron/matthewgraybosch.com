@@ -6,20 +6,20 @@
 // taken from http://mrmrs.io/links/
 a {
   transition: color .4s;
-  color: $navy;
+  color: $materialA700;
   text-underline-position: under;
 }
 
 a:link,
 a:visited { 
-  color: $blue;
+  color: $materialA400;
 }
 a:hover   { 
-  color: $aqua; 
+  color: $materialA200; 
 }
 a:active  {
   transition: color .3s;
-  color: $teal;
+  color: $materialA100;
 }
 
 .link { text-decoration: none; }
@@ -45,16 +45,16 @@ a:active  {
 // Taken from http://clrs.cc
 /* Backgrounds */
 
-.bg-white {  background-color: $white; }
-.bg-offwhite { background-color: $offWhite2; }
+.bg-white {  background-color: $materialWhite; }
+.bg-offwhite { background-color: $material50; }
 
 /* Colors */
 
-.navy {       color: $navy; }
-.blue {       color: $blue; }
-.aqua {       color: $aqua; }
-.teal {       color: $teal; }
-.charcoal { color: $charcoal; }
+.navy {       color: $material900; }
+.blue {       color: $material700; }
+.aqua {       color: $material500; }
+.teal {       color: $material300; }
+.charcoal { color: $material400; }
 
 
 /* Border colors 
@@ -63,5 +63,5 @@ a:active  {
    i.e .border { border-width: 1px; border-style: solid; }     
 */
 
-.border-charcoal {    border-color: $charcoal; }
-.border-black {   border-color: $black; }
+.border-charcoal {    border-color: $material400; }
+.border-black {   border-color: $materialBlack; }
