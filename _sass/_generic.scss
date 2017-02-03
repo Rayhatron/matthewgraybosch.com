@@ -45,15 +45,15 @@ a:active  {
 // Taken from http://clrs.cc
 /* Backgrounds */
 
-.bg-white {  background-color: $materialWhite; }
-.bg-offwhite { background-color: $material50; }
+.bg-materialWhite {  background-color: $materialWhite; }
+.bg-material50 { background-color: $material50; }
 
 /* Colors */
 
-.navy {       color: $material900; }
-.blue {       color: $material700; }
-.aqua {       color: $material500; }
-.teal {       color: $material300; }
+.material900 {       color: $material900; }
+.material900 {       color: $material700; }
+.material900 {       color: $material500; }
+.material300 {       color: $material300; }
 .charcoal { color: $material400; }
 
 
@@ -64,4 +64,4 @@ a:active  {
 */
 
 .border-charcoal {    border-color: $material400; }
-.border-black {   border-color: $materialBlack; }
+.border-materialBlack {   border-color: $materialBlack; }
