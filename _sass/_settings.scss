@@ -8,10 +8,13 @@
  *
  */
 
+// Change value of color_scheme in _config.yml
+// Whenever you want to switch colors schemes.
+$colorScheme: {{ site.color_scheme }};
 // Material design colors for a consistent look. 
 // All color schemes live in _sass/material-colors.
-// To change color scheme, change this import statement.
-@import "material-colors/{{ site.color_scheme }}";
+
+@import "material-colors/$colorScheme";
 
 // Let's also make sure we always have the Material Gray 
 // palette, too. This lets us use off-whites and off-blacks
