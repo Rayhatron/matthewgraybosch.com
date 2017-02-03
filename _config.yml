@@ -12,6 +12,9 @@ url: "http://www.matthewgraybosch.com" # the base hostname & protocol for your s
 twitter_username: metalheadscifi
 github_username:  matthewgraybosch
 
+# This should affect Sass compilation. :)
+color_scheme: bluegray
+
 # Jekyll SEO Tag settings.
 twitter:
   username: metalheadscifi

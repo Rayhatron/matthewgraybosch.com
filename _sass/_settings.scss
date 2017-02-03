@@ -1,12 +1,17 @@
+---
+---
 /*
  * Settings. These are preprocessor variables for later use.
  * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
+ *
+ * I've got empty YAML tags so I can control color scheme from _config.yml. :)
+ *
  */
 
 // Material design colors for a consistent look. 
 // All color schemes live in _sass/material-colors.
 // To change color scheme, change this import statement.
-@import "material-colors/blue";
+@import "material-colors/{{ site.color_scheme }}";
 
 // Let's also make sure we always have the Material Gray 
 // palette, too. This lets us use off-whites and off-blacks
