@@ -14,7 +14,7 @@ $colorScheme: {{ site.color_scheme }};
 // Material design colors for a consistent look. 
 // All color schemes live in _sass/material-colors.
 
-@import "material-colors/$colorScheme";
+@import "material-colors/" + $colorScheme;
 
 // Let's also make sure we always have the Material Gray 
 // palette, too. This lets us use off-whites and off-blacks
