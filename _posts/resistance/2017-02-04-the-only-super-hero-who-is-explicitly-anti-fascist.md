@@ -8,7 +8,7 @@ categories:
 seo:
   type: BlogPosting
 ---
-I found this on Reddit a little while ago, and thought, "hell, yeah". So I decided to share it here with attribution and a link back to where I found it.
+I found this on Reddit a little while ago and thought, "hell yeah". So I decided to share it here with attribution and a link back to where I found it.
 
 {% include image.html src="http://i.imgur.com/qkQlEEd.jpg" alt="Captain America: a real patriot" caption="Art by Tom Hodges (Source: [Imgur](http://imgur.com/qkQlEEd))" %}
 
@@ -20,6 +20,6 @@ What about Superman? Like Frank Miller wrote in *The Dark Knight Returns*, Clark
 
 And let's not even get started on Batman. If Bruce Wayne was serious about cleaning up Gotham he'd kill the Joker and go after the *real* criminals: the ones who actually run shit.
 
-Who else is there? The only other superhero I can think of who is anti-fascist at the conceptual level is probably Wonder Woman. [However, her anti-fascism is probably second to her feminism. ](http://www.newyorker.com/magazine/2014/09/22/last-amazon). Which is probably as it should be...
+Who else is there? The only other superhero I can think of who is anti-fascist at the conceptual level is probably Wonder Woman. [However, her anti-fascism is probably second to her feminism.](http://www.newyorker.com/magazine/2014/09/22/last-amazon) Which is probably as it should be...
 
 If you can think of any other anti-fascist superheroes, link to this post and write your own blog post.
