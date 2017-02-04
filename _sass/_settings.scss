@@ -1,5 +1,3 @@
----
----
 /*
  * Settings. These are preprocessor variables for later use.
  * See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.tbp9yocm3 for details.
@@ -8,9 +6,7 @@
  *
  */
 
-// Change value of color_scheme in _config.yml
-// Whenever you want to switch colors schemes.
-$colorScheme: {{ site.color_scheme }};
+
 // Material design colors for a consistent look. 
 // All color schemes live in _sass/material-colors.
 
