@@ -110,6 +110,8 @@ html {
     img {
       max-width: 100%;
       vertical-align: middle;
+      border: 1px solid $material300;
+      border-radius: 3px;
     }
 
     nav {
