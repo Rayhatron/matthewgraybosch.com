@@ -3,6 +3,7 @@ layout: post
 title: The Only Superhero Who's Explicitly Anti-Fascist?
 description: Just sharing some Captain America art I found on Reddit
 date: 2017-02-04 00:12:01 -0500
+image: http://i.imgur.com/qkQlEEd.jpg
 categories: 
   - resistance
 seo:
