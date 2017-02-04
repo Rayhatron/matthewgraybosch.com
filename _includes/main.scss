@@ -4,7 +4,7 @@
 
 // Change value of color_scheme in _config.yml
 // Whenever you want to switch colors schemes.
-$colorScheme: {{ site.color_scheme }};
+$colorScheme: "{{ site.color_scheme }}";
 
 @import "settings";
 @import "tools";
