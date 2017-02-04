@@ -49,7 +49,8 @@
 }
 
 #article_footer {
-  border-top: 1px dotted $material800;
+  margin-top: 1rem;
+  border-top: 1px solid $material800;
 
   h2 {
     font-size: $fontSize;
@@ -58,6 +59,6 @@
 
 #page_footer {
   margin-top: 1rem;
-  border-top: 1px solid $material500;
+  border-top: 2px solid $material500;
   text-align: center;
 }
