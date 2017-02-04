@@ -18,6 +18,10 @@
   }
 }
 
+img.emoji {
+  border: none;
+}
+
 @media print { 
   body {
     font-family: $systemSerif !important;
