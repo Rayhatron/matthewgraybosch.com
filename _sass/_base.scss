@@ -31,7 +31,7 @@ html {
     margin: $margin;
     padding: $padding;
     color: $materialGray900;
-    background-color: $materialGray50;
+    background-color: rgba($materialGray50, .5);
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
