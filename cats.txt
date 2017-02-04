@@ -1,0 +1,14 @@
+/* MEOW */
+  The internet exists for one reason: cats. 
+  Here are the cats who helped build this website.
+
+/* CATS */
+  Cat: Virgil
+  Color: Black
+  Breed: Domestic Shorthair/Barn Cat
+  From: Center Hall, PA
+
+  Cat: Smudge
+  Color: Brown Tabby with White Patches
+  Breed: Domestic Shorthair/Maine Coon mix?
+  From: Middletown, PA

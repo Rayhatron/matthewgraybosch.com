@@ -1,5 +1,35 @@
 ---
 ---
+/* SO, YOU FOUND MY HUMANS.TXT FILE */
+  I doubt most people bother to look for this file in people's websites,
+  so you're one of a rare breed of Web surfer. Assuming you're classified
+  as human yourself, and aren't a robot or a meat popsicle.
+
+  If you ARE human, thanks for visiting. I hope you stick around a while
+  and come back often to find new goodies. Something like a CATS.TXT file,
+  perhaps? Heh-heh-heh.
+
+/* TEAM */
+  Author: {{ site.name }}
+  Site: {{ site.email }}
+  Twitter: @{{ site.twitter.username }}
+  From: {{ site.location }}
+
+/* THANKS */
+  Wife: Catherine Gatt
+  From: Melbourne, Australia
+
+/* SITE */
+  Last Update: {{ site.time | date: '%m/%d/%Y %l:%M:%S %z' }}
+  Language: English
+  Doctype: HTML5
+  Standards: HTML5, CSS3, WCAG 2.0 Level AAA, WAI-ARIA
+  Software: Jekyll, Atom, Github, Travis CI, rsync, ssh
+  Design Tools: Material Design
+  OS: GNU/Linux
+  Distribution: Manjaro
+  Host: Dreamhost
+
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNMMNNNNNNNNNNNNMNMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMM
@@ -67,37 +97,3 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMNddddd
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMNNNNNMMMMMMmmmmmmmmmmmmmmmdmmmmmdmmm
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmMMMMMMNNNNNNNNMNNmmmmmmmmmmmmmmmmmmmmmmmmm
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMNNNNNNMNNNNmNmmmmmmmmmmmmmmmmmmmmN
-
-/* TEAM */
-  Author: {{ site.name }}
-  Site: {{ site.email }}
-  Twitter: @{{ site.twitter.username }}
-  From: {{ site.location }}
-
-/* THANKS */
-  Wife: Catherine Gatt
-  From: Melbourne, Australia
-  
-  Cat: Virgil
-  From: Center Hall, PA
-
-  Cat: Smudge
-  From: Middletown, PA
-
-/* SITE */
-  Last Update: {{ site.time | date: '%m/%d/%Y %l:%M:%S %z' }}
-  Language: English
-  Doctype: HTML5
-  Standards: HTML5, CSS3, WCAG 2.0 Level AAA, WAI-ARIA
-  Software: Jekyll, Atom, Github, Travis CI, rsync, ssh
-  Design Tools: Material Design
-  OS: GNU/Linux
-  Distribution: Manjaro
-  Host: Dreamhost
-
-/* FUCK YOU */
-  The new Hitler: Donald Trump
-  The new Himmler: Mike Pence
-  The new Goebbels: Steve Bannon
-  The new Goering: Reince Priebus
-  The new Braun: Melania Trump
