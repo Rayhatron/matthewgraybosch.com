@@ -21,7 +21,7 @@ tags:
   - spoilers
   - The Black Company
 ---
-{% include toc %}
+
 
 Hi, and welcome to the first real installment in my [re-read of Glen Cook's _The Black Company_](http://www.matthewgraybosch.com/2016/03/introducing-the-black-company-by-glen-cook/). If you're familiar with the concept of a read-along blog thanks to Tor.com efforts like the [Malazan Re-Read of the Fallen](http://www.tor.com/series/malazan-reread-of-the-fallen/), I think you'll find that I take a similar approach.
 

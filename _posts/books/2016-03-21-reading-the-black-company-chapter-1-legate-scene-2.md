@@ -26,7 +26,7 @@ tags:
   - The Black Company
   - unintended parallels
 ---
-{% include toc %}
+
 
 After the [portentious first scene of "Legate"](http://www.matthewgraybosch.com/2016/03/reading-the-black-company-chapter-1-legate-scene-1/), the first chapter of [Glen Cook's _The Black Company_](http://www.matthewgraybosch.com/2016/03/introducing-the-black-company-by-glen-cook/), Glen drops us right in the middle of the shit. Expect spoilers ahead.
 

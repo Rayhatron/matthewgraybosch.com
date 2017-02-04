@@ -24,7 +24,7 @@ tags:
   - The Limper
   - The Ten Who Were Taken
 ---
-{% include toc %}
+
 
 Are you sick of fantasy where you hear mainly from kings and wizards and elves, but never get to hear from the guys in the trenches? Do you want dark fantasy from the viewpoint of the men and the women stuck doing the dirty work? Do you just want to read about believable badasses? Glen Cook has the novel for you, and he first published it in 1984. It's called *The Black Company*.
 
