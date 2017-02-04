@@ -12,14 +12,14 @@ a {
 
 a:link,
 a:visited { 
-  color: $materialA400;
+  color: $materialA200;
 }
 a:hover   { 
-  color: $materialA200; 
+  color: $materialA100; 
 }
 a:active  {
   transition: color .3s;
-  color: $materialA100;
+  color: $materialA400;
 }
 
 .link { text-decoration: none; }
