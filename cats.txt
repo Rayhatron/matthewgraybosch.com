@@ -12,3 +12,6 @@
   Color: Brown Tabby with White Patches
   Breed: Domestic Shorthair/Maine Coon mix?
   From: Middletown, PA
+
+/* PURRPURRPURR */
+  Last Petting: {{ site.time | date: '%m/%d/%Y %l:%M:%S %z' }}
