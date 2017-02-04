@@ -29,9 +29,9 @@ The problem is that I must go through the page and wire up every last donkey-mol
   </div>
 ~~~
 
-Naturally, it's a Bootstrap app so it's ```<div>``` soup. And because *none* of the inputs were wired to labels, I've got to go through a hundred of the damned things and wire up every one of them by hand.
+Naturally, it's a Bootstrap app so it's ```<div>``` soup. And because *none* of the inputs were wired to labels, I've got to go through a hundred of the damned things and wire up every one of them by hand. This is the sort of [grunt work](http://idioms.thefreedictionary.com/grunt+work) I became a programmer to *avoid* doing. 
 
-This is the sort of [grunt work](http://idioms.thefreedictionary.com/grunt+work) I became a programmer to *avoid* doing. Actually, the sort of grunt work I wanted to escape also involved scraping baby barf off of floors, erasing homeless people's attempts at fecal fingerpainting, and not going postal every Christmas because of the shitty muzak and parents dragging their kids into the store when they're tired, cranky, and have an acute (but not at all cute) case of the mommylookits. 
+Actually, the sort of grunt work I wanted to escape also involved scraping baby barf off of floors, erasing homeless people's attempts at fecal fingerpainting, and not going postal every Christmas because of the shitty muzak and parents dragging their kids into the store when they're tired, cranky, and have an acute (but not at all cute) case of the mommylookits. 
 
 However, it's still the sort of grunt work that should be automated or delegated to a junior developer, but a junior dev who doesn't grok the importance of accessibility already fucked up this page. That leaves automation, which means I'd have to find a HTML parser library that can cope with the proprietary controls I'm actually using instead of ```<label>``` and ```<input>```. Either that, or start [figuring out how to parse HTML with regular expressions](https://blog.codinghorror.com/parsing-html-the-cthulhu-way/).
 
