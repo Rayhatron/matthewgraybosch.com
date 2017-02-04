@@ -21,10 +21,15 @@ The problem is that I must go through the page and wire up every last donkey-mol
 ~~~ html
   <div class="row form-group">
     <div class="col-sm-3">
-      <label for="exampleFormInput" aria-label="This is a form input element.">Form Input Element</label>
+      <label for="exampleFormInput"  
+             aria-label="This is a form input element.">  
+             Form Input Element
+      </label>
     </div>
     <div class="col-sm-9">
-      <input id="exampleFormInput" type="text" size="255" />
+      <input id="exampleFormInput"  
+             type="text"  
+             size="255" />
     </div>
   </div>
 ~~~
