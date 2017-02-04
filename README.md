@@ -8,10 +8,10 @@ If you want to fork it, you can, but please check the [forking](#forking) sectio
 
 ## Built with...
 
-* http://jekyllrb.com
-* http://travis-ci.org
-* http://mrmrs.io/links/
-* http://clrs.cc
+* [Jekykll](http://jekyllrb.com)
+* [Travis CI](http://travis-ci.org)
+* [Links](http://mrmrs.io/links/)
+* [Material Design colors](https://material.io/guidelines/style/color.html#color-color-palette)
 * heavy metal
 * weapons-grade kitten love
 
