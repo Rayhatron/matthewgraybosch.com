@@ -2,10 +2,11 @@
 // uses ITCSS architecture.
 // See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.dm4sr8ywt for details.
 
+// Material design colors for a consistent look. 
+// All color schemes live in _sass/material-colors.
+@import "material-colors/{{ site.color_scheme }}";
 // Change value of color_scheme in _config.yml
 // Whenever you want to switch colors schemes.
-$colorScheme: "{{ site.color_scheme }}";
-
 @import "settings";
 @import "tools";
 @import "generic";
