@@ -38,7 +38,7 @@ But if you try to counter speech with violence of any kind or the threat thereof
 
 ## Concerning Bigoted Speech
 
-One commenter on the Reddit thread that inspired this post said the following at the end of their comment. I won't link to it because the thread itself has been locked and removed.
+One commenter on the Reddit thread that inspired this post said the following at the end of their comment. I won't link to it or name names because the thread itself has been locked and removed.
 
 > It should be possible to say to someone "I think what you said was a little bit racist" and not have it be a big deal.
 
