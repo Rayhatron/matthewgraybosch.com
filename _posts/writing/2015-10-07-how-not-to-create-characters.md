@@ -112,4 +112,4 @@ That's how I ended up with a science fantasy series for metalheads involving cat
 
 {% include image.html src="/assets/images/fullsize/starbreaker-cast-imaginos.jpg" alt="promotional artwork" caption="Artwork by [Harvey Bunda](https://harveybunda.com) commissioned by the author" %}
 
-If you enjoyed this post, please consider buying a copy of [_Without Bloodshed_](/books/starbreaker/without-bloodshed/) or [_Silent Clarion_](/books/starbreaker/silent-clarion/). I'd appreciate the support.
+If you enjoyed this post, please consider buying a copy of [_Without Bloodshed_](/stories/starbreaker/without-bloodshed/) or [_Silent Clarion_](/stories/starbreaker/silent-clarion/). I'd appreciate the support.

@@ -2,12 +2,16 @@ home:
   items:
     - title: About
       url: /about/
+    - title: Stories
+      url: /stories/
 page:
   items:
     - title: Home
       url: /
     - title: About
       url: /about/
+    - title: Stories
+      url: /stories/
 blog:
   items:
     - title: Home
@@ -16,14 +20,16 @@ blog:
       url: /about/
     - title: Blog
       url: /blog/
+    - title: Stories
+      url: /stories/
 starbreaker:
   items:
     - title: Home
       url: /
     - title: About
       url: /about/
-    - title: Starbreaker
-      url: /starbreaker/
+    - title: Stories
+      url: /stories/
 about:
   title: "Further Information"
   description: "You'll find everything you need here. Just use the links below."
@@ -37,17 +43,17 @@ wip:
   description: "Here's what I'm working on now. Bookmark the links below and visit often to keep up with my progress."
   items:
     - title: "*Blackened Phoenix*"
-      url: /books/starbreaker/blackened-phoenix/
+      url: /stories/starbreaker/blackened-phoenix/
       date: first draft
 novels:
   title: "Novels"
   description: "I've published the following novels. Click the links below for descriptions, excerpts, and purchase links."
   items:
     - title: "*Silent Clarion*"
-      url: /books/starbreaker/silent-clarion/
+      url: /stories/starbreaker/silent-clarion/
       date: 2016
     - title: "*Without Bloodshed*"
-      url: /books/starbreaker/without-bloodshed/
+      url: /stories/starbreaker/without-bloodshed/
       date: 2013
 shorts:
   title: "Short Stories, Novelettes, and Novellas"

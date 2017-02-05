@@ -42,4 +42,4 @@ However, it's still the sort of grunt work that should be automated or delegated
 
 If the Coding Horror post I just linked is any indication, *that way lies madness*. The problem is that I'm not sane. I'm just high-functioning.
 
-Though I probably could have wired up a dozen fields in the fifteen minutes I spent on this post, so maybe I'm *not* high-functioning. Maybe I've finally lost it. In which case you're all *fucked* once I start working on [*Blackened Phoenix*](/books/starbreaker/blackened-phoenix/) again.
+Though I probably could have wired up a dozen fields in the fifteen minutes I spent on this post, so maybe I'm *not* high-functioning. Maybe I've finally lost it. In which case you're all *fucked* once I start working on [*Blackened Phoenix*](/stories/starbreaker/blackened-phoenix/) again.

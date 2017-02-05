@@ -18,7 +18,7 @@ It no doubt stops a great many writers dead in their tracks. Hell, it's even sto
 
 This may seem counterintuitive, if not outright crazy&mdash;especially for writers of science fiction and fantasy. However, I've found that writers who take ["write what you know"](https://litreactor.com/columns/write-what-you-like-why-write-what-you-know-is-bad-advice) too literally either write nothing at all, or wind up writing ~~total postmodern wank~~ literary fiction.
 
-So, I ignore that advice. I didn't need to know how a Gauss rifle works to use it in a first draft of a novel like [*Without Bloodshed*](/books/starbreaker/without-bloodshed/). I just needed to know how it fit into my story. I just needed to know what effect it's likely to have on my characters and the plot. As long as I had that, I could leave a TODO note in my text and come back to it during revision once I had my facts straight.
+So, I ignore that advice. I didn't need to know how a Gauss rifle works to use it in a first draft of a novel like [*Without Bloodshed*](/stories/starbreaker/without-bloodshed/). I just needed to know how it fit into my story. I just needed to know what effect it's likely to have on my characters and the plot. As long as I had that, I could leave a TODO note in my text and come back to it during revision once I had my facts straight.
 
 Most importantly, I just needed to know it's [friggin' awesome](http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCool). That's right. I go by what I think is cool. I advise you to do the same. Don't write what you know. Write what makes you want to *rock out with your cock out*. 
 
