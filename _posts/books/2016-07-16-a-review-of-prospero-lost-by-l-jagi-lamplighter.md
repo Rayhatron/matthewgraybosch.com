@@ -23,6 +23,18 @@ tags:
   - mythology
   - Santa Claus
 ---
+---
+layout: post
+title: Review: PROSPERO LOST by L. Jagi Lamplighter
+description: Catherine brought back a copy of L. Jagi Lamplighter's PROSPERO LOST from Australia. Here's my review.
+date: 2016-07-16 20:00:00 -500
+updated: 2017-02-04 12:32:00 -0500
+image: /assets/images/fullsize/l-jagi-lamplighter-prospero-lost.jpg
+categories: 
+  - books
+seo:
+  type: BlogPosting
+---
 The Bard didn't tell the whole story. Not even close. The real story began after the curtain closed and the actors took their bows.
 
 While it helps to be familiar with Shakespeare's last play, *The Tempest*, this familiarity isn't necessary because Ms. Lamplighter gives you the gist of the original story while justifying her novel's deviations from Shakespeare. However, to suggest she deviates is something of a disservice. Rather, she plays a series of variations on Shakespeare's themes while writing a modern literary fantasy of her own that begins with Miranda, Prospero's daughter and Handmaiden of Eurynome (which Ms. Lamplighter has identified to an extent with Sophia of gnostic belief), finding a message from her father in letters of fire.
@@ -35,12 +47,16 @@ While I enjoyed *Prospero Lost* and devoured it in two nights after my wife brou
 
 Get these covers while you can, incidentally. L. Jagi Lamplighter is working on [reissues with new artwork.](http://www.ljagilamplighter.com/2016/07/08/magic-come-to-life/)
 
-[{% picture l-jagi-lamplighter-prospero-lost.jpg alt="Prospero Lost: original cover" class="article__image" %}](http://www.ljagilamplighter.com/works/prospero-daughter/)
+[{% include image.html src="/assets/images/fullsize/l-jagi-lamplighter-prospero-lost.jpg alt="the first book" caption="*Prospero Lost*: original cover" %}](http://www.ljagilamplighter.com/works/prospero-daughter/)
+
+## Prospero In Hell
 
 Get this next.
 
-[{% picture l-jagi-lamplighter-prospero-in-hell.jpg alt="Prospero in Hell: original cover" class="article__image" %}](http://www.ljagilamplighter.com/works/prospero-daughter/)
+[{% include image.html src="/assets/images/fullsize/l-jagi-lamplighter-prospero-in-hell.jpg alt="the second book" caption="*Prospero in Hell*: original cover" %}](http://www.ljagilamplighter.com/works/prospero-daughter/)
+
+## Prospero Regained
 
 And don't forget the end of the trilogy.
 
-[{% picture l-jagi-lamplighter-prospero-regained.jpg alt="Prospero Regained: original cover" class="article__image" %}](http://www.ljagilamplighter.com/works/prospero-daughter/)
+[{% include image.html src="/assets/images/fullsize/l-jagi-lamplighter-prospero-regained.jpg alt="the final book" caption="*Prospero Regained*: original cover" %}](http://www.ljagilamplighter.com/works/prospero-daughter/)
