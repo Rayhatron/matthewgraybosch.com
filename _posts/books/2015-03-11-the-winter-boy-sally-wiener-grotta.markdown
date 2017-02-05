@@ -37,7 +37,7 @@ Amidst this gathering political maelstrom, Rishana, a young new idealistic Alles
 
 ## Listen to a Reading
 
-{% include youtube.html src="https://www.youtube.com/watch?v=VNwAbUYE3JM" caption="First Public Reading of *The Winter Boy* at ReaderCon 2014" %}
+{% include youtube.html src="https://www.youtube.com/embed/VNwAbUYE3JM" caption="First Public Reading of *The Winter Boy* at ReaderCon 2014" %}
 
 ## Buy *The Winter Boy*
 
