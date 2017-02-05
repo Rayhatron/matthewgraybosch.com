@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blackened Phoenix
-permalink: /books/blackened-phoenix/
 description: "Blackened Phoenix, the next Starbreaker novel by Matthew Graybosch, is coming soon."
 image: /assets/images/fullsize/wip-cover-blackenedphoenix.jpg
 permalink: /stories/starbreaker/blackened-phoenix/
