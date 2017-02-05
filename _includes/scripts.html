@@ -15,8 +15,7 @@ $(document).ready(function() {
 <script src="{{ site.url }}/assets/js/jquery.fitvids.js" type="text/javascript" async="true"></script>
 <script type="text/javascript">
   $(document).ready(function(){
-    // Target your .container, .wrapper, .post, etc.
-    $(".video-embed").fitVids();
+    $('iframe[src*="youtube"]').parent().fitVids();
   });
 </script>
 {% endif %}
