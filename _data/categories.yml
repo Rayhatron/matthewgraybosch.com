@@ -1,39 +1,52 @@
 writing:
   title: "How Not to Write"
+  archiveTitle: "Writing"
   description: "I'd have to be crazy to tell you how to write, and you'd have to be just as crazy to take my advice. However, I've made a lot of mistakes over the years. Here's where I recount them for your edification."
 withoutbloodshed:
   title: "*Without Bloodshed* News"
+  archiveTitle: "*Without Bloodshed*"
   description: "Posts concerning my efforts to promote [*Without Bloodshed*](/books/starbreaker/without-bloodshed/). Look for sales announcements here, as well as links to reviews and events. If I get a movie deal, you'll hear about it here."
 silentclarion:
   title: "*Silent Clarion* News"
+  archiveTitle: "*Silent Clarion*"
   description: "Posts concerning my efforts to promote [*Silent Clarion*](/books/starbreaker/silent-clarion/). Look for sales announcements here, as well as links to reviews and events. If I get a movie deal, you'll hear about it here."
 blackenedphoenix:
   title: "*Blackened Phoenix* Production Diary"
+  archiveTitle: "*Blackened Phoenix*"
   description: "Do you want the latest news on my next Starbreaker novel, [*Blackened Phoenix*](/books/starbreaker/blackened-phoenix/)? You can get it right here. Get a peek at what I'm thinking as I write my next novel, and see what I've been researching."
 books:
   title: "Nothing Like a Good Book"
+  archiveTitle: "Books"
   description: "You can't be a writer if you're not a reader. Here's where I talk about books I've read. When friends and fans release new titles, I sometimes plug them."
 development:
   title: "Software Development Considered Harmful"
+  archiveTitle: "Development"
   description: "Posts about web development, backend action, database shenanigans, Sillycon Valley, Unix, and general tech wankery. Expect sarcasm, cynicism, bitterness, and profanity. Everything here is strictly my own opinion, and not representative of my employers' views or those of their clients."
 games:
   title: "Hardcore Casual"
+  archiveTitle: "Games"
   description: "I'm probably the most hardcore casual gamer you've ever met, and here is where I talk about games I've played, and my PSN tag is [EddieVanHelsing](https://psnprofiles.com/EddieVanHelsing). Expect posts about RPGs, action games, shoot-'em-ups, roguelikes, and obscure games."
 manhood:
   title: "It's a Man's Life for Me"
+  archiveTitle: "Manhood"
   description: "If you're looking for advice on *how* to be a man, look elsewhere. I'm still figuring it out myself. Instead, you'll find posts about life as a married man. Sometimes I talk intersectional feminism here, too, since I find it a useful tool for understanding men's issues.'"
 music:
   title: "Devil-Killer Music"
+  archiveTitle: "Music"
   description: "Sometimes you just need to rock out with your cock out, and best way to do that is with music so awesome that if you crank it up too loud, angels and demons alike will beg you for mercy. And that's when you put on the really *nasty* stuff. :metal:"
 movies:
   title: "Two Middle Fingers Up"
+  archiveTitle: "Movies"
   description: "I'm not really into TV or movies. But if I do watch something, and it leaves enough of an impression on me for me to have an opinion about it, you'll find posts about it here."
 opinions:
   title: "Opinions &amp; Assholes"
+  archiveTitle: "Opinion"
   description: "We all got 'em, and they all stink. But because this is my site I'm gonna show you mine anyway. Deal with it. :sunglasses:"
 resistance:
   title: "The Quiet Resistance"
+  archiveTitle: "Resistance"
   description: "Posts about resisting tyranny in America and across the world, whether it's Donald Trump, the Republican Party, DAESH, or God Itself. *Liberté, égalité, justice, et fraternité*."
 alchemistscouncil:
-  title: "The Rebel Branch Initiate's Guide"
+  title: "The Rebel Branch Initiate's Guide to The Alchemists' Council"
+  archiveTitle: "The Alchemists' Council'"
   description: "This is a commentary series I started writing in 2016 after getting an advance review copy of *The Alchemists' Council* by Cynthea Masson at the 2015 World Fantasy Convention and reading the production version. I've been writing from the viewpoint of a member of the novel's antagonistic faction, and it's intended as a guide for the perplexed. It's authorized by the author, and I really should finish it. Expect spoilers galore."

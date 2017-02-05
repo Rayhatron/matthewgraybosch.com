@@ -1,7 +1,7 @@
 <nav id="category_list" aria-label="Blog Category Menu">
     <ul>
       {% for category in site.data.categories sort:  category[1].title %}
-        <li><span class="small material400">{{ category[0] | upcase }}:</span> <a href="{{ site.url }}/blog/{{ category[0] }}/">"{{ category[1].title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</a></li>
+        <li>{{ category[1].archiveTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</li>
       {% endfor %}
     </ul>
   </nav>

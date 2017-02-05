@@ -8,7 +8,7 @@ layout: default
 <main id="main_content">
   <article>
     <header id="article_header">
-      <h1>{{ page.title }}</h1>
+      <h1>{% unless page.altTitle %}{{ page.title }}{% else %}{{ page.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h1>
       {% include reading-time.html %}
     </header>
     <section id="article_content">
