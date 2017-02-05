@@ -8,6 +8,8 @@ categories:
   - books
 seo:
   type: BlogPosting
+options:
+  fitvids: true
 ---
 I got a free copy of *The Winter Boy* in my World Fantasy Convention book bag, and met the author and her husband at the con, where Ms. Grotta was kind enough to sign my copy. 
 

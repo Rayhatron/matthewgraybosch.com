@@ -1,4 +1,4 @@
-{% if page.options.jquery or page.options.highlight %}
+{% if page.options.jquery or page.options.highlight or page.options.fitvids %}
 <script src="{{ site.url }}/assets/js/jquery-3.1.1.min.js" type="text/javascript" async="true"></script>
 {% endif %}
 {% if page.options.highlight %}
@@ -9,5 +9,14 @@ $(document).ready(function() {
     hljs.highlightBlock(block);
   });
 });
+</script>
+{% endif %}
+{% if page.options.fitvids %}
+<script src="{{ site.url }}/assets/js/jquery.fitvids.js" type="text/javascript" async="true"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".video-embed").fitVids();
+  });
 </script>
 {% endif %}
