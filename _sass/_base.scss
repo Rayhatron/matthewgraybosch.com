@@ -105,10 +105,8 @@ html {
       font-size: .85rem;
       text-align: right;
     }
-    /**
-      * Images
-      */
-    img {
+  
+    img, iframe {
       max-width: 100%;
       vertical-align: middle;
       border: 1px solid $material300;

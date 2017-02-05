@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "THE WINTER BOY by Sally Wiener Grotta"
+title: "*The Winter Boy* by Sally Wiener Grotta"
 description: "Sally Wiener Grotta's THE WINTER BOY is an excellent post-collapse feminist fantasy novel from Pixel Hall Press"
 date: 2015-03-11 20:47:57  -0500
 date: 2015-03-16 20:47:57  -0500
 categories: 
   - books
 seo:
+  title: "THE WINTER BOY by Sally Wiener Grotta"
   type: BlogPosting
 options:
   fitvids: true
