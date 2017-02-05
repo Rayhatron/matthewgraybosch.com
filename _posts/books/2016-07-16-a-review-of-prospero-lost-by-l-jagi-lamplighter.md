@@ -1,29 +1,4 @@
 ---
-title: "A Review of *Prospero Lost* by L. Jagi Lamplighter"
-excerpt: "Catherine came back from Australia with a copy of L. Jagi Lamplighther's *Prospero Lost* as a gift, and I devoured it in two nights. Here's my review."
-header:
-  image: l-jagi-lamplighter-prospero-lost.jpg
-  teaser: l-jagi-lamplighter-prospero-lost.jpg
-  caption: "[Original cover of *Prospero Lost*](http://www.ljagilamplighter.com/works/prospero-daughter/)"
-categories:
-  - Books
-tags:
-  - L. Jagi Lamplighter
-  - Prospero Lost
-  - Prospero's Daughter
-  - William Shakespeare
-  - The Tempest
-  - Prospero
-  - Miranda
-  - fantasy
-  - urban fantasy
-  - noir
-  - demons
-  - spirits
-  - mythology
-  - Santa Claus
----
----
 layout: post
 title: Review: PROSPERO LOST by L. Jagi Lamplighter
 description: Catherine brought back a copy of L. Jagi Lamplighter's PROSPERO LOST from Australia. Here's my review.
