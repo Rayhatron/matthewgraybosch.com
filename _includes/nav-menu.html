@@ -3,9 +3,9 @@
     {% if menu.title %}<h2>{{ menu.title }}</h2>{% endif %}
     {% if menu.description %}<p>{{ menu.description | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
     <ul>
-      {% unless menu.title %}<li><h1 class="normal_font_size charcoal">{{ site.name }}</h1></li>{% endunless %}
+      {% unless menu.title %}<li><h1 class="normal_font_size material400">{{ site.name }}</h1></li>{% endunless %}
       {% for item in menu.items %}
-      <li>{% if item.date %}<span class="small charcoal">{{ item.date }}</span>{% endif %} <a href="{{ item.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
+      <li>{% if item.date %}<span class="small material400">{{ item.date }}</span>{% endif %} <a href="{{ item.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ item.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</a></li>
       {% endfor %}
     </ul>
   </nav>

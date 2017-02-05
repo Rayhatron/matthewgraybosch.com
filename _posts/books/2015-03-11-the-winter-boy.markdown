@@ -1,25 +1,19 @@
 ---
-
-title: "The Winter Boy"
-author: mgraybosch
-share: true
-comments: true
-modified: 2015-03-14
-categories: fantasy
-excerpt: I got a free copy of The Winter Boy in my World Fantasy Convention book bag and had the honor of meeting Sally Wiener Grotta.
-tags: [Sally Wiener Grotta, wfc2014, Pixel Hall Press, Locus nominee, cultural fantasy, feminist fantasy, post-collapse fantasy, literary fantasy, science fantasy, slipstream, United States]
-image:
-  feature: winter-boy-featured.jpg
-  credit: Pixel Hall Press
-  creditlink: http://www.pixelhallpress.com/the_winter_boy.html
-date: 2015-03-11T00:29:20-04:00
+layout: post
+title: "THE WINTER BOY by Sally Wiener Grotta"
+description: "Sally Wiener Grotta's THE WINTER BOY is an excellent post-collapse feminist fantasy novel from Pixel Hall Press"
+date: 2015-03-11 20:47:57  -0500
+date: 2015-03-16 20:47:57  -0500
+categories: 
+  - books
+seo:
+  type: BlogPosting
 ---
-I got a free copy of *The Winter Boy* in my World Fantasy Convention book bag, and met the author and her husband at the con, where Ms. Grotta was kind enough to sign my copy.
+I got a free copy of *The Winter Boy* in my World Fantasy Convention book bag, and met the author and her husband at the con, where Ms. Grotta was kind enough to sign my copy. 
+
+I ended up reading it while sick with my first [con flu](http://www.urbandictionary.com/define.php?term=con%20flu), but re-read it for my review.
 
 You can read [an excerpt of *The Winter Boy*](http://www.pixelhallpress.com/_assets/The%20Winter%20Boy%20by%20Sally%20Wiener%20Grotta%20EXCERPT.pdf) at the [Pixel Hall Press website](http://pixelhallpress.com), or continue reading.
-
-* Table of Contents
-{:toc}
 
 ## Review
 
@@ -37,11 +31,11 @@ The Valley of the Alleshi is the center of all civilization, the core and founda
 
 Amidst this gathering political maelstrom, Rishana, a young new idealistic Allesha, takes her First Boy, Ryl, for a winter season of training. But Ryl is a “problem boy” who fights Rishana every step of the way. At the same time, Rishana uncovers a web of conspiracies that could not only destroy Ryl, but threatens to tear their entire society apart. And a winter that should have been a gentle, quiet season becomes one of conflict, anger and danger.
 
-![Cover for The Winter Boy by Sally Wiener Grotta](/images/winter-boy-cover.jpg "Cover for The Winter Boy by Sally Wiener Grotta")
+{% include image.html src="/assets/images/fullsize/winter-boy-cover.jpg" alt="book cover" caption="Cover for *The Winter Boy* by Sally Wiener Grotta" %}
 
 ## Listen to a Reading
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VNwAbUYE3JM" frameborder="0" allowfullscreen> </iframe>
+{% include youtube.html src="https://www.youtube.com/watch?v=VNwAbUYE3JM" caption="First Public Reading of *The Winter Boy* at ReaderCon 2014" %}
 
 ## Buy *The Winter Boy*
 
@@ -71,4 +65,4 @@ Promotional copy, author bio, and publisher info taken from [Pixel Hall Press](h
 
 ## Updates/Errata
 
-**16 March 2015**: This article contained multiple instances in which the author misspelled Sally Wiener Grotta's middle name. We have corrected this, and the author is being flogged for his incompetence.
+This article contained multiple instances in which the author misspelled Sally Wiener Grotta's middle name. We corrected this after flogging the author with a knout for his incompetence.

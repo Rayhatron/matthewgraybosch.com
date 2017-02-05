@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: PROSPERO LOST by L. Jagi Lamplighter
+title: Review of PROSPERO LOST by L. Jagi Lamplighter
 description: Catherine brought back a copy of L. Jagi Lamplighter's PROSPERO LOST from Australia. Here's my review.
 date: 2016-07-16 20:00:00 -500
 updated: 2017-02-04 12:32:00 -0500
