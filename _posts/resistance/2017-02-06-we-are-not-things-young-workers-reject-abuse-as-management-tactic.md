@@ -75,7 +75,7 @@ Relatively enlightened companies will attempt to clamp down on workplace bullyin
 
 If profit isn't a good reason to treat workers humanely, then what is? How about for the same reason it was wrong for Immortan Joe in *Mad Max: Fury Road* to hold women captive and use them as breeding stock?
 
-{% include image.html src="/assets/images/fullsize/we_are_not_things_by_crisisdeansiedad-d8v1y20.jpg" alt="artwork inspired by Mad Max: Fury Road" caption="[&quot;We Are Not Thingsquot;](http://crisisdeansiedad.deviantart.com/art/We-are-not-things-535888296) by [Chrisdeanisdead](http://crisisdeansiedad.deviantart.com/)" %}
+{% include image.html src="/assets/images/fullsize/we_are_not_things_by_crisisdeansiedad-d8v1y20.jpg" alt="artwork inspired by Mad Max: Fury Road" caption="[&quot;We Are Not Things&quot;](http://crisisdeansiedad.deviantart.com/art/We-are-not-things-535888296) by [Chrisdeanisdead](http://crisisdeansiedad.deviantart.com/)" %}
 
 People who work for a living are not things. They are not "human capital". They are not "human resources", or resources of any other kind. They are *human beings* and possess [*human rights*](http://www.un.org/en/universal-declaration-human-rights/). Workers do *not* leave their human rights behind when they come to work, even if some managers and businessmen believe otherwise.
 
