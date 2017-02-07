@@ -133,7 +133,7 @@ No freedom and no measure of justice or equality is ever won without a fight. Fu
 
 If you don't want that to happen, then we still need strong labor unions.
 
-## Solidarity is the answer
+## Solidarity Is The Key
 
 We can reclaim our dignity as workers, and force those who hire us to work for them to treat us like human beings instead of things. But it's going to be a struggle, and we need to stand together. If we let ourselves be divided, they will conquer us.
 
