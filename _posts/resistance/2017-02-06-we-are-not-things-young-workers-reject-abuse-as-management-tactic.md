@@ -8,6 +8,8 @@ categories:
   - resistance
 seo:
   type: BlogPosting
+options:
+  fitvids: true
 ---
 I saw a moderately interesting "trend piece" on [Reddit's r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/comments/5scdex/millennials_arent_coddled_they_just_reject_abuse/) this morning, and it got me thinking. As I posted [on Reddit](https://www.reddit.com/r/LateStageCapitalism/comments/5scdex/millennials_arent_coddled_they_just_reject_abuse/ddefzd2/):
 
