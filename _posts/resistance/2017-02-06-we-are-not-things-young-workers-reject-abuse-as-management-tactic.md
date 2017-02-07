@@ -123,17 +123,19 @@ Whether a union can *resist* corruption depends on the integrity of those electe
 
 #### Unions Are Effective
 
-Unions won workers weekends, forty-hour workweeks, unemployment insurance, workers' compensation, and heavy regulations on child labor. Unions fight for pay raises, better working conditions, better benefits, and due process to ensure that workers aren't turned out of their jobs without cause.
+Unions won workers weekends, forty-hour workweeks, unemployment insurance, workers' compensation, overtime pay, and heavy regulations on child labor. Unions fight for pay raises, better working conditions, better benefits, and due process to ensure that workers aren't turned out of their jobs without cause.
 
-If they weren't effective, conservatives wouldn't put so much effort into union busting.
+If they weren't effective, conservatives wouldn't put so much effort into union busting, and businessmen wouldn't have unions of their own such as the [US Chamber of Commerce](https://www.uschamber.com/).
+
+Your bosses understand the value of organization and collective bargaining, as well as lobbying in Washington, DC and in local and state government. That's why they want to deny us workers the ability to do the same.
 
 #### Unions Are *Still* Necessary
 
 No freedom and no measure of justice or equality is ever won without a fight. Furthermore, eternal vigilance is the price of freedom, justice, and equality. If you turn your back on the bastards for a *second*, the capitalists and their pet politicians will try to take back everything we've forced them to give us as our rightful due.
 
-If you don't want that to happen, then we still need strong labor unions.
+The forty hour workweek is already a thing of the past for many workers. Wage theft is rampant. Life for workers will only get worse unless we fight back. To effectively combat anti-worker trends in business, we still need strong labor unions.
 
-## Solidarity Is The Key
+## Victory Through Solidarity
 
 We can reclaim our dignity as workers, and force those who hire us to work for them to treat us like human beings instead of things. But it's going to be a struggle, and we need to stand together. If we let ourselves be divided, they will conquer us.
 
