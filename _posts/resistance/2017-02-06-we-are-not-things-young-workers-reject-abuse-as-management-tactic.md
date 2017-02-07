@@ -2,7 +2,7 @@
 layout: post
 title: "We Are Not Things; or, Young Workers Reject Abuse as Management Tactic"
 description: Co-opting/appropriation or not, but "We Are Not Things" is a slogan workers need.
-date: 2017-02-04 00:12:01 -0500
+date: 2017-02-06 19:37:01 -0500
 image: /assets/images/fullsize/we_are_not_things_by_crisisdeansiedad-d8v1y20.jpg
 categories: 
   - resistance
