@@ -8,6 +8,8 @@ categories:
   - opinions
 seo:
   type: BlogPosting
+options:
+  - fitvids: true
 ---
 I saw this screenshot of a tweet by [Tom Nichols](https://www.usnwc.edu/Academics/Faculty/Thomas-M--Nichols,-Ph-D-.aspx), national security expert, Naval War College professor, and _Jeopardy!_ Tournament of Champions winner on Reddit this afternoon, and it rubbed me the wrong way because I used to work in retail as a student. 
 
@@ -17,11 +19,11 @@ If you're on a really slow connection, this image doesn't show up, or you don't 
 
 > Dear Every Cashier in America: the proper response to "thank you" is "you're welcome," not "no problem." And \*you're\* supposed to thank \*me\*.
 
-When other Twitter users pushed back, he went on to write an article in [*The Federalist*] called "It's Not Oppression to Say "Thank You"] in which he asked, ["When did the customer become the person in a transaction to say 'Thank you,' instead of the clerk?"](http://thefederalist.com/2015/09/21/its-not-oppression-to-say-thank-you/).
+When other Twitter users pushed back, he went on to write an article in [*The Federalist*](https://thefederalist.com) called "It's Not Oppression to Say 'Thank You'" in which he asked, ["When did the customer become the person in a transaction to say 'Thank you,' instead of the clerk?"](http://thefederalist.com/2015/09/21/its-not-oppression-to-say-thank-you/).
 
 To answer this rhetorical question: the customer became the person to say "thank you" as soon as retailers started providing self-checkout systems. You're thanking the cashier, who happens to be a human being just like you, for the convenience of scanning your purchases for you, bagging them, processing your payment, giving you correct change if you paid cash. You should also say "thank you" when being served by a human being for not having to listen to a fucking robot say "unexpected item in bagging area" until you want to do to the self-checkout machine what Dave Bowman did to HAL-9000 in *2001: A Space Odyssey* after Bowman realized HAL had killed the rest of his crew and now intended to kill *him* too.
 
-{% include youtube.html src="https://www.youtube.com/watch?v=c8N72t7aScY" caption="The Deactivation of HAL-9000" from *2001: A Space Odyssey*<br />Directed by Stanley Kubrick and written by Arthur C. Clarke" %}
+{% include youtube.html src="https://www.youtube.com/embed/8N72t7aScY" caption="The Deactivation of HAL-9000" from *2001: A Space Odyssey*. Directed by Stanley Kubrick and written by Arthur C. Clarke" %}
 
 ## Has Tom Nichols Ever Worked Retail?
 
