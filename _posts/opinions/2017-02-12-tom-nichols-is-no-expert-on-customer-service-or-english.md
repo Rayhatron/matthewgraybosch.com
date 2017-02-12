@@ -23,7 +23,7 @@ When other Twitter users pushed back, he went on to write an article in [*The Fe
 
 To answer this rhetorical question: the customer became the person to say "thank you" as soon as retailers started providing self-checkout systems. You're thanking the cashier, who happens to be a human being just like you, for the convenience of scanning your purchases for you, bagging them, processing your payment, giving you correct change if you paid cash. You should also say "thank you" when being served by a human being for not having to listen to a fucking robot say "unexpected item in bagging area" until you want to do to the self-checkout machine what Dave Bowman did to HAL-9000 in *2001: A Space Odyssey* after Bowman realized HAL had killed the rest of his crew and now intended to kill *him* too.
 
-{% include youtube.html src="https://www.youtube.com/embed/8N72t7aScY" caption="The Deactivation of HAL-9000" from *2001: A Space Odyssey*. Directed by Stanley Kubrick and written by Arthur C. Clarke" %}
+{% include youtube.html src="https://www.youtube.com/embed/8N72t7aScY" caption="&quot;The Deactivation of HAL-9000&quot; from *2001: A Space Odyssey*<br /> Directed by Stanley Kubrick and written by Arthur C. Clarke" %}
 
 ## Has Tom Nichols Ever Worked Retail?
 
