@@ -13,7 +13,7 @@ options:
 ---
 I saw this screenshot of a tweet by [Tom Nichols](https://www.usnwc.edu/Academics/Faculty/Thomas-M--Nichols,-Ph-D-.aspx), national security expert, Naval War College professor, and _Jeopardy!_ Tournament of Champions winner on Reddit this afternoon, and it rubbed me the wrong way because I used to work in retail as a student. 
 
-{% include image.html src="https://i.reddituploads.com/40cb70cd84b7494582a6a9500fe56cbe?fit=max&h=1536&w=1536&s=fc7eda710aeda5bc4677f7be9b9f73c6" alt="screenshot of a tweet by Tom Nichols" caption="[Tweet by Tom Nichols, 09/12/2015 at 8:31PM](https://twitter.com/RadioFreeTom/status/642858200337915904?ref_src=twsrc%5Etfw)" %}
+{% include images.html src="https://i.reddituploads.com/40cb70cd84b7494582a6a9500fe56cbe?fit=max&h=1536&w=1536&s=fc7eda710aeda5bc4677f7be9b9f73c6" alt="screenshot of a tweet by Tom Nichols" caption="[Tweet by Tom Nichols, 09/12/2015 at 8:31PM](https://twitter.com/RadioFreeTom/status/642858200337915904?ref_src=twsrc%5Etfw)" %}
 
 If you're on a really slow connection, this image doesn't show up, or you don't feel like clicking the link above and going to Twitter, here's what Nichols said:
 
