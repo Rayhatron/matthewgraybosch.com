@@ -10,7 +10,7 @@ I sometimes get questions about *how* I go about writing. I didn't think I was *
 
 ## The Artistic Side
 
-Some readers have come to me after reading [*Without Bloodshed*](/books/starbreaker/without-bloodshed/) and [*Silent Clarion*](/books/starbreaker/silent-clarion/) and asked me how much time I spend outlining my books before writing them. The truth is that I don't outline in exhaustive detail. I tend to write a paragraph or two describing the plot points I want to cover in a given chapter or scene. This gives me a rough plan for the story while giving me room to improvise. Furthermore, I tend to deviate from the outline as I write the novel, because the characters take the story in unexpected directions... Especially Naomi and Claire.
+Some readers have come to me after reading [*Without Bloodshed*](/stories/starbreaker/without-bloodshed/) and [*Silent Clarion*](/stories/starbreaker/silent-clarion/) and asked me how much time I spend outlining my books before writing them. The truth is that I don't outline in exhaustive detail. I tend to write a paragraph or two describing the plot points I want to cover in a given chapter or scene. This gives me a rough plan for the story while giving me room to improvise. Furthermore, I tend to deviate from the outline as I write the novel, because the characters take the story in unexpected directions... Especially Naomi and Claire.
 
 Speaking of which, you will find that unlike other authors of fantasy and science fiction, I don't start out with worldbuilding. I have my reasons, the main one being that I lack the background or the patience to do so convincingly. Instead, I prefer to start by understanding my characters. I worldbuild only as necessary to place my characters in context.
 
