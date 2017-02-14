@@ -20,7 +20,9 @@ You don't have to buy my books yourself, you know. You could always encourage ot
 
 ## Review My Books
 
-This ties into the last option to some extent. If you've bought one of my books on Amazon, please take five minutes to rate and review it. This applies even if you *didn't* like the book; while I'd prefer three stars and up, I'm an adult and I can take the occasional one star or two star review.
+This ties into the last option to some extent. If you've bought one of my books on Amazon, please take five minutes to rate and review it. It doesn't have to be the sort of long, detailed review you'd find in the *New York Times*. A couple of sentences about what you liked or didn't like is fine.
+
+This applies even if you *didn't* like the book; while I'd prefer three stars and up, I'm an adult and I can take the occasional one star or two star review.
 
 If you have a blog, or work for a site that reviews books, please [ask my publisher](mailto:marketing@curiosityquills.com) for review copies. If you do publish a review, please let me know so I can link to it. :)
 
