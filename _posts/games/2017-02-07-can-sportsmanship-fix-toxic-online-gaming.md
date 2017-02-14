@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can Sportsmanship Fix Toxic Online Gaming
-description: 
+description: Video games might not be athletic events despite the rise of esports notwithstanding, but good sportsmanship might make better gamers.
 date: 2017-02-07 12:38:01 -0500
 categories: 
   - games

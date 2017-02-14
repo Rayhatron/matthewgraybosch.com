@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Political Correctness, Safe Spaces, Free Speech, and the Right to Not Be Offended
-description: Somebody posted a thread on Reddit asking what other people think of "PC culture". Here's what I think.
+title: "Political Correctness, Safe Spaces, Free Speech, and the Right to Not Be Offended"
+description: "Somebody posted a thread on Reddit asking what other people think of 'PC culture'. Here's what I think."
 date: 2017-02-03 20:38:01 -0500
 categories: 
   - opinions
