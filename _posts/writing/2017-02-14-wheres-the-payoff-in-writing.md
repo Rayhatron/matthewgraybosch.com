@@ -129,7 +129,7 @@ I'm certainly not going to pick a fight with Ms. Kakutani, which would prove me 
 
 Getting a little closer to Earth: if a major Hollywood studio offered a reasonable deal for the adaptation rights, I'd probably take it as long as the merchandising plans include *Starbreaker: the Flamethrower*. Oh, come on. You should have known *that* joke was coming.
 
-{% include youtube.html src="https://www.youtube.com/embed/fgRFQJCHcPw" caption="&quot;Where the *real* money is made.&quot;<br />*Spaceballs* (1987): directed by Mel Brooks %}
+{% include youtube.html src="https://www.youtube.com/embed/fgRFQJCHcPw" caption="&quot;Where the *real* money is made.&quot;<br />*Spaceballs* (1987): directed by Mel Brooks" %}
 
 A Netflix series in the vein of *Stranger Things* would work, too, if anybody from Netflix is reading this. Hell, if Lin-Manuel Miranda or Andrew Lloyd Webber wanted to adapt Starbreaker for the stage, I would make only two requests:
 

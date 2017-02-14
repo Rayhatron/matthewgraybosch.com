@@ -18,4 +18,4 @@ Here are my latest blog posts. You might find something you like. You can find a
 
 ## Where to Find Me
 
-I'm active on a number of social media sites, primarily Reddit and Google+. I also share links to blog posts on Twitter, and syndicate my posts on Google+, Medium, and Facebook.
+I'm active on a number of social media sites, primarily <a href="https://www.reddit.com/user/asuraemulator/" rel="me">Reddit</a> and <a href="https://plus.google.com/+MatthewGraybosch" rel="me">Google+</a>. I also share links to blog posts on <a href="https://twitter.com/metalheadscifi" rel="me">Twitter</a>, and syndicate my posts on Google+, <a href="https://medium.com/@matthewgrayboschstarbreaker" rel="me">Medium</a>, and <a href="https://facebook.com/matthewgrayboschnovelist" rel="me">Facebook</a>.
