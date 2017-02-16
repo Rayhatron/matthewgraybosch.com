@@ -20,4 +20,4 @@ He was also a novelist and a travel writer, and did time in debtor's prison afte
 
 He died in 1839, and his son Alexander was Canada's first Minister of Finance.
 
-PS: for those interested, the "Sense of Life Objectivists" still seem to be around at [solopassion.com](https://www.solopassion.com), even if the domain name brings to mind the sound of one hand clapping. Their old site is now located at [rebirthofreason.com](www.rebirthofreason.com), which still has some [old posts of mine](http://rebirthofreason.com/Articles/Author_15.shtml) if you're bored and looking for a laugh. :)
+PS: for those interested, the "Sense of Life Objectivists" still seem to be around at [solopassion.com](https://www.solopassion.com), even if the domain name brings to mind the sound of one hand clapping. Their old site is now located at [rebirthofreason.com](https://www.rebirthofreason.com), which still has some [old posts of mine](https://rebirthofreason.com/Articles/Author_15.shtml) if you're bored and looking for a laugh. :)
