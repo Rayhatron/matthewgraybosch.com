@@ -36,6 +36,22 @@ defaults:
       path: ""
     values:
       image: /assets/images/fullsize/author-nyc.jpg
+  - scope:
+      path: "_posts/advice"
+      type: "posts"
+    values:
+      layout: post
+      image: /assets/image/fullsize/categories-advice.jpg
+      categories:
+        - advice
+  - scope:
+      path: "_posts/books"
+      type: "posts"
+    values:
+      layout: post
+      image: /assets/image/fullsize/categories-books.jpg
+      categories:
+        - books
 
 # Reading Files
 include:
