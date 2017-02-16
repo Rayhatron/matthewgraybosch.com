@@ -41,7 +41,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-      image: /assets/image/fullsize/categories-advice.jpg
+      image: /assets/images/fullsize/categories-advice.jpg
       categories:
         - advice
   - scope:
@@ -49,7 +49,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-      image: /assets/image/fullsize/categories-books.jpg
+      image: /assets/images/fullsize/categories-books.jpg
       categories:
         - books
 
