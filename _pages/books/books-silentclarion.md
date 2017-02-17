@@ -19,12 +19,14 @@ Naomi Bradleigh needed some time away from her duties as an Adversary sworn to t
 
 ## How to Purchase
 
-*Silent Clarion* is currently only available as a Kindle eBook. If you have Kindle Universe, you can read it for free. If you don't have KU, and you're strapped for cash, you can buy the first part separately.
+*Silent Clarion* is currently only available as a Kindle eBook. I will provide updates on the print edition as soon as information is available, and I apologize for the inconvenience.
+
+{% include kindle-embed.html src="https://read.amazon.com/kp/embed?asin=B01MCWCSPA&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_-B0PybVKME16B&tag=starbreaker-20" caption="Preview of *Silent Clarion* courtesy of Amazon.<br />Cover art by Eugene Teplitsky for Curiosity Quills Press." %}
+
+If you have Kindle Universe, you can read it for free. If you don't have KU, and you're strapped for cash, you can buy the first part separately.
 
 * [*Silent Clarion*, Part 1: "The Geographic Cure"](http://www.amazon.com/dp/B00YLZI02U)
 * [The complete *Silent Clarion*](http://www.amazon.com/dp/B01MCWCSPA)
-
-{% include image.html src="/assets/images/fullsize/book-cover-silentclarion.jpg" alt="Cover for Silent Clarion" caption="Cover by Curiosity Quills Press" %}
 
 ## The Post-Breakup Working Vacation from Hell
 

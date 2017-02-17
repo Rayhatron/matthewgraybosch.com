@@ -23,7 +23,7 @@ Morgan must prove he isn't the Phoenix Society's assassin as conspiracies envelo
 
 It's easy to get a copy of *Without Bloodshed*. Just buy the [Kindle](https://www.amazon.com/gp/product/B00GQ0BJOO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GQ0BJOO&linkCode=as2&tag=starbreaker-20&linkId=c696333fe35794b952311064350ca847) or [paperback edition](https://www.amazon.com/gp/product/1620072793/ref=as_li_tl?ie=UTF8&tag=starbreaker-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1620072793&linkId=49f7c17f7bacc3787e715f7487c0c7fd) on Amazon, or ask for the paperback at your favorite bookstore. For your convenience, here's an embedded preview.
 
-{% include kindle-embed.html src="https://read.amazon.com/kp/card?asin=B00GQ0BJOO&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_I.XPybTG224WM&tag=starbreaker-20" caption="Preview of *Without Bloodshed* courtesy of Amazon." %}
+{% include kindle-embed.html src="https://read.amazon.com/kp/card?asin=B00GQ0BJOO&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_I.XPybTG224WM&tag=starbreaker-20" caption="Preview of *Without Bloodshed* courtesy of Amazon.<br />Cover art by Ricky Gunawan for Curiosity Quills Press." %}
 
 ## "All who threaten me die."
 
