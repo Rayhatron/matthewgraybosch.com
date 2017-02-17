@@ -5,7 +5,9 @@ description: Information about Without Bloodshed, the first Starbreaker novel pu
 permalink: /stories/starbreaker/without-bloodshed/
 image: /assets/images/fullsize/book-cover-withoutbloodshed.jpg
 seo:
-  type: Book 
+  type: Book
+options:
+  noscript: true
 ---
 # Without Bloodshed
 

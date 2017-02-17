@@ -1,0 +1,11 @@
+{% if page.options.noscript or page.options.jquery or page.options.highlight or page.options.fitvids %}
+<noscript>
+  <aside class="bg-material200 border-materialBlack material900 small">
+    <h1>JavaScript Disabled</h1>
+    <p>Hi there! It looks like you're protecting yourself by using <a href="https://noscript.net/" rel="nofollow">NoScript</a> or <a href="http://www.alanwood.net/demos/enabling-javascript.html"  rel="nofollow">your browser's settings</a> to disable JavaScript.</p>
+    <p>That's a smart move, and you have my respect for doing so. You will still have access to the page's text and image content, but embedded content might not work without JavaScript.</p>
+    <h2>Before You Enable JavaScript</h2>
+    <p>I as your host, it is my responsibility to warn you that if you decide to enable JavaScript, the embedded content on this page may attempt to run tracking code or serve you ads. I don't have Google Analytics installed myself or serve ads, but since I use <a href="https://www.cloudflare.com" rel="nofollow">Cloudflare</a> the CDN may also try to run its own code on this page.</p>
+  </aside>
+</noscript>
+{% endif %}
