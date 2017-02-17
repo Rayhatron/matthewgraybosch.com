@@ -44,7 +44,7 @@ Not only will readers get to walk in Morgan's boots and those of his friends and
 ## Featured Reviews
 
 > Graybosch has skilfully merged aspects of rock music, science-fiction, and ancient conspiracies, from both the West and the East, producing a novel which will be enjoyed by both lovers of classic techno-thrillers and animé fans.  
-> <cite><a href="https://davidjhiggins.wordpress.com/2013/12/13/without-bloodshed-by-matthew-graybosch/">&mdash;Dave Higgins</a></cite>
+> <cite class="small"><a href="https://davidjhiggins.wordpress.com/2013/12/13/without-bloodshed-by-matthew-graybosch/">&mdash;Dave Higgins</a></cite>
 
 > I love the complexity of the characters in this book. None of them are one-dimensional, nothing is really ever quite what it seems, and every time I started to figure out what might be going on, a new twist or kink was thrown in and I was right back at ground zero. It was beautifully done to keep the reader engaged with the story rather than frustrated. I particularly was amused by some of Claire's random ejaculations and swearing, which I am unable to add into the review due to Terms of Service issues at some of the sites where I post them. I did post some updates including some of them on Goodreads, which were apparently amusing enough that one of my friends told me she'd picked up a copy of the book based on my updates on only the first 11 percent of the book.  
-> <cite><a href="http://katysozaeva.blogspot.com/2013/12/mgraybosch-curiosityquills-review.html">&mdash;Katy Sozaeva</a></cite>
+> <cite class="small form_row_right_align"><a href="http://katysozaeva.blogspot.com/2013/12/mgraybosch-curiosityquills-review.html">&mdash;Katy Sozaeva</a></cite>
