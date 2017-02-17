@@ -6,6 +6,8 @@ permalink: /stories/starbreaker/silent-clarion/
 image: /assets/images/fullsize/book-cover-silentclarion.jpg
 seo:
   type: Book 
+options:
+  noscript: true
 ---
 # Silent Clarion
 
@@ -21,7 +23,7 @@ Naomi Bradleigh needed some time away from her duties as an Adversary sworn to t
 
 *Silent Clarion* is currently only available as a Kindle eBook. I will provide updates on the print edition as soon as information is available, and I apologize for the inconvenience.
 
-{% include kindle-embed.html src="https://read.amazon.com/kp/embed?asin=B01MCWCSPA&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_-B0PybVKME16B&tag=starbreaker-20" caption="Preview of *Silent Clarion* courtesy of Amazon.<br />Cover art by Eugene Teplitsky for Curiosity Quills Press." %}
+{% include kindle-embed.html src="https://read.amazon.com/kp/card?asin=B01MCWCSPA&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_2H0PybZ2MVGBB&tag=starbreaker-20" caption="Preview of *Silent Clarion* courtesy of Amazon.<br />Cover art by Eugene Teplitsky for Curiosity Quills Press." %}
 
 If you have Kindle Universe, you can read it for free. If you don't have KU, and you're strapped for cash, you can buy the first part separately.
 
