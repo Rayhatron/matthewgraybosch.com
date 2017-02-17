@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com.svg?branch=master)](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com)
 
-This is [my website](https://motherfuckingwebsite.com). There are [many like it](https://bettermotherfuckingwebsite.com), but [this one is mine](https://www.matthewgraybosch.com). 
+This is [a motherfucking website](https://motherfuckingwebsite.com). There are [many motherfuckers like it](https://bettermotherfuckingwebsite.com), but [this motherfucker is mine](https://www.matthewgraybosch.com). 
 
 If you want to fork it, you can, but please check the [forking](#forking) section first. :cat:
 
