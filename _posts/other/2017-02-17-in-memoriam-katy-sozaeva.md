@@ -3,6 +3,7 @@ layout: post
 title: "In Memoriam: Katy Sozaeva (1970-2016)"
 description: "I was recently reminded of the passing of Katy Sozaeva, one of my first fans and rave reviewers."
 date: 2017-02-17 12:38:01 -0500
+image: /assets/images/fullsize/katy-sozaeva-facebook.jpg
 categories: 
   - other
 seo:
@@ -15,6 +16,8 @@ I never met Ms. Sozaeva in person, and thus never had the opportunity to properl
 I probably should have been more supportive toward her in her fight beyond offering her kind words when I saw her on social media, but it's too late now.
 
 To Katy's friends and family, I offer my condolences. I'm honored that Katy not only read my first novel, but enjoyed it so.
+
+{% include image.html src="/assets/images/fullsize/katy-sozaeva-facebook.jpg" alt="photo of Katy Sozaeva" caption="[Photo of Katy Sozaeva downloaded from Facebook](https://www.facebook.com/photo.php?fbid=922363451112553&set=t.100000167216324&type=3&theater)" %}
 
 ## Links To/About Katy Sozaeva
 
