@@ -27,4 +27,4 @@ To Katy's friends and family, I offer my condolences. I'm honored that Katy not 
 
 ## Tribute to Katy Sozaeva
 
-According to [Weston Kincade](http://kincadefiction.blogspot.com/) (author of *A Life of Death*, *The Priors*, and *Strange Circumstances*), the owner of [Cabin Goddess](https://cabingoddess.com) is compiling material from everybody who knew Ms. Sozaeva to celebrate her life and ensure her memory lives on. You can find details on Kincade's blog at ["Celebrating Her Life, Katy Sozaeva"](http://kincadefiction.blogspot.com/2016/08/celebrating-her-life-katy-sozaeva.html)
+According to [Weston Kincade](http://kincadefiction.blogspot.com/) (author of *A Life of Death*, *The Priors*, and *Strange Circumstances*), the owner of [Cabin Goddess](https://cabingoddess.com) is compiling material from everybody who knew Ms. Sozaeva to celebrate her life and ensure her memory lives on. You can find details on Kincade's blog at ["Celebrating Her Life, Katy Sozaeva"](http://kincadefiction.blogspot.com/2016/08/celebrating-her-life-katy-sozaeva.html).
