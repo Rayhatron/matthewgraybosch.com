@@ -8,6 +8,8 @@ categories:
   - manhood
 seo:
   type: BlogPosting
+options:
+  fitvids: true
 ---
 The women depicted in paintings like John William Godward's _His Birthday Gift_ always remind me of my wife Catherine. 
 
