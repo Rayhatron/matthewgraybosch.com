@@ -1,0 +1,42 @@
+engines:
+  fixme:
+    enabled: false
+  markdownlint:
+    enabled: true
+  scss-lint:
+    enabled: true
+  shellcheck:
+    enabled: true
+
+exclude_paths:
+  - .codeclimate.yml
+  - .gitignore
+  - .rspec
+  - .rubocop.yml
+  - .travis.yml
+
+  - Gemfile
+  - Gemfile.lock
+  - CHANGELOG.{md,markdown,txt,textile}
+  - CONTRIBUTING.{md,markdown,txt,textile}
+  - readme.{md,markdown,txt,textile}
+  - README.{md,markdown,txt,textile}
+  - Readme.{md,markdown,txt,textile}
+  - ReadMe.{md,markdown,txt,textile}
+  - COPYING
+  - LICENSE
+  - LICENSE.{md,markdown,txt,textile}
+
+  - _assets/**/*
+  - _data/**/*
+  - _drafts/**/*
+  - _site/**/*
+
+  - assets/**/*
+  - node_modules/**/*
+
+ratings:
+  paths:
+    - "**.md"
+    - "**.scss"
+    - "script/*"

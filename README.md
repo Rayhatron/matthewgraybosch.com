@@ -1,6 +1,6 @@
 # matthewgraybosch.com
 
-[![Build Status](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com.svg?branch=master)](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com)
+[![Build Status](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com.svg?branch=master)](https://travis-ci.org/matthewgraybosch/matthewgraybosch.com) [![Code Climate](https://codeclimate.com/github/matthewgraybosch/matthewgraybosch.com/badges/gpa.svg)](https://codeclimate.com/github/matthewgraybosch/matthewgraybosch.com) [![Issue Count](https://codeclimate.com/github/matthewgraybosch/matthewgraybosch.com/badges/issue_count.svg)](https://codeclimate.com/github/matthewgraybosch/matthewgraybosch.com)
 
 This is [a motherfucking website](https://motherfuckingwebsite.com). There are [many motherfuckers like it](https://bettermotherfuckingwebsite.com), but [this motherfucker is mine](https://www.matthewgraybosch.com). 
 
@@ -8,7 +8,7 @@ If you want to fork it, you can, but please check the [forking](#forking) sectio
 
 ## Built with...
 
-* [Jekykll](http://jekyllrb.com)
+* [Jeykll](http://jekyllrb.com)
 * [Travis CI](http://travis-ci.org)
 * [Links](http://mrmrs.io/links/)
 * [Material Design colors](https://material.io/guidelines/style/color.html#color-color-palette)
