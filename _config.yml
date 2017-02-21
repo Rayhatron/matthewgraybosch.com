@@ -8,7 +8,7 @@ location: "Harrisburg, PA"
 description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm Matthew Graybosch, author of the Starbreaker science fantasy novels, developer, and metalhead from New York currently living in Pennsylvania. This is my website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.matthewgraybosch.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.matthewgraybosch.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metalheadscifi
 github_username:  matthewgraybosch
 
