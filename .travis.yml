@@ -3,6 +3,8 @@ rvm:
 - 2.2.0
 addons:
   ssh_known_hosts: fireplug.dreamhost.com
+  code_climate:
+    repo_token: e28174b01321fbf580df95b2b0b72644273a1acc65be77318ee2869daecec1e6
 before_script:
 - chmod +x ./script/cibuild
 - chmod +x ./script/cideploy
