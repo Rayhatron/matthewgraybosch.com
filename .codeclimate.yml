@@ -1,8 +1,6 @@
 engines:
   fixme:
     enabled: false
-  markdownlint:
-    enabled: true
   scss-lint:
     enabled: true
   shellcheck:
@@ -37,6 +35,5 @@ exclude_paths:
 
 ratings:
   paths:
-    - "**.md"
     - "**.scss"
     - "script/*"
