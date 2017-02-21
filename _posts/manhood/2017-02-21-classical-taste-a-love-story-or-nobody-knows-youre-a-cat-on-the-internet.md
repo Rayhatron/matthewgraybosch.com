@@ -49,7 +49,7 @@ I had the life I thought I had always wanted as a boy and a teenager. I had my o
 
 You know that apartment full of books Matt Damon had in *Good Will Hunting*? You know the life he had? That was the home and the life *I* had, only I lived in Waterbury, CT instead of Boston,,worked as a programmer instead of a construction worker, and I didn't have any friends (let alone one played by Ben Affleck).
 
-{% include youtube.html src="https://www.youtube.com/embed/3i8eIzSeC8w" caption="Matt Damon and Ben Affleck in *Good Will Hunting* %}
+{% include youtube.html src="https://www.youtube.com/embed/3i8eIzSeC8w" caption="Matt Damon and Ben Affleck in *Good Will Hunting*" %}
 
 And if I had a friend telling me that I was wasting my life as a recluse who only left his apartment to work and shop, and told me I owed it to him to do more with my life, I would have told him, "I don't owe you a goddamned thing. This is the life I want for myself."
 
