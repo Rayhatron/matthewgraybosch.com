@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Thinks They Can Fix Online Comments. LOL"
+title: "Google Thinks They Can Fix Online Comments with an API? LOL"
 description: "Google's &quot;Perspective&quot; is just another high-tech band-aid for a diseased society."
 date: 2017-02-23 12:27:01 -0500
 image: /assets/images/fullsize/soapbox.jpg
@@ -46,7 +46,7 @@ It is hard to sympathize with people whose misuse of their free speech rights ge
 
 As a result, many of these aggrieved individuals think they're Edgar Friendly in *Demolition Man*, though they more commonly align themselves with Malcolm Reynolds from *Firefly* and *Serenity*. They imagine themselves as embattled crusaders for freedom driven underground by a dystopian left-wing regime where "political correctness" is the first step in a nefarious plan to re-engineer society so that everybody eats at Taco Bell, nobody gets laid, and Hillary Clinton and Jill Stein act as precursors to Doctor Cocteau.
 
-{% include youtube.html src="https://www.youtube.com/watch?v=bsHsp680nEk" caption="Sylvester Stallone and Denis Leary in *Demolition Man*" %}
+{% include youtube.html src="https://www.youtube.com/embed/bsHsp680nEk" caption="Sylvester Stallone and Denis Leary in *Demolition Man*" %}
 
 I certainly don't want to take away their right to express themselves. I value my own rights too highly for that. However, I understand that while I have the right to speak, I am not entitled to an audience. I certainly don't have the right to make you my captive audience in your own home, on your own website, or in your own social media feed begins.
 
@@ -115,3 +115,7 @@ Google's Perspective may be more useful than I first thought, but it depends on 
 
 * Will Google makes the API publicly and freely available?
 * Will developers integrate the Perspective API in a proactive manner rather than a reactive one?
+
+Google alone won't be able to detoxify the Internet with Perspective. While they can create the API and other developers can build it into various tools, it's up to *us* to use these tools to make the Internet a better place.
+
+But what do *I* know? I'm just a dumb programmer. :cat:
