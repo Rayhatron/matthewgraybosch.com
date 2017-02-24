@@ -40,14 +40,8 @@ html {
     font-kerning: normal;
 
     h1, h2, h3, h4, h5, h6 {
-      font-family: $systemSerif;
       color: $material900;
       line-height: $headingLineHeight;
-    }
-
-    blockquote {
-      font-family: $systemSerif;
-      color: $materialGray700;
     }
 
     code, pre {

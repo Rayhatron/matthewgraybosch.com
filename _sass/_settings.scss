@@ -32,7 +32,7 @@ $systemSerif: "Apple Garamond", "Baskerville", "Georgia", "Times New Roman", "Dr
 $systemMonospace: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace;
 
 // Is 24px overkill? Maybe, but I'm a size queen.
-$fontSize: 24px;
+$fontSize: calc(20px + 0.25vw);
 $printFontSize: 12px;
 $spacing-unit: 1.2rem !default;
 // Body settings inspired by bettermotherfuckingwebsite.com.
