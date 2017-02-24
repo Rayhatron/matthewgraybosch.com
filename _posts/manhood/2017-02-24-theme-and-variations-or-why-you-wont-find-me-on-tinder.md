@@ -2,7 +2,7 @@
 layout: post
 title: "Theme and Variation; or, Why You Won't Find Me on Tinder"
 description: "As a married man, I have no business using Tinder. And because of the way I see my wife and marriage, I have no desire to do so either."
-date: 2017-02-25 13:58:57  -0500
+date: 2017-02-24 13:58:57  -0500
 categories: 
   - manhood
 seo:
