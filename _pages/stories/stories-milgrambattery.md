@@ -9,6 +9,8 @@ seo:
 ---
 # The Milgram Battery
 
+## Part I
+
 Morgan studied the experimenter, ignoring the hand he offered as a polite gesture. His muddy eyes were those of the technician who helped him into the simulation crèche and hooked him up. His leathery hands injected Morgan’s arm with a drug which fought to blunt his awareness, and his lab coat bore a Phoenix Society patch on the shoulder. *This is the test. They want to gauge my reactions. The drug must be designed to lower my inhibitions and prevent me from thinking about my responses.*
 
 The experimenter lowered his hand with a huff, and consulted his tablet. "Morgan Stormrider? An odd name. What were your parents thinking?" 
@@ -59,7 +61,7 @@ He grasped the collar of the experimenter's shirt, and lifted him off his feet. 
 
 As he drew back his fist, the experimenter shattered into pixels, each fading to black, while the room itself became void.
 
-***
+## Part II
 
 Karen Del Rio shook her head as the AI interpreting Morgan Stormrider's simulator-induced dream shut down the scenario, allowing him to rest inside the dream sequencer. "Do we even have a classification for somebody who refuses to participate in an experiment? Or do we just write him off as a failure?" 
 
@@ -95,7 +97,7 @@ Magnin gave his head a gentle shake. "May I remind you, Ms. Del Rio, that you ar
 
 "Yes. And, Mr. Rosenbaum? Instruct the technicians to double the dosage for the next stage of the Battery."
 
-***
+## Part III
 
 Morgan found himself standing at attention, his right arm outstretched in salute. The gate creaked shut behind the SS officer, who glared through Morgan as if he were not there. Low-ranking stormtroopers flanked the officer; the blackened steel of their submachine-guns gleamed a dull counterpoint to the silver glints in their superior's uniform. Their movements were not even robotic, but reminiscent of somebody's initial efforts at computer animation. Nor were their faces human. Their flat blue eyes lacked the striations normally visible in the human iris. Their noses were mere suggestions, and they could not speak for lack of mouths. 
 
@@ -125,7 +127,7 @@ The SS officer sputtered for a moment before finding his voice. "The Third Reich
 
 Morgan counted down, pumping one round after another into the undying SS officer while retreating. With one shot left, he pressed the muzzle of his Luger under his chin, and raised his middle finger in a final salute. The void consumed him before he pulled the trigger.
 
-***
+## Part IV
 
 "Quadruple the current dosage." Isaac Magnin delivered the order without raising his voice. The technician attending Morgan, who laid quiescent in the dream sequencer’s crèche, nodded, and Isaac grinned. He doubted anyone here had the backbone to oppose a member of the Phoenix Society's executive council. 
 
@@ -165,7 +167,7 @@ Desdinova rose, tucking his tablet under his arm. "I find your assumption amusin
 
 *Do we?* Magnin thought once his brother left him alone in the office. *Stormrider just might have the strength of ego I require of a soldier entrusted with the Starbreaker.* He picked up the phone and dialed the observation room. "End the battery. Classify Stormrider as M-null."
 
-***
+## Part V
 
 *What will it be this time?* Morgan lost count of the scenarios the dream sequencer presented him long ago, along with his grip on time. He had been a prisoner of war, offered freedom and a new home if only he would betray his fellows. He had been a university student, egged on by so-called friends to exploit a drunken young woman. He had been the president of a dead nation, under pressure to sign into law a bill mandating that all citizens be given the Patch to enhance social cohesion. He even stepped into Abraham's sandals, and covered his ears as the voice of God demanded the sacrifice of his only son Isaac. 
 

@@ -9,7 +9,9 @@ seo:
 ---
 # Limited Liability
 
-> You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it. From out there on the moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, "Look at that, you son of a bitch."
+## Part I
+
+> You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it. From out there on the moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, "Look at that, you son of a bitch."  
 > <cite>&mdash;Edgar Mitchell, Apollo 14 astronaut, *People* magazine, 8 April 1974</cite>
 
 "Risk? What risk? There's no possible risk." Michael Chapman fumed at the investor. Were he meeting with Rajiv Singh in person, Chapman would tower over the smaller man and use his size to lend additional weight to his facts.
@@ -54,7 +56,7 @@ Singh shrugged. "What would I do? Use the money to expand and drive other people
 
 "Enough already." Chapman snorted in disgust. "Go home and be a family man, then. I've got work to do. Maybe we'll catch up over golf sometime."
 
-***
+## Part II
 
 "Thanks for nothing, asshole." Chapman hurled the insult at a blank screen. Another prospective investor changed her mind, leaving Cerean Mineral Extraction in the same position as this morning. Without outside investment, the company would never achieve escape velocity.
 
@@ -76,7 +78,7 @@ Taking a deep breath, he forced his tone back into a conversational register. "I
 
 "Oh, for shit's sake." Chapman faced the window to spare his assistant the sight of his face. "Get that clown on the phone, Marla, and tell him to expect me. If he isn't man enough to give me a fair hearing before refusing me, he can damn well explain himself face to face.
 
-***
+## Part III
 
 Ron Davis had backed every one of Michael Chapman's ventures, regardless of financial peril. Indeed, he invested because of the risk; those that paid off paid big. For this reason, Chapman spent the cab ride to Davis' co-op in the Upper West Side of Manhattan racking his brain for an explanation capable of explaining his friend's sudden wariness.
 
@@ -132,11 +134,11 @@ Davis shrugged. "You wouldn't believe me if I told you. I think you'll find out 
 
 Chapman considered the pistol strapped under his left armpit. "I look forward to it."
 
-***
+## Part IV
 
 Michael Chapman strode to the corner of 87th Street and Broadway, still fuming at his friend's refusal to help him, or to offer a substantive explanation. He raised his hand to hail a cab, and slapped at a sudden sting radiating from the nape of his neck. Rather than killing the insect, his slap pushed the object deeper into his flesh. He pulled it out, and stared without comprehension until his knees buckled beneath him. Understanding came just before consciousness fled. "A goddamn trank?"
 
-***
+## Part V
 
 Chapman's implant told him four hours passed since he had been tranked. He glanced around what his eyes insisted was the first-class cabin of a passenger spacecraft. *How did I get here? Who strapped me in? Are my captors aboard with me?*
 
@@ -204,7 +206,7 @@ Stormrider did not immediately reply. "Does 'command responsibility' mean anythi
 
 "Going to assassinate him, too?" Chapman pulled out the pistol, and leveled it at Stormrider. His aim was true, and Stormrider's corpse slumped in its seat. It dissolved before Chapman's eyes, as did the seat, and the rest of the ship. He struggled, holding his breath in the certainty he'd never get another, as space itself faded to nothing around him.
 
-***
+## Part VI
 
 Chapman choked on his first breath. He coughed, spat, and tried a shallower breath. It too threatened to choke him, and his mouth tasted of dust and ashes. He forced his eyes open, and stared in bewilderment at the sooty gray snow falling around him. The clouds above were no brighter. Only the feeblest traces of sunlight forced their way through to distinguish night from day.
 
@@ -212,7 +214,7 @@ He rubbed at himself, desperate for warmth, but the numbness in his fingertips b
 
 A light appeared in the distance, and Chapman struggled toward it. Each step was cold fire raging along his nerves as he forced legs on the edge of frostbite to support him. He stumbled, and fell face-first into an ashen drift. His arms trembled as he forced himself back to his feet, and a mantra began to keep time with his heartbeat. *One more step. One more step. One more...*
 
-***
+## Part VII
 
 The door opened as Chapman reached for it. Gloved hands caught him as his legs collapsed beneath him, and the house's occupant carried him inside. Chapman found himself seated before a roaring fire, covered in blankets. *What the hell is happening to me? Now I'm in some post-Ragnarok fantasy. This has to be some kind of simulation, but I can't jack out. Is somebody using a dream sequencer on me?*
 
@@ -260,7 +262,7 @@ Bitter laugher echoed through the basement. "I'm not going to save you. I'm goin
 
 A soft *phut!* sounded behind Chapman, and he slapped at his neck to find another tranquilizer dart. "Oh no. Not this shit again."
 
-* * * * *
+## Part VIII
 
 Chapman blinked, and squinted into the glare above. He worked his arms against the restraints. The pod containing him opened as a nurse read from a screen. "He's green across the board, Adversary. You can speak to him if you'd like."
 
@@ -292,7 +294,7 @@ The blade seemed to bite a little harder. "I did not ask your opinion. Will you 
 
 Chapman barely managed to get the words out. "Tartarus consume you, I'll sell."
 
-***
+## Part IX
 
 Michael Chapman's first order of business upon arriving at his office the next day involved his executive assistant. He checked payroll to get her hourly rate, and cut a check worth two months' wages. "Marla, get your ass in here."
 

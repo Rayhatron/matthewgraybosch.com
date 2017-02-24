@@ -9,7 +9,7 @@ seo:
 ---
 # Steadfast
 
-##PART ONE: DEAD ON ARRIVAL##
+## Chapter I: "Dead on Arrival"
 
 Naomi removed her helmet before dismounting the motorcycle which had carried her west from New York, over old inter-province highways, rivers, and mountains, to a village in the Allegheny Mountains east of Pittsburgh so new that its residents had not yet chosen a name for the place. She had been given a set of latitude and longitude coordinates along with her orders, to avoid unnecessary delay. Well-tended farms in which cattle and swine grazed freely within white fences marking property lines, and the gravel covering the road once she turned from the highway yielded to cobblestones. A couple dozen buildings had already sprung up along either side of the main street, their roofs covered in solar panels, and a paved lot waited just outside the village proper for residents and visitors to park their vehicles. Tall trees formed a slightly jagged line down the center of the street, their leaves red and gold from the autumn chill; their age indicated the resettlement of a village which had existed before Nationfall by new inhabitants.
 
@@ -75,7 +75,7 @@ Petersen lifted the man this time. "There's a puncture wound on this one as well
 
 Naomi nodded, and  covered the dead man once Petersen lowered him back to the slab. She stripped off her gloves and mask, and threw them away before leaving the basement. "I'll speak to Mr. Brubaker first, and avoid disturbing the victim's families. If they're all friends, he might be able to tell me something of value."
 
-##PART TWO: QUESTIONS WITH DINNER##
+## Chapter II: "An Inappropriate Topic for Dinner Conversation"
 
 The smallest of the four farms surrounding the village Naomi had taken to calling Fort Clarion, after the Commonwealth Army base in Dr. Petersen's painting, belonged to the Brubaker family. The sun dipped behind the Allegheny peaks, and a premature dusk descended upon the village as she passed the front gate and proceeded along a path fenced off from the pastures. A few straggling cows continued to chew their cuds as she passed them. She heard a soft 'mrrr? mrrow?' behind her, and found a large grey tomcat with notched ears and deep green eyes winding about her calves to claim her for his own. She reached down to scratch behind the tom's ears, which he tolerated before springing towards the farmhouse.
 
@@ -181,7 +181,7 @@ Brubaker waved towards an armchair near the hearth. "There's an unused tesla poi
 
 Naomi placed her sword to ensure easy retrieval should she need it, and settled back to lift the lid and get to work. "I'll be fine. I was going to ask for a bit of privacy, but I didn't want to just shut myself up in a room away from you." *Please don't take this the wrong way.* "Don't lock yourself in there."
 
-## PART THREE: THE VIGIL
+## Chapter III: "The Vigil"
 
 Naomi suspected young Brubaker wasn't dirty enough to require a full hour in the shower, but she did not begrudge him. She had been fostered in a large family where both time alone and hot showers were at a premium, which allowed her a measure of empathy for her host's plight. She put the hour to good use, first calling Ms. Shippens to explain her absence. The grandfather clock tolled seven in the evening a few minutes ago, and Naomi did not want to keep her hostess waiting.
 
@@ -263,7 +263,7 @@ A long, slow nasal inhalation came from the top of the stairs, as if the soldier
 
 The silhouette at the top of the stairs disappeared. A grunt seemed to come from upstairs, and Naomi fancied that the soldier had left as he entered, jumping up to catch the rim of the skylight and lifting himself up and out.
 
-## PART FOUR: PROJECT HARKER
+## Chapter IV: "Project Harker"
 
 Michael Brubaker remained asleep when she left his family's farm two hours after sunrise. She left him a note explaining her plans and instructing him to seek refuge in town, avoid solitude, and beware of Dr. Petersen. She meant to leave earlier, but had first restored power to the farmhouse and charged her handset; she had no desire to be stuck without communications, satellite navigation, or the improvised flashlight one created by setting a phone's wallpaper to all white and maxing out the screen brightness. The phone currently sat in her breast pocket; a standard-issue earpiece designed for somebody without CPMD clinging precariously to her ear allowed her to listen and speak while keeping her hands free.
 
@@ -386,130 +386,7 @@ She was already on the run when Malkuth replied. "Try to contain the situation. 
 
 "I don't need ASAP, dammit. I need RBN! Get a helicopter full of Adversaries airborne *right bloody NOW!*, Malkuth, or by my oath as an Adversary that you won't even have the intellectual capacity to sing 'A Bicycle Built for Two' when I'm done with you!"
 
-## PART FOUR: PROJECT HARKER
-
-Michael Brubaker remained asleep when she left his family's farm two hours after sunrise. She left him a note explaining her plans and instructing him to seek refuge in town, avoid solitude, and beware of Dr. Petersen. She meant to leave earlier, but had first restored power to the farmhouse and charged her handset; she had no desire to be stuck without communications, satellite navigation, or the improvised flashlight one created by setting a phone's wallpaper to all white and maxing out the screen brightness. The phone currently sat in her breast pocket; a standard-issue earpiece designed for somebody without CPMD clinging precariously to her ear allowed her to listen and speak while keeping her hands free.
-
-"I can't believe I'm giving you directions to the Fort Clarion installation. Can't you just read the map?"
-
-"Sorry, Malkuth, but I need both of my hands more than you need the CPU cycles you use helping me."
-
-"I'm supporting a hundred other Adversaries."
-
-She shook her head, and wondered if she should tell Malkuth he sounded like a fire demon in a movie she had seen as a girl. *Better not. He might get ideas.* "You could support us all, as Atlas shoulders the world."
-
-"I ought to make like Atlas and shrug the lot of you off. Turn left. The old road's almost invisible, but you might feel the remnants beneath your feet."
-
-Naomi did as instructed, taking a dozen steps before crouching to examine the path at her feet. The trail seemed no different from the rest of the forest into which she had walked half an hour ago, but what Malkuth had said about the road's remnants intrigued her. She began to dig, her gloved hands moving aside the  most recently fallen leaves to expose humus, rotting organic matter which became soil as she dug deeper. She adjusted her position, kneeling on the ground and supporting herself with one arm as she used her other to dig deeper. Three quarters of her right arm disappeared into the soil before her fingers scraped against something hard and rough. She doubted her gloved hands had found rock; most of the stones she dug out of the ground when helping her foster mother with her garden were smooth. She explored a bit more, and worked her fingers into a crack. Having found purchase, she tried pulling what she had found out the ground, and found herself staring at a chunk of pavement. A trace of yellow paint, which had once served as a lane divider, still colored the asphalt. "I found the road, Malkuth."
-
-"So I noticed. Done prospecting?"
-
-"For now." Naomi rose, brushing the detritus of the forest from her clothes as a matter of training. *'An Adversary must always be presentable, even if she just fought her way out of Hell with a fresh litter of three-headed puppies nipping at her heels.' Isn't that what Director Deschat told us at ACS? No visible dirt, and perfect composure.* "How far?"
-
-"Another kilometer."
-
-That made five kilometers from the Brubaker farm to the old Commonwealth Army base. She started immediately, her stride cutting the distance with every second. "So, an easy morning stroll. Would you like to tell me anything about Fort Clarion, Project Harker, or Doctor Henrik Petersen?"
-
-"I'm not authorized to give you any need-to-know information."
-
-"I'm alone, with no support, dealing with somebody who murdered two young men because they found the base, found him sleeping, and left him a love note. Whoever this killer is, he doesn't realize he's a soldier without a country. I think the good doctor knows more than he's telling. Is that not need-to-know enough for you?"
-
-"Dammit, Nims, if I had the authority, I would have explained everything last night." 
-
-Naomi sighed. "All right. I believe you. Can you at least tell me why this information is under a need-to-know lock?" *Probably not. The reason this stuff is need-to-know is probably classified as well, until everything might as well be turtles all the way down. Too bad I didn't tell Director Rosenbaum to bugger himself instead of agreeing to delay my leave in order to resolve this mess. Another Adversary might managed equally well.* She stopped as she rounded a bend and faced a wall of wisteria. "I think I reached the outer perimeter."
-
-"Turn left and stay close to the fence. You might be able to see signs after a few meters."
-
-She obeyed Malkuth's instructions. Some of the wisteria still bloomed, and straggling bees droned around her for the last of the autumn's nectar as she skirted the base's perimeter. A metallic caught her eye, and she turned to find a sign framed by vines so freshly cut they still bled sticky sap. The sign was a bright red, bordered in silver, and was stenciled in silver letters to read as follows:
-
-> North American Commonwealth Army  
-> **FORT CLARION**  
-> Authorized Personnel Only  
-> *Unauthorized individuals may be shot on sight.*
-
-"'Unauthorized individuals may be shot on sight?'" Naomi repeated the sign's last warning under her breath. "That's hardly sociable."
-
-"Can you speak up, Nims? I barely heard you. What's hardly sociable?"
-
-"I was just commenting on the sign I found. No doubt the North American Commonwealth meant to discourage its subjects from coming to see their tax dollars at work." Naomi searched around the sign, hoping to find a gate, or a means of opening one. She retreated from the fence -- which now served as an elaborate trellis for wisteria, honeysuckle, ivy, and other vines -- to get a better view. She considered her gloves. Both the backs and the palms of her hands were armored by a thin layer of Kevlar, which she hoped would protect her should she misplace a hand and grasp a razor. "I'll climb over."
-
-"Naomi, wait -- " Before Malkuth finished his warning, Naomi terminated the call and sprinted towards the fence. She scrambled up, gripping the vines, and vaulted vine-covered razor wire to land on carefully tended asphalt on the other side. Her eyes darted about, searching for cover, and she padded into the shadow cast by a Quonset hut. She caught herself wishing the implantible computers she had read about were approved for Adversaries' use; the standard implant provided no functionality but Witness Protocol, leaving her and her fellows dependent on smartphones.
-
-She waited for several minutes, not daring to so much as breathe too deeply, lest she alert whomever still guarded Fort Clarion. When no enemy descended upon her, she slowly drew her pistol, and crept around the hut to find an entrance. Despite the noise her boots made, she scraped them across the pavement to avoid leaving forest dirt inside.  The interior saddened her, being nothing but an empty barracks, but somebody expended the effort to keep the place spotless in case new troops should show up to occupy the base, or superior officers come to perform an inspection. She suppressed an urge to find out for herself if the bunks were made well enough to let her bounce a coin off one of them, and retreated as she had come, checking her surroundings to ensure she had disturbed nothing. *Whoever this poor steadfast bastard of a soldier is, he'd probably notice my presence here immediately.*
-
-Most of the other buildings were the same: unused, perfectly maintained, and ready for an army which would never come again. The last was wholly empty. Naomi stopped dead as her footfall produced a sound her previous footsteps had not made. She retreated, and crouched, her gloved hands caressing the floor because her eyes had not yet adjusted to the gloom inside. Her fingers soon found a latch, which she undid to lift open a door set into the floor, with a ramp leading downward. She considered closing the door, but dismissed the notion. *I'm alone here. If something goes wrong underground, I can't afford to waste time getting this door open again from underneath.*
-
-A soft red glow lit her way once she had reached the ramp's bottom. She padded past a guard station whose occupants would once have challenged anybody who made their way down here and demanded identification. Carefully polished signs set into the wall pointed the way to specific sections of the base. The closest was dedicated to "food processing". Despite its cleanliness and the soft constant whir of the ventilation system, the reek of spilled blood haunted the meat preparation room. Something glinted from just inside a drainage grate set into the center of the gently sloping floor, and Naomi crouched by the drain, taking a multitool from her belt to remove the grate.
-
-*What's this, then?* She reached inside and found a chain, which she slowly pulled clear of the drain. After a minute of careful effort, she held a set of military-style dog tags. Beneath the grim she discovered a name -- "Harald" -- and a date of birth: 9 July 2079. *Oh God. This is the reason nobody found any blood near the bodies. The killer brought them here, did his work, and then brought them back.* An urge to retch gripped her stomach as she considered the heavy steel door of the meat freezer. *I don't want to know what's behind that door, but I'd be remiss if I didn't search. Focus, Naomi. You're an Adversary, not some dimwitted teenager in a slasher movie.* She closed her eyes, and took deep breaths despite the lingering reek of blood, until a minute had passed. When she was done, she placed the broken dog tags in an evidence baggie, noted the time and date with a pen, and used her phone to photograph the bag on the floor by the drain. Once she had photographed the abattoir, she slipped the evidence bags into an inner pocket of her coat, and opened the walk-in freezer. Shelves labeled by animal lined the walls containing carefully wrapped meats. She peered into the depths of the freezer, unwilling to step inside lest the door be closed and locked behind her, before taking a flashlight from her belt and training its beam on the far wall. Glass bottles filled with red liquid filled another set of shelves. Each was labeled, not by a common name, but in the Latin taxonomists use to classify animals. *Just don't let human blood be on that shelf. Am I being unreasonable?*
-
-The top shelf mocked her hope; holding nothing but bottles of blood labeled *H. sapiens* as if they were a rare vintage. Her stomach heaved as she closed and locked the freezer door. *No! He's not a vampire! There have to be foods you can make with blood, like sausage... or pudding. Stop it! You'll just sicken yourself further, and you never learned to vomit discreetly! Just keep calm and carry on. You have responsibilities. You can eat cake until you puke afterward.*
-
-Leaving the food processing section behind her helped her master her nausea, and she took several deep breaths by the guard station to calm herself while hiding in one of the booths. *I can't leave yet, as much as I want to. I have to find the killer, if I can. If he is nocturnal, he should be asleep now. First, what's this about ARPA research? Are there laboratories down here?*
-
-She expected the research section under Fort Clarion to be like the other parts of the base she had visited: unused, but maintained in readiness should soldiers of the North American Commonwealth return to reclaim their territory. A brass shell casing crunched beneath her heel as she closed the door behind her and blinked, unable to believe her perception of reality. The skeletal remains of people lay where they had fallen, clad only in the bloodstained, bullet-riddled remnants of their uniforms. The walls were scarred from automatic weapons fire, as if whomever had perpetrated this massacre were possessed of a rage which outlasted not only his supply of victims, but of ammunition. Shattered, twisted equipment lay strewn across the floor. A room which had once held rack-mounted computers was a blackened ruin with shrapnel embedded in the walls and the broken husks of what had once been high-powered computers. *Somebody threw grenades in here. Lots of them. Wait. One of these servers looks almost untouched.*
-
-Using her multitool's screwdrivers, Naomi disassembled the server and retrieved its drive and the cable which connected it to the main board. *It's USB4. Thank God they standardized the plugs.* She plugged the device into her phone, and opened a POSIX shell once the phone was ready. She squinted at the tiny text and pecked at the virtual keyboard to navigate to a directory called "/aux/home/shared/" and issued a command which would traverse the directory tree and provide a paged list of its contents, starting with the directory structure. the only result was a directory named "harker". *OK. Let's see what's inside.*
-
-"**error: filesystem corruption detected in ext5 volume mounted on /aux.**" Naomi blinked at the error for several seconds, before whispering the only appropriate word for such a situation. "Fuck." She blinked again before her brain started to work again. *No need to panic. I can just image the filesystem, and let the Sephiroth salvage what they might later.* She disconnected the drive from her phone, and stowed the device in her backpouch before turning to leave the catacomb which had once been a military research laboratory. She retrieved a block of wood laying before a desk, which proved to be a nameplate. *Henrik Petersen, MD? You bastard. No wonder you insisted those boys were killed by animals. You knew about Fort Clarion. You were involved.*
-
-Noon had come and gone, and the sun hung well into the western sky, by the time Naomi finished clearing the base. A voice startled her as she closed the door to the Quonset hut behind her. "Hello again."
-
-She whirled, drawing her katana as she did so, and found standing before her a man in fatigues whose shape resembled that of the man who had broken into the Brubakers' house last night. His hair seemed spun of white gold, and his eyes were as red as her own, and bore the hallmarks of CPMD. He held a semiautomatic pistol in both hands. "Drop your weapons, step back, and put your hands behind your head. You are under arrest."
-
-"You are right to arrest me, but I cannot permit you to do so." The man spoke with care, as if he had not used his mouth for any purpose but to eat in many years.
-
-"Was it customary in the North American Commonwealth for the authorities to require permission of those they sought to arrest on charges of murder?"
-
-The soldier held his silence for what seemed like minutes to Naomi. "You don't need *my* permission to carry out your duty, ma'am. I meant to say I mean to resist arrest." He raised his pistol, but instead of threatening Naomi, he pointed to a lookout tower at one corner of the base's perimeter. "I didn't want my only sight of you in the light of day to come through a rifle scope, but I have my own duty. I have to protect the base and its secrets."
-
-Her breath caught as she realized how grossly she had miscalculated. *He refrained from shooting me down only because it must have been decades since he last saw a woman. I'm still alive because this poor bastard is lonely. Bloody hell.* "You will attempt to kill me, despite the North American Commonwealth having fallen decades ago?"
-
-His voice rose in protest. "I don't believe you. I would have gotten word."
-
-Naomi recalled the dead left in the ARPA lab. "There was nobody here to tell you. You killed them all, didn't you?"
-
-"All but one." The words were long in coming, and his voice barely audible. He stared at the ground, rather than meet her eyes, as if confessing treason. "Dr. Petersen was away, but I had killed the rest. I destroyed the lab. I *had* to. You don't understand what they did to me and my squad. Nobody does. I had to keep the secret!"
-
-Despite her inability to earn a living as a musician or singer, her education at the Juilliard Conservatory had given her a command of her voice, an awareness of pitch and timbre, which served her as an Adversary. She spoke softly, choosing a low, gentle tone intended to soothe. "You don't have to tell me about Project Harker. Not unless you want to."
-
-"I was assigned to Dusk Patrol right after boot camp. That's what they called the all-CPMD platoon. We were supposed to be trained as a new special forces unit to exploit some of... our differences from regular people. They'd probably have you in there too."
-
-She edged a bit closer as he spoke. *If I can get the gun out of his hands, I might be able to subdue him.* "Why not put away your sidearm? I'll sheathe my sword. We can talk."
-
-"I don't want to talk." His hands trembled a little. He narrowed his eyes as she slipped a few centimeters closer. "Stop it. You think I won't kill you because you're a woman?"
-
-*I need my hands free to get the gun out of his hands anyway. And if Petersen at the village is the same Petersen who used to be stationed here, I need this man alive to identify him.* She sheathed her sword, her movements slowed by exaggerated care. "I've sheathed my sword. I won't hurt you. I don't think you'll kill me, either, but not because I'm a woman. You won't kill me because you've been alone for years. Talk to me, soldier. Start with your name; I don't want to keep calling you 'soldier.'"
-
-"You first." The pistol's muzzle no longer pointed directly at Naomi's face, but towards her chest -- which was protected to an extent by her armored coat. "Tell me your name. Please."
-
-*Nice of you to remember your manners.* "I'm Naomi Bradleigh. I work for the Phoenix Society's department of Individual Rights Defense. We IRD agents call ourselves 'Adversaries'. I'm a civilian, so you needn't address me by rank."
-
-"Is there a story behind that name, Ms. Bradleigh?"
-
-"I think you'd like it. When the Phoenix Society first started rebuilding the world, the Pope was one of the remaining heads of state who opposed the Society. She called us 'Adversaries of the Church' when we told people they didn't have to accept the authority of priests, but had the right to govern themselves. We started calling ourselves Adversaries to spite her."
-
-He stared at her until she had to suppress the urge to ensure she had not grown extra heads. "The Pope's a woman? What kind of name would she take for herself?"
-
-"Magdalene the First. Did you plan on giving me *your* name, or should I give you one myself?"
-
-"Private First Class, Arthur Renfield." Before she had a chance to react to the name, he laughed. "Yeah, I know. I think God has a sick sense of humor."
-
-Naomi shook her head. "Considering that you, Private Renfield, suffered as a test subject of Project Harker, I'm inclined to agree. I don't know what was done to you, or but I imagine it involves an effort to make artificial vampires out of you and the companions in Dusk Patrol. Is that the case?"
-
-The pistol rose again in Renfield's trembling hands. The jittering muzzle seemed to grow until it, and the sweating man squinting behind the iron sights, filled the entirety of Naomi's field of vision. "How much do you know?!"
-
-"I don't know anything else. The Phoenix Society seems to possess detailed information, but it's all classified, and I lack clearance. All I told you is what I managed to piece together on my own. I know you killed those young men, but you didn't know you weren't at war any longer. You yourself were a victim of the experiments done to you. Please put down the pistol and come with me. I think I found one of the men responsible for the atrocities you kept hidden here. Help me bring Henrik Petersen to justice."
-
-"No." The word came in a feral snarl. "*No!* The secret must be kept. The experiments must never be repeated!" Renfield lowered his pistol to aim at her chest, giving Naomi the half-second she needed to draw her own pistol and snap off a shot. The slug tore through his thigh, but the arterial geyser immediately slackened, and the wound closed. Renfield bared his teeth in an animal grin. "Well-played, Ms. Bradleigh. I'll deal with you later, and you'd better pray to God you told the truth about Petersen."
-
-Before Naomi was ready to fire a second shot, Renfield turned and bolted for the fence. He scrambled over with inhuman grace as Naomi holstered her pistol to pursue him. She had her phone in hand the second she topped the fence and had her feet on the ground again. "Malkuth! It's Bradleigh! I need armed backup in the village! The suspect is en route, and I'm in pursuit. Arrest Dr. Henrik Petersen for war crimes connected to Project Harker, and subdue PFC Arthur Renfield by any means necessary!"
-
-She was already on the run when Malkuth replied. "Try to contain the situation. We'll have your backup ASAP."
-
-"I don't need ASAP, dammit. I need RBN! Get a helicopter full of Adversaries airborne *right bloody NOW!*, Malkuth, or by my oath as an Adversary that you won't even have the intellectual capacity to sing 'A Bicycle Built for Two' when I'm done with you!"
-
-## PART FIVE: JUSTICE IN MURDER
+## Chapter V: "Justice in Murder"
 
 Naomi slowed her pace as she took her focus from Malkuth and concentrated on getting back to the village. Her emotions, chief among them terror, screamed at her for greater speed lest she be too late. Images of Renfield beginning a massacre with Dr. Henrik Petersen and Michael Brubaker flashed before her, obscuring her vision of the forest around her as it threatened to cloud her judgment. *I might run faster, for a little while, but the village is five kilometers from here. Hardly a marathon, but I can't sustain a sprint over such distance and be in any condition to fight once I get there. Even if I had such strength, this is unfamiliar, uneven ground. I might injure myself, and never reach the village at all.*
 

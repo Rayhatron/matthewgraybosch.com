@@ -9,7 +9,7 @@ seo:
 ---
 # Tattoo Vampire
 
-##I##
+## Part I
 
 Morgan Stormrider carried with him bittersweet memories of the Queens neighborhood in which Dusk Patrol Tattoo was located. Situated at the edge of Queens, where the city of New York ended and Long Island began, the Nassau's Edge slum constituted a rectangle, three blocks by six, of three story houses whose basements had been converted into shops. The residents refused to leave New York altogether, but were either unable to afford a more fashionable part of the city or unwilling to pay for the privilege of living in one.
 
@@ -17,7 +17,7 @@ The house whose basement Dusk Patrol Tattoo occupied blighted the street. A sane
 
 *I shouldn't be surprised by the proprietor's temerity.* Morgan smiled as he checked the weapons hidden in his boots. His orders were explicit, and required that he disguise his true nature until it was time to make the arrest -- or the kill. *He had the nerve to kill the last Adversary to come for him, so running the sleaziest tattoo parlor in New York while squatting is chump change by comparison.*
 
-The sign behind the door claimed that Dusk Patrol Tattoo was open for business, so Morgan pulled the handle and slipped inside. Dim lights mounted in the ceiling flickered, as if fighting a losing battle against the gloom pervading the front of the shop. The proprietor, identified in Morgan's orders as Quincy Westenra, looked up from a battered book and pointed at a wall of faded designs printed on rice paper. "You got a design in mind, kid? If not, take a look at the shop specials. I've got some stuff you've never seen before, and I can do everything in one session, without any pain -- I guarantee it."
+The sign behind the door claimed that Dusk Patrol Tattoo was open for business, so Morgan pulled the handle and slipped inside. Dim lights mounted in the ceiling flickered, as if fighting a losing battle against the gloom pervading the front of the shop. The proprietor, identified in Morgan's orders as Quincy Westenra, looked up from a battered book and pointed at a wall of faded designs printed on rice paper. "You got a design in mind, kid? If not, take a look at the shop specials. I've got some stuff you've never seen before, and I can do everything in one session, without any pain&mdash;I guarantee it."
 
 Morgan nodded, and made a show of examining the shop's designs. He found nothing a cleaner, better lit tattoo parlor in a more respectable location could not also offer. One poster advertised a variety of Chinese and Japanese ideograms with translations whose accuracy Morgan distrusted. Another offered tribal designs, the exclusive province of douchebags from New York to Tokyo since long before Nationfall. A third offered a variety of nude female figures mounted on great cats and other more improbable beasts. The last offered fantastical designs sufficiently commonplace to comply with an ISO standard.
 
@@ -31,7 +31,7 @@ Westenra named a price. "Half up front. Half after." He shoved a form across the
 
 Morgan nodded as he skimmed the form, which specified the use of local anaesthetics where the tattoo would be pricked into the skin. *Of course, it isn't really a local, but a general. That way your victims can't resist you.* He signed on the dotted line and placed a small sheaf of banknotes atop the form, with the pen as a minimal paperweight. "Shall we begin?" 
 
-##II##
+## Part II
 
 "Dusk Patrol Tattoo? You want me to investigate a tattoo parlor?" Morgan glared at Saul Rosenbaum, incredulous at the IRD Director's preamble to the briefing. "Isn't that a job for city public health inspectors?"
 
@@ -97,7 +97,7 @@ Cohen shook his head. "You've got two girlfriends now? Is Naomi hot?"
 
 Morgan rolled his eyes at Cohen's remark. Unable to trust himself to refrain from admitting that the tall, pale keyboardist Christabel recently brought aboard was not only attractive, but had graced his dreams for the last five years, he allowed himself only a short question. "Am I dismissed?"
 
-##III##
+## Part III
 
 Christabel lowered the violin in the middle of tuning it, and stared at Morgan, unable to believe his words. *Damn it, Isaac, why must you pay me to cheat on you with somebody like Morgan? Why couldn't you ask me to play Mata Hari with some short, fat, balding two pump chump of a businessman with a tiny dick?* "Morgan, did you just say you're going to blow off rehearsal tomorrow?"
 
@@ -113,13 +113,15 @@ Morgan shook his head. "If I wanted to blow you off, I wouldn't show up. I'd exp
 
 Instead of contrition, or any other reaction that suggested Morgan cared about their relationship and was willing to preserve it at any cost, his only response to the ultimatum Christabel issued as to shrug. He adjusted the strap of his guitar case on his shoulder, and turned to Naomi. "I won't be so uncouth as to ask you out so soon after being dumped by Christabel, but I'd love to meet you if you decide not to stick with Crowley's Thoth. I enjoyed working with you, Ms. Bradleigh."
 
-He walked out, oblivious to Christabel as her fury mounted. She hurled a set of headphones at his head, only to see it bounce off the studio door as it closed behind him. *"Asshole!"* She turned her gaze on Naomi, her hands curling into fists as a longing to wipe the small, satisfied smile from her rival's face gripped her. "You seem pleased with yourself, Nims. Was this what you wanted?"
+He walked out, oblivious to Christabel as her fury mounted. She hurled a set of headphones at his head, only to see it bounce off the studio door as it closed behind him. *"Asshole!"* 
 
-"I'd tell you not to be an idiot, but you've already done a thorough job of making a fool of yourself." Naomi conveyed her contempt through words alone; her tone remained conversational. "Since Morgan is probably your first boyfriend, and --"
+She turned her gaze on Naomi, her hands curling into fists as a longing to wipe the small, satisfied smile from her rival's face gripped her. "You seem pleased with yourself, Nims. Was this what you wanted?"
+
+"I'd tell you not to be an idiot, but you've already done a thorough job of making a fool of yourself." Naomi conveyed her contempt through words alone; her tone remained conversational. "Since Morgan is probably your first boyfriend, and&mdash;"
 
 "And you're a bloody serial monogamist."
 
-"--and I'm older and a bit more experienced, would you like me to explain what went wrong? Or shall I pack up and accept Morgan's offer? After you sang his praises with such enthusiasm only yesterday, I'm tempted to find out for myself."
+"&mdash;and I'm older and a bit more experienced, would you like me to explain what went wrong? Or shall I pack up and accept Morgan's offer? After you sang his praises with such enthusiasm only yesterday, I'm tempted to find out for myself."
 
 *Don't you fucking dare.* Christabel kept her first response to herself, realizing despite her anger the extent of her failure. *Damn it. I was just bluffing, but he called me on it and walked out. Isaac will be furious with me if he finds out. I'm supposed to keep Morgan on a string, even though Isaac won't tell me why.* She calmed herself, and took a more respectful tone. "I'm sorry, Naomi. That crack about your own love life was uncalled for. What did I do wrong?"
 
@@ -141,7 +143,7 @@ Naomi shrugged. "Ever consider the possibility that he respects you, or did unti
 
 His response came in plain text. "Never call me on duty."
 
-##IV##
+## Part IV
 
 Remembering his briefing and Christabel's reaction to news of the mission allowed Morgan to pass the time as he pretended to be unconscious in the back room of Dusk Patrol Tattoo. He lay on his side in a fetal position; it would allow Quincy Westenra to place the tattoo on his back, between his shoulder-blades, and allowed him to place his hands closer to the weapons concealed in his boots.
 
@@ -195,7 +197,7 @@ Morgan pressed the muzzle of his pistol into Westenra's throat again, angling th
 
 Morgan shook his head. "Apologies won't save you, but I don't blame you for your ignorance of the truth. You were dead the moment you killed one of my colleagues."
 
-##V##
+## Part V
 
 Christabel settled onto the bed behind Morgan, who sat on the edge with his back to her. Reaching out, she brushed her fingertips against his skin. "Where is it?"
 

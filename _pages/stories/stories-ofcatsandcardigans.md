@@ -9,7 +9,7 @@ seo:
 ---
 # Of Cats and Cardigans
 
-##I##
+## Part I
 
 "Damn it." Morgan Stormrider pulled at the stitch he fouled up. He teased at the snarled wool until it came free, and muttered a harsher curse as he undid several perfectly good stitches in the process.
 
@@ -33,13 +33,13 @@ Morgan cut off Sid's curse. "I'll take it, Malkuth. Let Sid go home to his famil
 
 "You sure, man?" Sid's hopeful tone told Morgan he was right to volunteer to take the case.
 
-Morgan modded as Malkuth began feeding him information. *Andy Crosby, age 13. Reported missing by his mother, Jennifer Crosby, on Saturday, 17 December 2101.*  "Quite sure, Sid. It sounds like the mother went to the police first, and they sat on the case."
+Morgan modded as Malkuth began feeding him information. «Andy Crosby, age 13. Reported missing by his mother, Jennifer Crosby, on Saturday, 17 December 2101.»  "Quite sure, Sid. It sounds like the mother went to the police first, and they sat on the case."
 
 Malkuth's tone became cautionary. "Adversary Stormrider, if a child is missing, we should focus on the child, and not on police misconduct."
 
 Putting aside his knitting, Morgan rolled his shoulders to loosen them. He fastened his armored coat and clipped his sword to his belt before answering. "You need not question my priorities, Malkuth. Rescue first, then retribution."
 
-##II##
+## Part II
 
 Andy Crosby paced the length of the padded room deep in the basement of St. Hermelin's School, careful to avoid overturning the bucket in the corner and spilling its fetid contents across the floor. He tried to ignore his stomach as it knotted itself, but he was out of food. What little he had had, he bought at a corner deli before coming to class on Friday. It was now Tuesday, and despite his efforts at rationing he had eaten the last of his food the night before.
 
@@ -49,7 +49,7 @@ He examined the door again, searching for a weak point. Without any light, he wa
 
 The door held firm.
 
-##III##
+## Part III
 
 Morgan knocked on a red door festooned with evergreens that guarded a basement apartment on 127th Street in Harlem, sandwiched between a halal butcher shop and a Jamaican restaurant. The door opened, and a tear-streaked woman caught his hand and pulled him inside. "Thank God you're here!"
 
@@ -77,27 +77,27 @@ Ms. Crosby's expression darkened in response. "Andy goes to St. Hermelin's Schoo
 
 "Well, he insists on carrying his own hand sanitizer instead of using what the school provides. He says that most of the kids who clean their hands using the school's sanitization stations *change*. He calls them 'Stepford students'. Others become really aggressive, and had to be confined until they calmed down."
 
-"Confined?" Morgan narrowed his eyes, and opened a connection to Malkuth using his implant. *Malkuth, are you monitoring my Witness Protocol feed?*
+"Confined?" Morgan narrowed his eyes, and opened a connection to Malkuth using his implant. «Malkuth, are you monitoring my Witness Protocol feed?»
 
-*Is this about the alleged confinement of unruly students at St. Hermelin's School?*
+«Is this about the alleged confinement of unruly students at St. Hermelin's School?»
 
-*Good, you're paying attention. Seems the biology instructor, one Dr. Josephson, needs a refresher on informed consent. Get me the dirt.*
+«Good, you're paying attention. Seems the biology instructor, one Dr. Josephson, needs a refresher on informed consent. Get me the dirt.»
 
-*Done.* 
+«Done.»
 
 Morgan returned his attention to Ms. Crosby. "Sorry to take my attention from you, ma'am, but I just got in touch with one of the Sephiroth and asked him for further information."
 
 "Do you know where Andy is, Adversary?"
 
-*Morgan, we have a problem. Dr. Charles Josephson appears to have disabled the Witness Protocol functionality in his implant. I got authorization to subpoena NYNET for Andy Crosby's IP address and network access logs for the past week. He dropped off the network Friday afternoon.*
+«Morgan, we have a problem. Dr. Charles Josephson appears to have disabled the Witness Protocol functionality in his implant. I got authorization to subpoena NYNET for Andy Crosby's IP address and network access logs for the past week. He dropped off the network Friday afternoon.»
 
-*So he either disabled his implant before leaving school, or somebody put him in a Faraday cage. Get me a search warrant post fucking haste, Malkuth.* Morgan realized his expression changed as Ms. Crosby recoiled. "I'm sorry to frighten you, ma'am, but I just received information concerning your son. I am confident he never left the school."
+«So he either disabled his implant before leaving school, or somebody put him in a Faraday cage. Get me a search warrant post fucking haste, Malkuth.» Morgan realized his expression had changed as Ms. Crosby recoiled. "I'm sorry to frighten you, ma'am, but I just received information concerning your son. I am confident he never left the school."
 
 Ms Crosby followed him to the door, grabbing her coat. "Let me come with you, Adversary."
 
 "Meet me there." Before Ms. Crosby mustered a response, he leaped up to the street and sprinted toward St. Hermelin's School.
 
-##IV##
+## Part IV
 
 Andy Crosby removed his shoe and rolled up the leg of his jeans. He felt for wounds, sure that he had injured himself when part of the door yielded to his assault and splintered beneath his last kick. Finding nothing, he tried breaking off some of the splinters before putting his arm through the hole to find the latch. "It's locked. Shit."
 
@@ -107,7 +107,7 @@ No answer came, but Andy imagined he heard a door open somewhere up above. Half 
 
 "Yeah. Who are you?"
 
-"I'm Adversary Morgan Stormrider, from the Phoenix Society. Your mother wants you home for the Solstice." A gloved hand reached in, offering a bottle of water and what looked like a protein bar. "Take these, but eat and drink as slowly as you can. If you went four days without food and water, eating too quickly might make you sick."
+"I'm an Adversary from the Phoenix Society. My name is Morgan Stormrider. Your mother wants you home for the Solstice." A gloved hand reached in, offering a bottle of water and what looked like a protein bar. "Take these, but eat and drink as slowly as you can. If you went four days without food and water, eating too quickly might make you sick."
 
 Andy obeyed. "Can you get me out of here? The door's locked."
 
@@ -125,17 +125,17 @@ Andy pressed himself against the wall opposite the door. "What are you--"
 
 Footsteps hammered the floor outside for a moment before the door exploded inward. A tall, pale man with flowing black hair and a longsword in his hands rolled the shoulder he used to break through. He sheathed his sword, sniffed, and glanced at the bucket before offering his hand. "Let's get you to your mother before I deal with the pusbag who locked you in here."
 
-##V##
+## Part V
 
 Morgan pressed himself against the wall beside the door to Dr. Charles Josephson's apartment in the Bronx, and hammered the door with a clenched fist encased in a lightly armored glove. He raised his voice to penetrate the walls. "Dr. Charles Josephson. This is Morgan Stormrider, from the Phoenix Society. I have a warrant."
 
-No response came. *That bastard better not be climbing out the fire escape.* "Dr. Josephson! Open the door, or I will force my way inside!"
+No response came. «That bastard better not be climbing out the fire escape.* "Dr. Josephson! Open the door, or I will force my way inside!"
 
 He strained his ears, hoping to hear the slightest sound that might hint at what conditions he might encounter inside. He heard nothing. *Malkuth, the suspect has not responded. I'm going to force the door."
 
-*Acknowledged. Be careful. Josephson has a wife and two children, who are most likely inside. Our records do not indicate the presence of firearms in the home.*
+«Acknowledged. Be careful. Josephson has a wife and two children, who are most likely inside. Our records do not indicate the presence of firearms in the home.»
 
-*If I take a bullet I'm going to make you explain it to Christabel.* Morgan broke down the door. All was silence inside. Entering the living room, he found a woman sitting upon a sofa with a child on either side, staring at a dead black screen. He stripped the glove from his hand and took the woman's pulse first. "Ma'am. Can you hear me? I'm Morgan Stormrider, from the Phoenix Society. I have a warrant."
+«If I take a bullet I'm going to make you explain it to Christabel.» Morgan broke down the door. All was silence inside. Entering the living room, he found a woman sitting upon a sofa with a child on either side, staring at a dead black screen. He stripped the glove from his hand and took the woman's pulse first. "Ma'am. Can you hear me? I'm Morgan Stormrider, from the Phoenix Society. I have a warrant."
 
 The woman's voice was a monotone. "I can hear you, Morgan Stormrider from the Phoenix Society."
 
@@ -143,41 +143,41 @@ Morgan placed a copy of his warrant on the coffee table. "Ma'am, what happened t
 
 "Charles gave us medicine. He said it would ease our minds and help me be the wife and mother I should be. He told me it would help our children be the sons they should be. He said it was a patch on our flawed human natures."
 
-Morgan recoiled. *Malkuth, I need medical and psychiatric personnel to my location. Whatever Josephson did to the students at St. Hermelin's, he also did to his wife and kids.* "Ma'am, where is your husband. It is imperative that I find him."
+Morgan recoiled. «Malkuth, I need medical and psychiatric personnel to my location. Whatever Josephson did to the students at St. Hermelin's, he also did to his wife and kids.» "Ma'am, where is your husband. It is imperative that I find him."
 
 "He told me somebody from the Phoenix Society might come, Morgan Stormrider. He told me I am to tell you nothing. He gave me something to use if you do not leave us in peace." Ms. Josephson finally moved a muscle other than those necessary for speaking, rising from the sofa as she produced a sawed-off shotgun from between the cushions.
 
-Morgan wrenched the weapon from her grip. He reversed the weapon so that its muzzle pointed at her and her children, and withdrew. *Malkuth, where the* fuck *are the medics? Mrs. Stepford here just pulled a sawed-off.*
+Morgan wrenched the weapon from her grip. He reversed the weapon so that its muzzle pointed at her and her children, and withdrew. «Malkuth, where the *fuck* are the medics? Mrs. Stepford here just pulled a sawed-off.»
 
-*My request for an ambulance was overridden. An emergency team from Ohrmazd Medical Group is en route. They're trained to deal with people affected by the Patch.*
+«My request for an ambulance was overridden. An emergency team from Ohrmazd Medical Group is en route. They're trained to deal with people affected by the Patch.»
 
-*The Patch, as in the nanotech used just before Nationfall?* Cold radiated from Morgan spine, leaching into the rest of his body.
+«The Patch, as in the nanotech used just before Nationfall?» Cold radiated from Morgan spine, leaching into the rest of his body.
 
-*Yes.* Malkuth paused, and his tone became more formal. *Adversary, lethal force is no longer authorized for this mission, by Executive Council order. You must capture Charles Josephson by any means necessary, regardless of risk to yourself or bystanders.*
+«Yes.» Malkuth paused, and his tone became more formal. «Adversary, lethal force is no longer authorized for this mission, by Executive Council order. You must capture Charles Josephson by any means necessary, regardless of risk to yourself or bystanders.»
 
-*Change to mission parameters acknowledged.* Morgan took a breath, unloaded the shotgun, and threw the weapon aside before putting his glove back on. He continued his search, clearing each room before finding a lockeddoor. Light leaked out from under the door, and the staccato of fingers on a keyboard came from within.
+«Change to mission parameters acknowledged.» Morgan took a breath, unloaded the shotgun, and threw the weapon aside before putting his glove back on. He continued his search, clearing each room before finding a lockeddoor. Light leaked out from under the door, and the staccato of fingers on a keyboard came from within.
 
 Morgan smiled as he examined the door. It opened outward, and the hinges were sufficiently old-fashioned that he could pull the pins and remove the door.
 
 So absorbed was Dr. Josephson in his work that Morgan removed the door to his study and placed himself behind the teacher without being challenged. He was short and pudgy, but stood ramrod straight at his workstation. Morgan crept closer, drew a knife, and considered making the capture immediately.
 
-*Can you take a small step to the left, and get a better view over the suspect's shoulder?*
+«Can you take a small step to the left, and get a better view over the suspect's shoulder?»
 
-Morgan blinked, surprised at Malkuth's request. *If I bust him now, we can just take his computer.*
+Morgan blinked, surprised at Malkuth's request. «If I bust him now, we can just take his computer.»
 
-*He might have countermeasures in place. While he's logged in and viewing the data himself, we can gather evidence. However, I need you to tell me what he's doing. The compression algorithms we use for Witness Protocol preserve facial detail and voices, but are suboptimal for looking at text on a screen over somebody's shoulder.*
+«He might have countermeasures in place. While he's logged in and viewing the data himself, we can gather evidence. However, I need you to tell me what he's doing. The compression algorithms we use for Witness Protocol preserve facial detail and voices, but are suboptimal for looking at text on a screen over somebody's shoulder.»
 
-*You should have somebody fix that. He's got a secure relay chat open in the top left of his screen. All of the handles look like St. Hermelin's email accounts.*
+«You should have somebody fix that. He's got a secure relay chat open in the top left of his screen. All of the handles look like St. Hermelin's email accounts.»
 
-*He's chatting with the faculty?*
+«He's chatting with the faculty?»
 
-*The bastards are all in on it. One of them is complaining that it has to be re-applied every day. That should prove a comfort to the kids' parents. Another is griping about how unresponsive her husband is when he's patched. Does she mean what I think she means?*
+«The bastards are all in on it. One of them is complaining that it has to be re-applied every day. That should prove a comfort to the kids' parents. Another is griping about how unresponsive her husband is when he's patched. Does she mean what I think she means?»
 
-*Remember the mission, Adversary. What else does he have on his screen?*
+«Remember the mission, Adversary. What else does he have on his screen?»
 
-*Bottom left looks like documentation for an old nanoassembler's programming language. The right-hand side of the screen is a text editor with a code file, but it looks like there's more commentary than code. A lot of them are signed Aaron Josephson. Malkuth, I think he's working on improvements to the original Patch. He already modified it for topical application, and--wait. He just added a little note: "TODO: research aerosolization".*
+«Bottom left looks like documentation for an old nanoassembler's programming language. The right-hand side of the screen is a text editor with a code file, but it looks like there's more commentary than code. A lot of them are signed Aaron Josephson. Malkuth, I think he's working on improvements to the original Patch. He already modified it for topical application, and&mdash;wait. He just added a little note: "TODO: research aerosolization".»
 
-Several minutes passed before Malkuth's next response. *Make the arrest.*
+Several minutes passed before Malkuth's next response. «Make the arrest.»
 
 Morgan caught Dr. Josephson in a half nelson while using his other hand to press the knife's point against the teacher's throat. "Dr. Charles Josephson, I presume."
 
@@ -187,7 +187,7 @@ Morgan caught Dr. Josephson in a half nelson while using his other hand to press
 
 Morgan threw him into the hallway before he could type his password, and cut the power to the old computer. He checked his leg, and found that the bleeding had stopped. He hauled Josephson to his feet and began frog-marching him down the hallway. "The only reason you remain unharmed is that the people paying my salary want to talk to you."
 
-##VI##
+## Part VI
 
 Morgan almost dropped the bag containing his gifts to Christabel and Naomi as the former pulled him inside. She did not bother to close the door before pressing him against the nearest wall and kissing him. "I thought you wouldn't make it!"
 
@@ -215,7 +215,7 @@ Morgan looked at the kitten. "Christabel thinks your name is Mordred. What do yo
 
 "Come on, Mordred. Morgan and I have to go to Naomi's now." Christabel lifted the kitten from Morgan's shoulder and cuddled him close to her chest before returning him to the floor. "Naomi and I thought it best to keep the presents under her tree, because of our little friend."
 
-##VII##
+## Part VII
 
 Naomi waited until Christabel was inside before pointing out the mistletoe to Morgan. Before he could stop her, she stole a kiss. "I heard about the Josephson case. I'm proud of you."
 
@@ -241,7 +241,7 @@ Christabel slipped her arms around Morgan from behind. "Edmund Cohen said he'd m
 
 "I'm just waiting for the lasagna. Everything else is in the dining room, ready to serve."
 
-##VIII##
+## Part VIII
 
 Morgan stared at the remains of the Solstice dinner that Christabel and Naomi must have spent the last day preparing together, unable to stomach the thought of eating more right now. "This was wonderful, but I dare not eat another bite."
 
