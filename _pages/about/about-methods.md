@@ -1,8 +1,8 @@
 ---
 layout: page
-title: How I Write
-description: Information about how Matthew Graybosch writes, and what tools he uses.
-permalink: /about/how-i-write/
+title: My Methods and Tools
+description: Information about Matthew Graybosch writing methods and preferred tools.
+permalink: /about/methods-and-tools/
 ---
 # How I Do It
 

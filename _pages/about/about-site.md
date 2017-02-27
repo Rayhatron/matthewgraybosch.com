@@ -1,15 +1,8 @@
 ---
-title: About This Site
-excerpt: "Information about this website"
-layout: single
-author_profile: false
-header:
-  overlay_image: http://i.imgur.com/gSGJNRE.jpg
-  overlay_filter: 0.5
-  caption: "Photo credit: **[Unsplash/Ilya Pavlov](https://unsplash.com/search/website?photo=OqtafYT5kTw)**"
+layout: page
+title: Bio
+description: A brief biography of Matthew Graybosch. At least half of it is a lie.
 permalink: /about/site/
-sidebar:
-  nav: "about"
 ---
 This site is basically my soapbox and an advertisement for me and my work. It's built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) kit by [Michael Rose](https://mademistakes.com/) with tweaks by yours truly.
 

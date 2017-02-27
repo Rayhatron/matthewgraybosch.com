@@ -11,7 +11,7 @@ seo:
 ---
 I found this on Reddit a little while ago and thought, "hell yeah". So I decided to share it here with attribution and a link back to where I found it. Captain America is pretty much the only superhero I can really get behind these days, which is strange because he isn't metal.
 
-He *would* make a good Adversary, for those of you who have read my [Starbreaker](/about/starbreaker/) stories and know what that means. Why? Because he honestly would stand up for people like the protesters pictured below.
+He *would* make a good Adversary, for those of you who have read my [Starbreaker](/stories/starbreaker/) stories and know what that means. Why? Because he honestly would stand up for people like the protesters pictured below.
 
 {% include image.html src="http://i.imgur.com/qkQlEEd.jpg" alt="Captain America: a real patriot" caption="Art by Tom Hodges (Source: [Imgur](http://imgur.com/qkQlEEd))" %}
 

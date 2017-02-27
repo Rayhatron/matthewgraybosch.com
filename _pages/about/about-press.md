@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Press Kit
-description: 
+description: A condensed information packet about Matthew Graybosch for use by the press.
 permalink: /about/press/
 ---
 

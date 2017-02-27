@@ -34,10 +34,22 @@ about:
   title: "Further Information"
   description: "You'll find everything you need here. Just use the links below."
   items:
+    - title: "About This Site"
+      url: /about/site/
+    - title: "Bio and Info for the Press"
+      url: /about/press/
     - title: "About Starbreaker"
-      url: /about/starbreaker/
-    - title: How to Hire Me for a Development Position
+      url: /stories/starbreaker/
+    - title: "How I Started Writing"
+      url: /about/how-i-started-writing/
+    - title: "Why I Write (a brief manifesto)"
+      url: /about/manifesto/
+    - title: "My Methods and Tools"
+      url: /about/methods-and-tools/
+    - title: "How to Hire Me for a Development Position"
       url: /about/hiring/
+    - title: "How to Support Me"
+      url: /about/support/
 wip:
   title: "Works in Progress"
   description: "Here's what I'm working on now. Bookmark the links below and visit often to keep up with my progress."
