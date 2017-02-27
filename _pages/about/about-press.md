@@ -72,7 +72,13 @@ I do it with vivid characters, Byzantine plots you'll need to read twice to figu
 
 ### Are the Starbreaker novels appropriate for children?
 
-Nobody under the age of sixteen should be reading my books without close parental supervision.
+A faithful adaptation for TV, feature film or video games would most likely be rated TV-MA, R, or M due to graphic violence, extensive profanity, occasional blasphemy, explicitly sexual situations involving consenting adaults, and adult themes such as abuse of power, existential crises, loss of faith, betrayal, and revenge.
+
+Children under the age of 16 probably shouldn't read my Starbreaker novels or stories without parental supervision.
+
+### I'm a Christian. Is Starbreaker for me and my children?
+
+Probably not. In addition to the content mentioned previously, Christian parents and readers should be warned that the Starbreaker novels present atheism, agnosticism, and polytheism in a favorable light, use Satanic symbolism, and depict a world where adherents of Judaism, Christianity, and Islam are a small and frequently despised minority.
 
 ## Excerpts
 

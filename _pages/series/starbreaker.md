@@ -17,12 +17,19 @@ However, a millennia-old conspiracy uses subterfuge and magic to maintain its co
 
 {% include image.html src="/assets/images/fullsize/series-cover-starbreaker-artnouveau.jpg" alt="art-nouveau style artwork" caption="Series cover commissioned by Curiosity Quills Press. Artwork by Sara McSorley." %}
 
-### Books
+### Novels
 
 The books and stories of the Starbreaker saga are listed in chronological order, with publication dates in parentheses.
 
-* [*Silent Clarion*](/stories/starbreaker/silent-clarion/) (October 2016)
+#### Starbreaker
+
 * [*Without Bloodshed*](/stories/starbreaker/without-bloodshed/) (November 2013)
+
+#### Starbreaker Origins
+
+* [*Silent Clarion*](/stories/starbreaker/silent-clarion/) (October 2016)
+
+While you need not have read *Without Bloodshed* to enjoy *Silent Clarion*, some readers have suggested that *Silent Clarion* is a gentler introduction to Starbreaker. In addition, the "Starbreaker Origins" titles indicate origin stories/introductions for various characters.
 
 ### Shorter Works
 
@@ -34,11 +41,41 @@ The books and stories of the Starbreaker saga are listed in chronological order,
 
 ### Works in Progress
 
-* [*Blackened Phoenix*](/stories/starbreaker/blackened-phoenix/) (TBD)
-* *Proscribed Constructs*/*Heartless Savior* (TBD)
-* *A Tyranny of Angels* (TBD)
+Here's what I'm working on now.
 
-Please note that you need not have read *Without Bloodshed* to enjoy *Silent Clarion*, but some readers have suggested that *Silent Clarion* is a gentler introduction to Starbreaker.
+#### Starbreaker
+
+* [*Blackened Phoenix*](/stories/starbreaker/blackened-phoenix/)
+
+### Future Works
+
+Here's what I'll be working on next.
+
+#### Starbreaker
+
+* *Proscribed Constructs* (or *Heartless Savior* &mdash; final title TBD)
+* *A Tyranny of Angels*
+
+#### Starbreaker Origins
+
+* *Dead Man's Hand*
+* *Nightmare Sequencer*
+* *A Light That Never Warms*
+
+### Possibilities
+
+These titles are based on ideas I've kicked around for after I'm done with Starbreaker and the related Starbreaker Origins novels. Some are set after Starbreaker, and others before.
+
+#### Starbreaker Aftermath
+
+* *The Spiral Architects*
+* *Children of the Grave*
+
+#### Nationfall: An Occult History of the Last Apocalypse
+
+* *The Widening Gyre*
+* *To End All Wars*
+* *From The Ashes*
 
 ## Inspired by Heavy Metal
 
