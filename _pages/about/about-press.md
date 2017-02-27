@@ -13,8 +13,6 @@ Matthew Graybosch is the author of *Silent Clarion*, *Without Bloodshed*, and se
 
 ## Full Bio
 
-(Taken from the [About](/about/bio/) page)
-
 According to official records maintained by the state of New York, Matthew Graybosch was born on Long Island in 1978.
 
 Urban legends suggest he might be Rosemary’s Baby or the result of top-secret DOD attempts to continue Nazi experiments combining human technology and black magic. The most outlandish tale suggests that he sprang fully grown from his father’s forehead with a sledgehammer in one hand and the second edition of *The C Programming Language* in the other&mdash;and has been giving the poor man headaches ever since.
