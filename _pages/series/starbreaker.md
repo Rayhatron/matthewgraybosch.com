@@ -19,7 +19,9 @@ However, a millennia-old conspiracy uses subterfuge and magic to maintain its co
 
 ## How to Read Starbreaker
 
-The books and stories of the Starbreaker saga are listed in chronological order, with publication dates in parentheses.
+The books and stories of the Starbreaker saga are listed in chronological order, with publication dates in parentheses. The main saga is just called "Starbreaker", but I've also begun a "Starbreaker Origins" series featuring individual characters' stories. I'll eventually write a "Starbreaker Aftermath" series taking the setting decades into its future, and also explore its past in "Nationfall: An Occult History of the Last Apocalypse".
+
+I hope you'll stick around for the ride. It's gonna be a long, strange mother of a trip.
 
 ### Novels
 
@@ -89,6 +91,30 @@ These titles are based on ideas I've kicked around for after I'm done with Starb
 I wasn't kidding when I said Starbreaker was inspired by heavy metal. If you have a Spotify account, or don't mind making one, you can hear some of the songs that inspired the characters and story of Starbreaker over the last twenty years.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1238897208%3Aplaylist%3A38zMnZR0VLgtbJ0JeGM4Sp" width="500" height="580" frameborder="0" allowtransparency="true"></iframe>
+
+## Starbreaker Isn't Just for Metalheads
+
+In addition to the heavy metal sound that inspired Starbreaker, my saga also owes much to an East meets West collision of manga, anime, movies, comics, books,and video games. 
+
+### East...
+
+Believe it or not, I originally started writing Starbreaker because I wanted to come up with a better story than *Final Fantasy VII*, but I drew upon other Japanese influences over the years.
+
+Influential manga and anime  include *X* (released as *X/1999* in the US), *The Slayers*, *Berserk*, *Vampire Hunter D*, *Akira*, *Neon Genesis Evangelion*, *Golgo-13*, *RahXephon*, *Saiyuki*, *Vagabond*, *Princess Jellyfish*, and *Death Note*.
+
+Game influences encompass classic franchises like *Final Fantasy*, *Shin Megami Tensei* (including spin-offs like *Digital Devil Saga: Avatar Tuner* and *Persona*), *Suikoden*, *Deus Ex*, *Lunar*, *Rockman*, *InFamous*, *Metal Gear*, and *Phantasy Star*.
+
+### ...Meets West
+
+Starbreaker isn't just for metalheads, anime fans, and gamers because neither am I.
+
+You might also enjoy Starbreaker if you enjoyed movies like *Die Hard*, *The Crow*, *Demolition Man*, *Dredd*, *Army of Darkness*, *Ghostbusters*, *They Live*, *Escape from New York*, *The Adventures of Buckaroo Banzai Across the Eighth Dimension*, *Big Trouble in Little China*, *Stargate*, *2001: A Space Odyssey*, *2010: The Year We Make Contact*, *Unbreakable*, *The Usual Suspects*, *Pulp Fiction*, *John Wick*, *Kill Bill*, or *The Devil's Advocate*.
+
+Are you a comics fan? If you're familiar with *The Authority*, *Watchmen*, *V for Vendetta*, *Preacher*, *Judge Dredd*, *Lucifer*, *Sandman*, *Luke Cage*, *Jessica Jones*, *The Punisher*, or *Doctor Strange*, you might also enjoy Starbreaker.
+
+Nor have I forgotten you bookworms! Sure, Starbreaker has a gray wizard and a white wizard (whom the ladies describe as having a gifted tongue) but this isn't just another *Lord of the Rings* pastiche. Instead, I would like to think I draw upon the traditions of writers like Alexandre Dumas the elder, Jane Austen, Michael Moorcock, Catherine Lucille Moore, Roger Zelazny, Leigh Brackett, Steven Brust, C. J. Cherryh, M. John Harrison, Carol Berg, Scott Lynch, Celia S. Friedman, China Mieville, Jacqueline Carey, and Neal Stephenson.
+
+Whether I actually *do* is another matter entirely, and one best settled by academics long after I'm dead. :cat:
 
 ## A Little Taste
 
