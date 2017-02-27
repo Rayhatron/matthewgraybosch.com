@@ -27,6 +27,8 @@ I wasn't kidding when I said Starbreaker was inspired by heavy metal. If you hav
 
 Want a little taste of Starbreaker? Try these quotes from various stories.
 
+{% include image.html src="/assets/images/fullsize/starbreaker-cast-morgannaomi.jpg" alt="character art" caption="Morgan and Naomi in *Without Bloodshed*. Artwork by Harvey Bunda." %}
+
 ### Morgan in *Without Bloodshed*
 
 > You're right, Naomi. I *am* tired. When reasonable Adversaries like you fail, the Society turns to unreasonable ones like me. When diplomats fail, the Society speaks of necessary evils and resorts to killers. I'm tired of being a necessary evil.
@@ -39,19 +41,19 @@ Want a little taste of Starbreaker? Try these quotes from various stories.
 
 > The Shenzhen labor strike was engineered. Isaac Magnin and the rest of the Executive Council have their hands in everything: corporations, organized labor, organized religion, and even organized crime. It's all a revenue stream for those bastards, and while they leave sole proprietors and co-ops alone, businesses are extorted of half their profits. Anybody who doesn't pay up finds their workforce on strike. If they still haven't fallen in line after the strike, we get sent in to make sure they pay up&mdash;or die.
 
-## The Cast
-
-{% include image.html src="/assets/images/fullsize/starbreaker-cast-collage.jpg" alt="character portrait collage" caption="Some of the cast of Starbreaker. Commissioned artwork by Harvey Bunda." %}
+## Meet The Cast
 
 Taken from the design works for *Blackened Phoenix*, this is a list of major characters in the Starbreaker saga grouped by organization, faction, or type. It is not exhaustive, and might contain spoilers.
 
- * Annelise Copeland - a rising New York fashion designer with her own boutique on Fifth Avenue. Bears a striking resemblance to the late Christabel Crowley.
- * Sabaoth - an ensof imprisoned beneath the Antarctic ice cap by Imaginos. Frequently appears before humans, claims to be God, and demands humans obey his commands to commit genocide.
- * Mordred - A rakshasa who has adopted Morgan Stormrider and his companions. Can understand English, but his spoken vocabulary is limited to "meow".
+{% include image.html src="/assets/images/fullsize/starbreaker-cast-collage.jpg" alt="character portrait collage" caption="Some of the cast of Starbreaker. Commissioned artwork by Harvey Bunda." %}
+
+* Annelise Copeland - a rising New York fashion designer with her own boutique on Fifth Avenue. Bears a striking resemblance to the late Christabel Crowley.
+* Sabaoth - an ensof imprisoned beneath the Antarctic ice cap by Imaginos. Frequently appears before humans, claims to be God, and demands humans obey his commands to commit genocide.
+* Mordred - A rakshasa who has adopted Morgan Stormrider and his companions. Can understand English, but his spoken vocabulary is limited to "meow".
 
 ### Crowley's Thoth
 
-Crowley's Thoth is a neo-Romantic heavy metal band active between 2101 and 2112. Noted for albums like *Prometheus Unbound*, *Glass Earth Falling*, and *Water Margin*; Crowley's Thoth is also famous for its three-hour live shows, which often start without the band's founder and violinist.
+Crowley's Thoth is a neo-Romantic heavy metal band active between 2101 and 2112. Noted for albums like *Prometheus Unbound*, *Le Morte D'Arthur*, and *Water Margin*; Crowley's Thoth is also famous for its three-hour live shows, which often start without the band's founder and violinist. Their final album, released at the beginning of 2112, was *Glass Earth Falling*.
 
 * Christabel Crowley (deceased?) - Violin/Viola
 * Morgan Stormrider - Guitar/Vocals
@@ -65,12 +67,12 @@ The Phoenix Society is nominally a non-government organization dedicated to the 
 
 Adversaries are agents of the Phoenix Society's enforcement arm, the **Individual Rights Defense** corps. If Solid Snake from *Metal Gear Solid* worked for the ACLU, he'd be similar to what Adversaries are supposed to be.
 
- * Morgan Stormrider
- * Naomi Bradleigh
- * Edmund Cohen
- * Sid Schneider
- * Sarah Kohlrynn
- * Catherine Gatto
+* Morgan Stormrider
+* Naomi Bradleigh
+* Edmund Cohen
+* Sid Schneider
+* Sarah Kohlrynn
+* Catherine Gatto
 
 #### IRD Corps Directors
 
@@ -116,7 +118,7 @@ The Asgard Technological Development Corporation (AsgarTech) is one with a long 
 * Dr. Josefine Malmgren, ÆsirOS developer/Project Æsir (Asura Emulator Project)
 * Polaris, Project Æsir prototype
 
-### Ohrmazd Medical group
+### Ohrmazd Medical Group
 
 Ostensibly a benevolent organization specializing in providing bleeding-edge medical care to the masses, Ohrmazd Medical is also involved in the Asura Emulator Project.
 
