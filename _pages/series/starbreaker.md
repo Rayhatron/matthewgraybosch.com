@@ -9,7 +9,7 @@ seo:
 ---
 Over twenty years in the making, Starbreaker is a heavy metal science fantasy epic set in a twisted mirror image of our own world's near future.
 
-## About Starbreaker
+## Introduction
 
 After a collapse remembered by the survivors as Nationfall, humanity rebuilt their civilization and sparked a Second Renaissance. The resurgent human population lives and works with human-level artificial intelligence, settlements on Luna and Mars debate whether and how to preserve the landing sites of pre-Nationfall spacecraft, and an elite corps of Adversaries watch over church, state, and commerce to root out corruption and abuses of power.
 
@@ -17,9 +17,13 @@ However, a millennia-old conspiracy uses subterfuge and magic to maintain its co
 
 {% include image.html src="/assets/images/fullsize/series-cover-starbreaker-artnouveau.jpg" alt="art-nouveau style artwork" caption="Series cover commissioned by Curiosity Quills Press. Artwork by Sara McSorley." %}
 
-### Novels
+## How to Read Starbreaker
 
 The books and stories of the Starbreaker saga are listed in chronological order, with publication dates in parentheses.
+
+### Novels
+
+Starbreaker originally started out as *one* gargantuan novel, but I've since expanded the story so that it no longer fits in one volume.
 
 #### Starbreaker
 
@@ -33,10 +37,12 @@ While you need not have read *Without Bloodshed* to enjoy *Silent Clarion*, some
 
 ### Shorter Works
 
+Don't have time to read a novel? Do you want to try before you buy? Maybe these shorter works will catch your interest.
+
 * ["Steadfast"](/stories/starbreaker/steadfast/) (October 2012)
 * ["The Milgram Battery"](/stories/starbreaker/milgram-battery/) (October 2013)
-* ["Tattoo Vampire"](/stories/starbreaker/of-cats-and-cardigans/) (October 2014)
 * ["Of Cats and Cardigans"](/stories/starbreaker/tattoo-vampire/) (December 2013)
+* ["Tattoo Vampire"](/stories/starbreaker/of-cats-and-cardigans/) (October 2014)
 * ["Limited Liability"](/stories/starbreaker/limited-liability/) (January 2015)
 
 ### Works in Progress
@@ -75,7 +81,7 @@ These titles are based on ideas I've kicked around for after I'm done with Starb
 
 * *The Widening Gyre*
 * *To End All Wars*
-* *From The Ashes*
+* *Take Hold of the Flame*
 
 ## Inspired by Heavy Metal
 
