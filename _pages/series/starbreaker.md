@@ -13,7 +13,7 @@ Over twenty years in the making, Starbreaker is a heavy metal science fantasy ep
 
 After a collapse remembered by the survivors as Nationfall, humanity rebuilt their civilization and sparked a Second Renaissance. The resurgent human population lives and works with human-level artificial intelligence, settlements on Luna and Mars debate whether and how to preserve the landing sites of pre-Nationfall spacecraft, and an elite corps of Adversaries watch over church, state, and commerce to root out corruption and abuses of power.
 
-However, a millennia-old conspiracy uses subterfuge and magic to maintain its control of the world. A threat to humanity’s survival and that of a race which lived among humanity since the dawn of human civilization waits to break free of its underground prison. The person best suited to face this threat doesn’t know he’s not human, but a sentient bioweapon.
+However, a millennia-old conspiracy uses subterfuge and magic to maintain its control of the world. A threat to humanity’s survival and that of a race which lived among humanity since the dawn of human civilization waits to break free of its underground prison. The person best suited to face this threat doesn’t know he’s not human, but a sentient bioweapon who would rather be a rock star.
 
 {% include image.html src="/assets/images/fullsize/series-cover-starbreaker-artnouveau.jpg" alt="art-nouveau style artwork" caption="Series cover commissioned by Curiosity Quills Press. Artwork by Sara McSorley." %}
 
@@ -76,6 +76,7 @@ These titles are based on ideas I've kicked around for after I'm done with Starb
 
 * *The Spiral Architects*
 * *Children of the Grave*
+* *Omega Point Blank*
 
 #### Nationfall: An Occult History of the Last Apocalypse
 
