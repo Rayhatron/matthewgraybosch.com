@@ -51,26 +51,26 @@ novels:
   items:
     - title: "*Silent Clarion*"
       url: /stories/starbreaker/silent-clarion/
-      date: 2016
+      date: "October 2016"
     - title: "*Without Bloodshed*"
       url: /stories/starbreaker/without-bloodshed/
-      date: 2013
+      date: "November 2013"
 shorts:
   title: "Short Stories, Novelettes, and Novellas"
   description: "While I prefer to write novels, I sometimes write shorter pieces as well."
   items:
-    - title: "&quot;Limited Liability&quot;"
-      url: /stories/starbreaker/limited-liability/
-      date: 2015
     - title: "&quot;Steadfast&quot;"
       url: /stories/starbreaker/steadfast/
-      date: 2014
+      date: "October 2012"
     - title: "&quot;The Milgram Battery&quot;"
       url: /stories/starbreaker/milgram-battery/
-      date: 2013
+      date: "October 2013"
     - title: "&quot;Of Cats and Cardigans&quot;"
       url: /stories/starbreaker/of-cats-and-cardigans/
-      date: 2012
+      date: "December 2013"
     - title: "&quot;Tattoo Vampire&quot;"
       url: /stories/starbreaker/tattoo-vampire/
-      date: 2012
+      date: "October 2014"
+    - title: "&quot;Limited Liability&quot;"
+      url: /stories/starbreaker/limited-liability/
+      date: "January 2015"

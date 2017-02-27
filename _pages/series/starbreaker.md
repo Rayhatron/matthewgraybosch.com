@@ -17,6 +17,29 @@ However, a millennia-old conspiracy uses subterfuge and magic to maintain its co
 
 {% include image.html src="/assets/images/fullsize/series-cover-starbreaker-artnouveau.jpg" alt="art-nouveau style artwork" caption="Series cover commissioned by Curiosity Quills Press. Artwork by Sara McSorley." %}
 
+### Books
+
+The books and stories of the Starbreaker saga are listed in chronological order, with publication dates in parentheses.
+
+* [*Silent Clarion*](/stories/starbreaker/silent-clarion/) (October 2016)
+* [*Without Bloodshed*](/stories/starbreaker/without-bloodshed/) (November 2013)
+
+### Shorter Works
+
+* ["Steadfast"](/stories/starbreaker/steadfast/) (October 2012)
+* ["The Milgram Battery"](/stories/starbreaker/milgram-battery/) (October 2013)
+* ["Tattoo Vampire"](/stories/starbreaker/of-cats-and-cardigans/) (October 2014)
+* ["Of Cats and Cardigans"](/stories/starbreaker/tattoo-vampire/) (December 2013)
+* ["Limited Liability"](/stories/starbreaker/limited-liability/) (January 2015)
+
+### Works in Progress
+
+* [*Blackened Phoenix*](/stories/starbreaker/blackened-phoenix/) (TBD)
+* *Proscribed Constructs*/*Heartless Savior* (TBD)
+* *A Tyranny of Angels* (TBD)
+
+Please note that you need not have read *Without Bloodshed* to enjoy *Silent Clarion*, but some readers have suggested that *Silent Clarion* is a gentler introduction to Starbreaker.
+
 ## Inspired by Heavy Metal
 
 I wasn't kidding when I said Starbreaker was inspired by heavy metal. If you have a Spotify account, or don't mind making one, you can hear some of the songs that inspired the characters and story of Starbreaker over the last twenty years.
