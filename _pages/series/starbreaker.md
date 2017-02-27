@@ -37,7 +37,7 @@ While you need not have read *Without Bloodshed* to enjoy *Silent Clarion*, some
 
 ### Shorter Works
 
-Don't have time to read a novel? Do you want to try before you buy? Maybe these shorter works will catch your interest.
+Don't have time to read a novel? Do you want to try before you buy? Maybe these shorter works will catch your interest, despite being rougher than my novels.
 
 * ["Steadfast"](/stories/starbreaker/steadfast/) (October 2012)
 * ["The Milgram Battery"](/stories/starbreaker/milgram-battery/) (October 2013)
