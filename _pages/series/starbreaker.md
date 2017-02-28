@@ -15,7 +15,7 @@ After a collapse remembered by the survivors as Nationfall, humanity rebuilt the
 
 However, a millennia-old conspiracy uses subterfuge and magic to maintain its control of the world. A threat to humanity’s survival and that of a race which lived among humanity since the dawn of human civilization waits to break free of its underground prison. The person best suited to face this threat doesn’t know he’s not human, but a sentient bioweapon who would rather be a rock star.
 
-{% include image.html src="/assets/images/fullsize/series-cover-starbreaker-artnouveau.jpg" alt="art-nouveau style artwork" caption="Series cover commissioned by Curiosity Quills Press. Artwork by Sara McSorley." %}
+{% include image.html src="/assets/images/resized/series-cover-starbreaker-artnouveau.jpg" alt="art-nouveau style artwork" caption="Series cover commissioned by Curiosity Quills Press. Artwork by Sara McSorley." %}
 
 ## How to Read Starbreaker
 
@@ -120,7 +120,7 @@ Whether I actually *do* is another matter entirely, and one best settled by acad
 
 Want a little taste of Starbreaker? Try these quotes from various stories.
 
-{% include image.html src="/assets/images/fullsize/starbreaker-cast-morgannaomi.jpg" alt="character art" caption="Morgan and Naomi in *Without Bloodshed*. Artwork by Harvey Bunda." %}
+{% include image.html src="/assets/images/resized/starbreaker-cast-morgannaomi.jpg" alt="character art" caption="Morgan and Naomi in *Without Bloodshed*. Artwork by Harvey Bunda." %}
 
 ### Morgan in *Without Bloodshed*
 
@@ -138,7 +138,7 @@ Want a little taste of Starbreaker? Try these quotes from various stories.
 
 Taken from the design works for *Blackened Phoenix*, this is a list of major characters in the Starbreaker saga grouped by organization, faction, or type. It is not exhaustive, and might contain spoilers.
 
-{% include image.html src="/assets/images/fullsize/starbreaker-cast-collage.jpg" alt="character portrait collage" caption="Some of the cast of Starbreaker. Commissioned artwork by Harvey Bunda." %}
+{% include image.html src="/assets/images/resized/starbreaker-cast-collage.jpg" alt="character portrait collage" caption="Some of the cast of Starbreaker. Commissioned artwork by Harvey Bunda." %}
 
 * Annelise Copeland - a rising New York fashion designer with her own boutique on Fifth Avenue. Bears a striking resemblance to the late Christabel Crowley.
 * Sabaoth - an ensof imprisoned beneath the Antarctic ice cap by Imaginos. Frequently appears before humans, claims to be God, and demands humans obey his commands to commit genocide.

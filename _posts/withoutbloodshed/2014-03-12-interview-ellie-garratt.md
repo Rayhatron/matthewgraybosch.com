@@ -12,6 +12,6 @@ British SF author <a title="Ellie Garratt on Blogger" href="http://elliegarratt.
 
 Ellie is also the author of two collections of short stories, _Taking Time_ and _Passing Time_. The covers link to their respective Amazon pages if you want to help her out by buying copies.
 
-{% include image.html src="/assets/images/fullsize/ellie-garratt-taking-time.jpg" alt="book cover" caption="[*Taking Time* by Ellie Garratt]((http://www.amazon.com/Taking-Science-Fiction-Stories-ebook/dp/B00F193EVM/)" %}
+{% include image.html src="/assets/images/resized/ellie-garratt-taking-time.jpg" alt="book cover" caption="[*Taking Time* by Ellie Garratt]((http://www.amazon.com/Taking-Science-Fiction-Stories-ebook/dp/B00F193EVM/)" %}
 
-{% include image.html src="/assets/images/fullsize/ellie-garratt-passing-time.jpg" alt="book cover" caption="[*Passing Time* by Ellie Garratt]((http://www.amazon.com/Passing-Time-Strange-Macabre-ebook/dp/B00EYMEBKU/)" %}
+{% include image.html src="/assets/images/resized/ellie-garratt-passing-time.jpg" alt="book cover" caption="[*Passing Time* by Ellie Garratt]((http://www.amazon.com/Passing-Time-Strange-Macabre-ebook/dp/B00EYMEBKU/)" %}

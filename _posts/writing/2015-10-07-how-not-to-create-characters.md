@@ -35,7 +35,7 @@ Yeah, you heard me. _That_ Golbez. Remember him?
 
 A brief aside for those of you who haven't played _Final Fantasy IV_: Golbez is the primary antagonist for most of the game's campaign. He's first mentioned when the player guides Cecil Harvey and his companions to the bombed out castle of Damcyan, and identified as the new commander of the Red Wings, the air force of Baron. However, we learn next to nothing about him until we're more than 80% of the way through the game, when we learn that he's Cecil's brother, and was being manipulated by a being named Zemus.
 
-{% include image.html src="/assets/images/fullsize/golbez-final-fantasy-iv.jpg" alt="artwork from Final Fantasy IV" caption="Golbez from *Final Fantasy IV*. Art by Yoshitaka Amano" %} 
+{% include image.html src="/assets/images/resized/golbez-final-fantasy-iv.jpg" alt="artwork from Final Fantasy IV" caption="Golbez from *Final Fantasy IV*. Art by Yoshitaka Amano" %} 
 
 One of my biggest gripes with the fantasy fiction I had read prior to saying "fuck it" and trying to write my own epic fantasy was that the villains were less plausible than the sort of antagonists you might find in SNES-era Japanese RPGs. I've read books whose antagonists make Golbez from look well-written.
 
@@ -94,7 +94,7 @@ Now we're getting somewhere. To the ancient Greeks, [daemons could be either ben
 
 Like Dave Bowman in the last part of _2001: A Space Odyssey_, suppose a mortal intelligence could be shepherded to a post-biological state by those who had already made the journey.
 
-{% include image.html src="/assets/images/fullsize/2001-space-odyssey-starchild.jpg" alt="the starchild" caption="The Starchild from *2001: A Space Odyssey*<br />Directed by Stanley Kubrick and written by Arthur C. Clarke" %}
+{% include image.html src="/assets/images/resized/2001-space-odyssey-starchild.jpg" alt="the starchild" caption="The Starchild from *2001: A Space Odyssey*<br />Directed by Stanley Kubrick and written by Arthur C. Clarke" %}
 
 Suppose there were daemons who believed in a kind of Manifest Destiny where all intelligence was post-biological, and any intelligent species that refused to make the transition had to be exterminated for the greater good. Suppose this faction was opposed by another that was content to live and let live? Suppose it came to all-out war that raged until the latter faction created a doomsday weapon capable of killing daemons?
 
@@ -106,10 +106,10 @@ Also, how does this doomsday weapon work in the first place? I could keep going 
 
 Only one question remained. What if it wasn't Blofeld running the show, but his cat?
 
-{% include image.html src="/assets/images/fullsize/jamesbond-blofelds-cat.jpg" alt="movie still" caption="Ernst Stavro Blofeld and his kitty" %}
+{% include image.html src="/assets/images/resized/jamesbond-blofelds-cat.jpg" alt="movie still" caption="Ernst Stavro Blofeld and his kitty" %}
 
 That's how I ended up with a science fantasy series for metalheads involving cat people putting out fires with gasoline. My villain doesn't need a white cat, because he is one.
 
-{% include image.html src="/assets/images/fullsize/starbreaker-cast-imaginos.jpg" alt="promotional artwork" caption="Artwork by [Harvey Bunda](https://harveybunda.com) commissioned by the author" %}
+{% include image.html src="/assets/images/resized/starbreaker-cast-imaginos.jpg" alt="promotional artwork" caption="Artwork by [Harvey Bunda](https://harveybunda.com) commissioned by the author" %}
 
 If you enjoyed this post, please consider buying a copy of [_Without Bloodshed_](/stories/starbreaker/without-bloodshed/) or [_Silent Clarion_](/stories/starbreaker/silent-clarion/). I'd appreciate the support.

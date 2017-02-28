@@ -25,7 +25,7 @@ Meanwhile, the Phoenix Society itself is paralyzed by a series of stochastic ter
 
 The clandestine war for the future of intelligent life on Earth threatens to erupt anew. The Antarctic domed city of Asgard, testament to both humanity's pre-Nationfall technological prowess and its second Renaissance, will be the epicenter. Will Morgan and the others comprehend the real threat in time to save the people of Asgard?
 
-{% include image.html src="/assets/images/fullsize/wip-cover-blackenedphoenix.jpg" alt="Teaser Cover for Blackened Phoenix" caption="Artwork commissioned from [S. A. Hunt](http://www.sahuntbooks.com/) by the author" %}
+{% include image.html src="/assets/images/resized/wip-cover-blackenedphoenix.jpg" alt="Teaser Cover for Blackened Phoenix" caption="Artwork commissioned from [S. A. Hunt](http://www.sahuntbooks.com/) by the author" %}
 
 ## Production Diary
 

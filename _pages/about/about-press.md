@@ -25,9 +25,9 @@ His day job is software development, and we're not sure how he remains sane. We 
 
 ## Photos
 
-{% include image.html src="/assets/images/fullsize/author-nyc.jpg" alt="A photo of Matthew Graybosch in NYC" caption="Photograph by Catherine Gatt" %}
+{% include image.html src="/assets/images/resized/author-nyc.jpg" alt="A photo of Matthew Graybosch in NYC" caption="Photograph by Catherine Gatt" %}
 
-{% include image.html src="/assets/images/fullsize/author-niagarafalls.jpg" alt="A photo of Matthew Graybosch in NYC" caption="Photograph by Catherine Gatt" %}
+{% include image.html src="/assets/images/resized/author-niagarafalls.jpg" alt="A photo of Matthew Graybosch in NYC" caption="Photograph by Catherine Gatt" %}
 
 ## Contact
 
@@ -72,7 +72,7 @@ I do it with vivid characters, Byzantine plots you'll need to read twice to figu
 
 ### Are the Starbreaker novels appropriate for children?
 
-A faithful adaptation for TV, feature film or video games would most likely be rated TV-MA, R, or M due to graphic violence, extensive profanity, occasional blasphemy, explicitly sexual situations involving consenting adaults, and adult themes such as abuse of power, existential crises, loss of faith, betrayal, and revenge.
+A faithful adaptation for TV, feature films, or video games would most likely be rated TV-MA, R, or M  respectively due to graphic violence, extensive profanity, occasional blasphemy, explicitly sexual situations involving consenting adaults, and adult themes such as abuse of power, existential crises, loss of faith, betrayal, and revenge.
 
 Children under the age of 16 probably shouldn't read my Starbreaker novels or stories without parental supervision.
 
@@ -172,7 +172,7 @@ Sure. Why not? I would happily drink the old man's coffee and pick his brain. Ma
 
 "Perfectly." The foyer light came to life as he opened the door. "Good night, Ms. Bradleigh."
 
-{% include image.html src="/assets/images/fullsize/book-cover-silentclarion.jpg" alt="Cover for Silent Clarion" caption="Cover by Curiosity Quills Press" %}
+{% include image.html src="/assets/images/resized/book-cover-silentclarion.jpg" alt="Cover for Silent Clarion" caption="Cover by Curiosity Quills Press" %}
 
 ### From *Without Bloodshed* (2013), Chapter One: The Unforgiven
 

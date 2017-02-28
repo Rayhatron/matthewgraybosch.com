@@ -22,16 +22,16 @@ While I enjoyed *Prospero Lost* and devoured it in two nights after my wife brou
 
 Get these covers while you can, incidentally. L. Jagi Lamplighter is working on [reissues with new artwork.](http://www.ljagilamplighter.com/2016/07/08/magic-come-to-life/)
 
-{% include image.html src="/assets/images/fullsize/l-jagi-lamplighter-prospero-lost.jpg" alt="Prospero's Daughter: Part 1" caption="[*Prospero Lost*](http://www.ljagilamplighter.com/works/prospero-daughter/): original cover" %}
+{% include image.html src="/assets/images/resized/l-jagi-lamplighter-prospero-lost.jpg" alt="Prospero's Daughter: Part 1" caption="[*Prospero Lost*](http://www.ljagilamplighter.com/works/prospero-daughter/): original cover" %}
 
 ## Prospero In Hell
 
 Get this next.
 
-{% include image.html src="/assets/images/fullsize/l-jagi-lamplighter-prospero-in-hell.jpg" alt="Prospero's Daughter: Part 2" caption="[*Prospero in Hell*](http://www.ljagilamplighter.com/works/prospero-daughter/): original cover" %}
+{% include image.html src="/assets/images/resized/l-jagi-lamplighter-prospero-in-hell.jpg" alt="Prospero's Daughter: Part 2" caption="[*Prospero in Hell*](http://www.ljagilamplighter.com/works/prospero-daughter/): original cover" %}
 
 ## Prospero Regained
 
 And don't forget the end of the trilogy.
 
-{% include image.html src="/assets/images/fullsize/l-jagi-lamplighter-prospero-regained.jpg" alt="Prospero's Daughter: Part 3" caption="[*Prospero Regained*](http://www.ljagilamplighter.com/works/prospero-daughter/): original cover" %}
+{% include image.html src="/assets/images/resized/l-jagi-lamplighter-prospero-regained.jpg" alt="Prospero's Daughter: Part 3" caption="[*Prospero Regained*](http://www.ljagilamplighter.com/works/prospero-daughter/): original cover" %}

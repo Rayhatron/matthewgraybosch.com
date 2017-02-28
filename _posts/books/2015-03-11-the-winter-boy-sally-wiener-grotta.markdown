@@ -34,7 +34,7 @@ The Valley of the Alleshi is the center of all civilization, the core and founda
 
 Amidst this gathering political maelstrom, Rishana, a young new idealistic Allesha, takes her First Boy, Ryl, for a winter season of training. But Ryl is a “problem boy” who fights Rishana every step of the way. At the same time, Rishana uncovers a web of conspiracies that could not only destroy Ryl, but threatens to tear their entire society apart. And a winter that should have been a gentle, quiet season becomes one of conflict, anger and danger.
 
-{% include image.html src="/assets/images/fullsize/winter-boy-cover.jpg" alt="book cover" caption="Cover for *The Winter Boy* by Sally Wiener Grotta" %}
+{% include image.html src="/assets/images/resized/winter-boy-cover.jpg" alt="book cover" caption="Cover for *The Winter Boy* by Sally Wiener Grotta" %}
 
 ## Listen to a Reading
 

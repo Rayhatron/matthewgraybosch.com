@@ -17,7 +17,7 @@ I probably should have been more supportive toward her in her fight beyond offer
 
 To Katy's friends and family, I offer my condolences. I'm honored that Katy not only read my first novel, but enjoyed it so.
 
-{% include image.html src="/assets/images/fullsize/katy-sozaeva-facebook.jpg" alt="photo of Katy Sozaeva" caption="[Photo of Katy Sozaeva downloaded from Facebook](https://www.facebook.com/photo.php?fbid=922363451112553&set=t.100000167216324&type=3&theater)" %}
+{% include image.html src="/assets/images/resized/katy-sozaeva-facebook.jpg" alt="photo of Katy Sozaeva" caption="[Photo of Katy Sozaeva downloaded from Facebook](https://www.facebook.com/photo.php?fbid=922363451112553&set=t.100000167216324&type=3&theater)" %}
 
 ## Links To/About Katy Sozaeva
 

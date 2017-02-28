@@ -13,7 +13,7 @@ options:
 ---
 The women depicted in paintings like John William Godward's _His Birthday Gift_ always remind me of my wife Catherine. 
 
-{% include image.html src="/assets/images/fullsize/john-william-godward-his-birthday-gift-1889.jpg" alt="painting of a dark-haired woman" caption="[*His Birthday Gift* by John William Godward, 1889](https://www.wikiart.org/en/john-william-godward/his-birthday-gift-1889)" %}
+{% include image.html src="/assets/images/resized/john-william-godward-his-birthday-gift-1889.jpg" alt="painting of a dark-haired woman" caption="[*His Birthday Gift* by John William Godward, 1889](https://www.wikiart.org/en/john-william-godward/his-birthday-gift-1889)" %}
 
 I've always been most strongly attracted to this sort of classical face and figure, but I didn't know what Catherine looked like at first.
 
@@ -43,7 +43,7 @@ I wasn't looking for a relationship at the time. I wasn't ready to open myself u
 
 Marjorie Hillis might have written her book for women, but much of it was no less applicable to bachelors.
 
-{% include image.html src="/assets/images/fullsize/marjorie-hillis-live-alone-and-like-it-cover.jpg" alt="book cover" caption="This book isn't *just* for extra women." %}
+{% include image.html src="/assets/images/resized/marjorie-hillis-live-alone-and-like-it-cover.jpg" alt="book cover" caption="This book isn't *just* for extra women." %}
 
 However, if Ms. Hillis were alive in 2000 and had seen the way I was living, she'd probably still tell me I was doing it wrong. I'd wake up in my empty apartment, go to work, come home to my empty apartment, and write. If I wasn't writing, or poking around on the internet, I would either read by myself, play video games by myself, watch movies on DVD by myself.
 
