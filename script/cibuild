@@ -1,12 +1,6 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# Let's build the site.
-if [[ "$IS_TRAVIS" ]]
-  then bundle exec jekyll build --config _config.yml
-  else bundle exec jekyll build --config _config.yml _config.dev.yml
-fi
-
 # We need to resize and compress images for display.
 # This part based on "Efficient Image Resizing With ImageMagick" by Dave Newton
 # https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/
@@ -14,12 +8,18 @@ echo "Image Processing: START..."
 export INPUT_PATH=_assets/images/fullsize/
 export OUTPUT_WIDTH=700
 export OUTPUT_PATH=_assets/images/resized/
-for img in ${INPUT_PATH}/*
+for img in ${INPUT_PATH}*
 do
   echo "Processing image: ${img}"
-  mogrify -path "${OUTPUT_PATH}/${img}" -filter Triangle -define filter:support=2 -thumbnail $OUTPUT_WIDTH -unsharp 0.25x0.08+8.3+0.045 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB "${img}"
+  mogrify -path $OUTPUT_PATH -filter Triangle -define filter:support=2 -thumbnail $OUTPUT_WIDTH -unsharp 0.25x0.08+8.3+0.045 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB $img
 done
 echo "Image Processing: END..."
+
+# Let's build the site.
+if [[ "$IS_TRAVIS" ]]
+  then bundle exec jekyll build --config _config.yml
+  else bundle exec jekyll build --config _config.yml _config.dev.yml
+fi
 
 # Make target directories for images.
 mkdir -p _site/assets/images/fullsize/
