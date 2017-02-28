@@ -14,7 +14,11 @@ echo "Image Processing: START..."
 export INPUT_PATH=_assets/images/fullsize/
 export OUTPUT_WIDTH=700
 export OUTPUT_PATH=_assets/images/resized/
-mogrify -path $OUTPUT_PATH -filter Triangle -define filter:support=2 -thumbnail $OUTPUT_WIDTH -unsharp 0.25x0.08+8.3+0.045 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB ${INPUT_PATH}/*
+for img in ${INPUT_PATH}/*
+do
+  echo "Processing image: ${img}"
+  mogrify -path "${OUTPUT_PATH}/${img}" -filter Triangle -define filter:support=2 -thumbnail $OUTPUT_WIDTH -unsharp 0.25x0.08+8.3+0.045 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB "${img}"
+done
 echo "Image Processing: END..."
 
 # Make target directories for images.
