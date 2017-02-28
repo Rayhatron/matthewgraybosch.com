@@ -22,6 +22,16 @@ blog:
       url: /blog/
     - title: Stories
       url: /stories/
+blog:
+  items:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Status
+      url: /status/
+    - title: Stories
+      url: /stories/
 starbreaker:
   items:
     - title: Home

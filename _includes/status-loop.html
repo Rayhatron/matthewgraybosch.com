@@ -1,0 +1,13 @@
+{% for item in status %}
+  <article>
+    <header>
+      <h2>{{ item.date | date: '%m/%d/%Y @ %l:%M %p (New York time)' }}</h2>
+    </header>
+    <section>
+      {{ item.content }}
+    </section>
+    <aside class="right_aline_contents">
+      <p><a href="{{ item.url | prepend: site.url }}">permalink</a></p>
+    </aside>
+  </article>
+{% endfor %}

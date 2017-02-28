@@ -31,6 +31,15 @@ social:
     - https://ello.co/starbreaker
     - https://psnprofiles.com/EddieVanHelsing
 
+collections:
+  status:
+    output: true
+    permalink: /status/:name/
+    layout: status
+    description: "A status update from Matthew Graybosch, in case you care."
+    seo:
+      type: SocialMediaPosting
+
 defaults:
   - scope:
       path: ""

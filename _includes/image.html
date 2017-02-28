@@ -1,5 +1,5 @@
 <figure class="bg-material50 border-material400">
-  <img class="border-materialBlack" src="{{ include.src }}" width="700" alt="{{ include.alt }}">
+  <img class="border-materialBlack" src="{{ include.src | prepend: site.url }}" width="700" alt="{{ include.alt }}">
   {% if include.caption %}
   <figcaption>{{ include.caption | markdownify }}</figcaption>
   {% endif %}
