@@ -12,17 +12,29 @@
     {% if include.limit %}
       {% for post in posts limit: include.limit %}
       <article>
-        <h3><a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></h3>
-        <p class="small material400">{{ post.date | date: '%m/%d/%Y' }}</p>
-        <p>{{ post.description }}</p>
+        <header>
+          <h3>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h3>
+        </header>
+        <section>
+          <p>{{ post.description }}</p>
+        </section>
+        <aside class="small center_contents">
+          <p><a href="{{ post.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>posted at {{ post.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
+        </aside>
       </article>
       {% endfor %}
     {% else %}
       {% for post in posts %}
       <article>
-        <h3><a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></h3>
-        <p class="small material400">{{ post.date | date: '%m/%d/%Y' }}</p>
-        <p>{{ post.description }}</p>
+        <header>
+          <h3>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h3>
+        </header>
+        <section>
+          <p>{{ post.description }}</p>
+        </section>
+        <aside class="small center_contents">
+          <p><a href="{{ post.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>posted at {{ post.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
+        </aside>
       </article>
       {% endfor %}
     {% endif %}

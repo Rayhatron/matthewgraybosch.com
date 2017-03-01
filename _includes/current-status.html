@@ -4,8 +4,8 @@
     <section>
       {{ item.content }}
     </section>
-    <aside class="right_aline_contents">
-      <p>posted at <a href="{{ item.url | prepend: site.url }}">{{ item.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
+    <aside class="small center_contents">
+      <p><a href="{{ item.url | prepend: site.url }}" class="link">posted on {{ item.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
     </aside>
   </article>
 {% endfor %}

@@ -1,9 +1,5 @@
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
-{% if post.read_time %}
-  {% assign words = post.content | strip_html | number_of_words %}
-{% elsif page.read_time %}
-  {% assign words = page.content | strip_html | number_of_words %}
-{% endif %}
+{% assign words = page.content | strip_html | number_of_words %}
 <p class="reading_time material400 bold">
 {% if words < words_per_minute %}
   less than a minute to read
