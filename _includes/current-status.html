@@ -1,8 +1,6 @@
-{% for item in status %}
+{% assign status = (site.status | sort: 'date' | reverse) %}
+{% for item in status limit: 1 %}
   <article>
-    <header>
-      <h2>{{ item.title }}</h2>
-    </header>
     <section>
       {{ item.content }}
     </section>

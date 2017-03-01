@@ -7,7 +7,7 @@ layout: null
     <title>Matthew Graybosch - Status</title>
     <description>My latest status updates. Too bad Facebook/Twitter won't use RSS.</description>
     <link>{{ site.url }}</link>
-    {% assign status = (site.status | sort: 'date') | reverse %}
+    {% assign status = (site.status | sort: 'date' | reverse) %}
     {% for post in status %}
       {% unless post.draft %}
         <item>

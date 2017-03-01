@@ -12,8 +12,7 @@ You can also read [my stories](/stories/), check out [my blog](/blog/), find out
 
 ## Latest Status
 
-{% assign status = (site.status | sort: 'date') | reverse | first %}
-{% include status-loop.html %}
+{% include current-status.html %}
 
 {% include nav-menu.html id="wip_nav" aria_label="List of Works in Progress" menu="wip" underline_links="true" %}
 

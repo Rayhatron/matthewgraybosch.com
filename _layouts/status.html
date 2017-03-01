@@ -11,7 +11,7 @@ layout: default
     <header id="article_header">
       <hgroup>
         <h1>{{ page.title }}</h1>
-        <h2>{{ page.date | date: '%m/%d/%Y @ %l:%M %p (New York time)' }}</h2>
+        <p class="reading_time material400 bold">posted at {{ page.date | date: '%l:%M %p on %m/%d/%Y' }}</p>
       </hgroup>
     </header>
     <section id="article_content">
