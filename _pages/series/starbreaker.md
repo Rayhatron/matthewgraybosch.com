@@ -90,7 +90,7 @@ These titles are based on ideas I've kicked around for after I'm done with Starb
 
 I wasn't kidding when I said Starbreaker was inspired by heavy metal. If you have a Spotify account, or don't mind making one, you can hear some of the songs that inspired the characters and story of Starbreaker over the last twenty years.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1238897208%3Aplaylist%3A38zMnZR0VLgtbJ0JeGM4Sp" width="500" height="580" frameborder="0" allowtransparency="true"></iframe>
+[Listen to the Official Starbreaker Playlist online, or with your Spotify app.](https://open.spotify.com/user/1238897208/playlist/38zMnZR0VLgtbJ0JeGM4Sp)
 
 ## Starbreaker Isn't Just for Metalheads
 
