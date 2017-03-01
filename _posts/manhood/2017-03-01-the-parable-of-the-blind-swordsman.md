@@ -23,7 +23,7 @@ For all of these reasons, you should careful about when you yield to your anger.
 
 If it sounds like I've seen too many samurai movies, it's possible that I might have. The image of the blind swordsman in a crowded room was probably inspired by [*Zatoichi*](https://en.wikipedia.org/wiki/Zatoichi), a long-running and beloved series of novels and movies created by [Kan Shimozawa](https://en.wikipedia.org/wiki/Kan_Shimozawa). 
 
-{% include image.html src="/assets/images/resized/zatoichi-blind-samurai.jpg" caption="a blind samurai" caption="A still from one of the old *Zatoichi* films" %}
+{% include image.html src="/assets/images/resized/zatoichi-blind-samurai.jpg" alt="a blind samurai" caption="A still from one of the old *Zatoichi* films" %}
 
 Zatoichi is a wandering masseur and gambler living in early 19th century Japan (Edo period) who carries a sword-cane because only samurai may legally possess proper katanas. He regularly draws his sword on behalf of the downtrodden, which makes him a heroic figure similar to pulp legend [Zorro](https://en.wikipedia.org/wiki/Zorro) and Marvel comics hero [Daredevil](https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character\)).
 
