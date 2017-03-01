@@ -90,7 +90,9 @@ These titles are based on ideas I've kicked around for after I'm done with Starb
 
 I wasn't kidding when I said Starbreaker was inspired by heavy metal. If you have a Spotify account, or don't mind making one, you can hear some of the songs that inspired the characters and story of Starbreaker over the last twenty years.
 
-[Listen to the Official Starbreaker Playlist online, or with your Spotify app.](https://open.spotify.com/user/1238897208/playlist/38zMnZR0VLgtbJ0JeGM4Sp)
+The Official Starbreaker Playlist has over 666 tracks spanning hard rock and heavy metal from the 1970s to today, along with some classical music, some jazz, and other styles. [You can listen to and follow it online, or with your Spotify app.](https://open.spotify.com/user/1238897208/playlist/38zMnZR0VLgtbJ0JeGM4Sp)
+
+And if you want a *shorter* playlist, you might want to check out the [Silent Clarion OST](https://open.spotify.com/user/1238897208/playlist/4iBppi9lW4iw5oPUa9JuEv), which contains most of the tracks that serve as chapter titles in [*Silent Clarion*](/stories/starbreaker/silent-clarion/)
 
 ## Starbreaker Isn't Just for Metalheads
 
