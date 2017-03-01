@@ -4,7 +4,8 @@
  */
 
 html {
-  font-size: $fontSize;
+  // font-size: $fontSize;
+  font-size: calc(112.5% + 0.25vw);
 
   // body-border shenanigans from https://css-tricks.com/body-border/
   body:before, body:after {
