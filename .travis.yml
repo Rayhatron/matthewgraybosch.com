@@ -6,9 +6,12 @@ addons:
   code_climate:
     repo_token: e28174b01321fbf580df95b2b0b72644273a1acc65be77318ee2869daecec1e6
 before_script:
-- chmod +x ./script/cibuild
-- chmod +x ./script/cideploy
-script: "./script/cibuild"
+  - chmod +x ./script/imageprep
+  - chmod +x ./script/cibuild
+  - chmod +x ./script/cideploy
+script:
+  - ./script/imageprep
+  - ./script/cibuild
 branches:
   only:
   - master
