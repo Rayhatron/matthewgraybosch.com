@@ -14,11 +14,7 @@
       <article>
         <h3><a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></h3>
         <p class="small material400">{{ post.date | date: '%m/%d/%Y' }}</p>
-        {% unless post.excerpt %}
-          <p>{{ post.description }}</p>
-        {% else %}
-          {{ post.excerpt | markdownify }}
-        {% endunless %}
+        <p>{{ post.description }}</p>
       </article>
       {% endfor %}
     {% else %}
@@ -26,11 +22,7 @@
       <article>
         <h3><a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></h3>
         <p class="small material400">{{ post.date | date: '%m/%d/%Y' }}</p>
-        {% unless post.excerpt %}
-          <p>{{ post.description }}</p>
-        {% else %}
-          {{ post.excerpt | markdownify }}
-        {% endunless %}
+        <p>{{ post.description }}</p>
       </article>
       {% endfor %}
     {% endif %}
