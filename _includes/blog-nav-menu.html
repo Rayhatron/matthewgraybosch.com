@@ -9,15 +9,29 @@
   <p>{{ category.description | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
   {% endif %}
   <nav id="{{ include.id }}" aria-label="{{ include.aria_label }}">
-    <ul>
     {% if include.limit %}
       {% for post in posts limit: include.limit %}
-      <li><span class="small material400">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></li>
+      <article>
+        <h3><a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></h3>
+        <p class="small material400">{{ post.date | date: '%m/%d/%Y' }}</p>
+        {% unless post.excerpt %}
+          <p>{{ post.description }}</p>
+        {% else %}
+          {{ post.excerpt | markdownify }}
+        {% endunless %}
+      </article>
       {% endfor %}
     {% else %}
       {% for post in posts %}
-      <li><span class="small material400">{{ post.date | date: '%m/%d/%Y' }}</span> <a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></li>
+      <article>
+        <h3><a href="{{ post.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</a></h3>
+        <p class="small material400">{{ post.date | date: '%m/%d/%Y' }}</p>
+        {% unless post.excerpt %}
+          <p>{{ post.description }}</p>
+        {% else %}
+          {{ post.excerpt | markdownify }}
+        {% endunless %}
+      </article>
       {% endfor %}
     {% endif %}
-    </ul>
   </nav>

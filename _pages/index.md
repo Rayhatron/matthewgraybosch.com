@@ -10,11 +10,11 @@ I'm Matthew Graybosch: [author of the Starbreaker saga](/stories/starbreaker/), 
 
 You can also read [my stories](/stories/), check out [my blog](/blog/), find out how to [contact me](/contact/), learn [more about me](/about/), or see [what I'm up to now](/now/).
 
+{% include nav-menu.html id="wip_nav" aria_label="List of Works in Progress" menu="wip" underline_links="true" %}
+
 ## Latest Status
 
 {% include current-status.html %}
-
-{% include nav-menu.html id="wip_nav" aria_label="List of Works in Progress" menu="wip" underline_links="true" %}
 
 ## Recent Posts
 
