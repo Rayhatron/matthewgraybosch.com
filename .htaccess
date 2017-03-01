@@ -20,23 +20,6 @@ RewriteRule ^(.*)$ – [F,L]
 # Cache/Compression config courtesy of Brian Jackson @ Kinsta
 # https://kinsta.com/blog/leverage-browser-caching/
 
-## EXPIRES HEADER CACHING ##
-<IfModule mod_expires.c>
-  ExpiresActive On
-  ExpiresByType image/jpg "access 1 year"
-  ExpiresByType image/jpeg "access 1 year"
-  ExpiresByType image/gif "access 1 year"
-  ExpiresByType image/png "access 1 year"
-  ExpiresByType text/css "access 1 month"
-  ExpiresByType application/pdf "access 1 month"
-  ExpiresByType application/javascript "access 1 month"
-  ExpiresByType application/x-javascript "access 1 month"
-  ExpiresByType application/x-shockwave-flash "access 1 month"
-  ExpiresByType image/x-icon "access 1 year"
-  ExpiresDefault "access 2 days"
-</IfModule>
-## EXPIRES HEADER CACHING ##
-
 ## CACHE CONTROL HEADERS
 <ifModule mod_headers.c>
   <filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|css|swf)$">
@@ -50,6 +33,23 @@ RewriteRule ^(.*)$ – [F,L]
   </filesMatch>
 </ifModule>
 ## CACHE CONTROL HEADERS
+
+## EXPIRES HEADER CACHING ##
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType application/x-javascript "access plus 1 month"
+  ExpiresByType application/x-shockwave-flash "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresDefault "access plus 2 days"
+</IfModule>
+## EXPIRES HEADER CACHING ##
 
 ## COMPRESSION SETTINGS
 <ifModule mod_gzip.c>
