@@ -1,0 +1,11 @@
+{% assign status = (site.status | sort: 'date' | reverse) %}
+{% for item in status limit: 1 %}
+  <article>
+    <section>
+      {{ item.content }}
+    </section>
+    <aside class="small center_contents">
+      <p><a href="{{ item.url | prepend: site.url }}">posted on {{ item.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
+    </aside>
+  </article>
+{% endfor %}

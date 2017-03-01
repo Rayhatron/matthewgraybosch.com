@@ -1,13 +1,13 @@
 {% for item in status %}
   <article>
     <header>
-      <h2>{{ item.date | date: '%m/%d/%Y @ %l:%M %p (New York time)' }}</h2>
+      <h2>{{ item.title }}</h2>
     </header>
     <section>
       {{ item.content }}
     </section>
-    <aside class="right_aline_contents">
-      <p><a href="{{ item.url | prepend: site.url }}">permalink</a></p>
+    <aside class="small center_contents">
+      <p><a href="{{ item.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>posted on {{ item.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
     </aside>
   </article>
 {% endfor %}

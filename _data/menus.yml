@@ -22,7 +22,7 @@ blog:
       url: /blog/
     - title: Stories
       url: /stories/
-blog:
+status:
   items:
     - title: Home
       url: /
