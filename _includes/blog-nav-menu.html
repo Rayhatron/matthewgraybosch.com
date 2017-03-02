@@ -25,7 +25,7 @@
       {% endfor %}
     {% else %}
       {% for post in posts %}
-      <article>
+      <article class="post_list">
         <header>
           <h3>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h3>
         </header>
