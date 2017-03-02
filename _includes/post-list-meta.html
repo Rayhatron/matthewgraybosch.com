@@ -1,7 +1,7 @@
 {% assign category0 = post.categories[0] %}
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
 {% assign words = post.content | strip_html | number_of_words %}
-<p class="post_info material400">
+<p class="post_info material400 small">
   <a href="{{ post.url }}">
   posted at {{ post.date | date: '%l:%M %p on %m/%d/%Y' }} &middot;
   {{ category0 }} &middot;
