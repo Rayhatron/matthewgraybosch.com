@@ -1,4 +1,14 @@
-{% capture inline_sass %}{% include main.scss %}{% endcapture %}
+{% if site.color == "blue" %}
+  {% capture inline_sass %}{% include styles/blue.scss %}{% endcapture %}
+{% elsif site.color == "indigo" %}
+  {% capture inline_sass %}{% include styles/indigo.scss %}{% endcapture %}
+{% elsif site.color == "red" %}
+  {% capture inline_sass %}{% include styles/red.scss %}{% endcapture %}
+{% elsif site.color == "bluegray" %}
+  {% capture inline_sass %}{% include styles/bluegray.scss %}{% endcapture %}
+{% else %}
+  {% capture inline_sass %}{% include main.scss %}{% endcapture %}
+{% endif %}
 <style type="text/css">
   {{ inline_sass | scssify }}
 </style>
