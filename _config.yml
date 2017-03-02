@@ -6,6 +6,7 @@ real_email: matthew@matthewgraybosch.com
 words_per_minute: 250
 locale: en_US
 location: "Harrisburg, PA"
+color: "indigo"
 description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm Matthew Graybosch, author of the Starbreaker science fantasy novels, developer, and metalhead from New York currently living in Pennsylvania. This is my website.
 baseurl: "" # the subpath of your site, e.g. /blog

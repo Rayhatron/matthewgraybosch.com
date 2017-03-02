@@ -1,7 +1,29 @@
+---
+layout: null
+---
 // matthewgraybosch.com
 // uses ITCSS architecture.
 // See https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.dm4sr8ywt for details.
 
+// Material design colors for a consistent look. 
+// All color schemes live in _sass/material-colors.
+// To change color scheme, change this import statement.
+{% if site.color == 'blue' %}
+  @import "material-colors/blue";
+{% elsif site.color == 'red' %}
+  @import "material-colors/red";
+{% elsif site.color == 'green' %}
+  @import "material-colors/green";
+{% elsif site.color == 'bluegray' %}
+  @import "material-colors/bluegray";
+{% elsif site.color == 'deeppurple' %}
+  @import "material-colors/deeppurple";
+{% elsif site.color == 'indigo' %}
+  @import "material-colors/indigo";
+{% else %}
+  @import "material-colors/blue";
+{% endif %}
+// Everything else.
 @import "settings";
 @import "tools";
 @import "generic";
