@@ -69,10 +69,12 @@ layout: default
               <span>&lt; {{prevPost.title}}</span>
             </a> 
             {% endif %} 
-            {% if nextPost.url %} 
-            <a class="next" href="{{nextPost.url}}">
-              <span>{{nextPost.title}} &gt;</span>
-            </a> 
+            {% if nextPost.url %}
+            <span class="float_right">
+              <a class="next" href="{{nextPost.url}}">
+                <span>{{nextPost.title}} &gt;</span>
+              </a>
+            </span>
             {% endif %} 
           </div>
         </nav>
