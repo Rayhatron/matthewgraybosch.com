@@ -11,7 +11,7 @@
   <nav id="{{ include.id }}" aria-label="{{ include.aria_label }}">
     {% if include.limit %}
       {% for post in posts limit: include.limit %}
-      <article>
+      <article class="post_list">
         <header>
           <h3>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h3>
         </header>
