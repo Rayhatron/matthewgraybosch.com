@@ -23,6 +23,17 @@
   float: right;
 }
 
+.container::before, .container::after {
+    content:"";
+    display:table;
+}
+.container::after {
+    clear:both;
+}
+.container {
+    zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+
 .form_row {
   width: 100%;
   
@@ -70,7 +81,6 @@
 }
 
 #page_footer {
-  clear: both;
   margin-top: 1.5rem;
   border-top: 2px solid $material500;
   text-align: center;
