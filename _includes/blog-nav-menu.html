@@ -16,10 +16,10 @@
           <h3>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h3>
         </header>
         <section>
-          <p>{{ post.description }}</p>
+          <p><a href="{{ post.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ post.description }}</a></p>
         </section>
-        <aside class="small center_contents">
-          <p><a href="{{ post.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>posted at {{ post.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
+        <aside>
+          {% include post-list-meta.html %}
         </aside>
       </article>
       {% endfor %}
@@ -28,13 +28,11 @@
       <article class="post_list">
         <header>
           <h3>{% unless post.altTitle %}{{ post.title }}{% else %}{{ post.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h3>
+          {% include post-list-meta.html %}
         </header>
         <section>
-          <p>{{ post.description }}</p>
+          <p><a href="{{ post.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>{{ post.description }}</a></p>
         </section>
-        <aside class="small center_contents">
-          <p><a href="{{ post.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>posted at {{ post.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
-        </aside>
       </article>
       {% endfor %}
     {% endif %}

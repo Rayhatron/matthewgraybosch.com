@@ -10,7 +10,7 @@ layout: default
   <article>
     <header id="article_header">
       <h1>{% unless page.altTitle %}{{ page.title }}{% else %}{{ page.altTitle | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endunless %}</h1>
-      {% include reading-time.html %}
+      {% include post-meta.html %}
     </header>
     <section id="article_content">
       {{ content }}

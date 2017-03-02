@@ -6,7 +6,7 @@
     <section>
       {{ item.content }}
     </section>
-    <aside class="small center_contents">
+    <aside class="post_info material400 bold">
       <p><a href="{{ item.url | prepend: site.url }}" {% unless include.underline_links %}class="link"{% endunless %}>posted on {{ item.date | date: '%l:%M %p on %m/%d/%Y' }}</a></p>
     </aside>
   </article>
