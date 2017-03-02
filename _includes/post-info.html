@@ -2,7 +2,7 @@
 {% assign category0 = page.categories[0] %}
 {% assign category = site.data.categories[category0] %}
 <h2>About This Post</h2>
-  <p class="post_info">Posted at {{ page.date | date: '%l:%M %p on %m/%d/%Y' }} under <a href="/blog/{{ category0 }}/">{{ category0 }}</a>.</p>
+  <p class="post_info">Posted at {{ page.date | date: '%l:%M %p on %m/%d/%Y' }} under <a href="/blog/{{ category0 }}/">{{ category }}</a>.</p>
   {% if page.updated %}
   <p class="post_info">Updated at {{ page.updated | date: '%l:%M %p on %m/%d/%Y' }}</p>
   {% endif %}

@@ -1,9 +1,7 @@
 {% assign category0 = page.categories[0] %}
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
 {% assign words = page.content | strip_html | number_of_words %}
-<p class="reading_time material400 bold">
-posted at {{ page.date | date: '%l:%M %p on %m/%d/%Y' }} &middot;
-{{ category0 }} &middot;
+<p class="reading_time material400">
 {% if words < words_per_minute %}
   less than a minute to read
 {% elsif words == words_per_minute %}
@@ -11,4 +9,6 @@ posted at {{ page.date | date: '%l:%M %p on %m/%d/%Y' }} &middot;
 {% else %}
   {{ words | divided_by:words_per_minute }} minutes to read
 {% endif %}
+&middot; {{ category0 }}
+&middot; posted at {{ page.date | date: '%l:%M %p on %m/%d/%Y' }}
 </p>
