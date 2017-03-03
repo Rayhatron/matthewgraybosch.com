@@ -17,7 +17,7 @@ rsync -avzh $INPUT_PATH $OUTPUT_PATH
 for img in ${OUTPUT_PATH}*
 do
   convert $img -resize $OUTPUT_WIDTH -filter Triangle -define filter:support=2 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -define jpeg:fancy-upsampling=off -colorspace sRGB $img 
-  jpegoptim --size=33k --all-progressive --strip-all $img
+  jpegoptim --size=40k --all-progressive --strip-all $img
 done
 
 echo "Image Processing: END..."
