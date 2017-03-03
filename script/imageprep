@@ -9,7 +9,7 @@ set -e # halt script on error
 echo "Image Processing: START..."
 
 export INPUT_PATH=_assets/images/fullsize/
-export OUTPUT_WIDTH=700
+export OUTPUT_WIDTH=677
 export OUTPUT_PATH=_assets/images/resized/
 
 rsync -avzh $INPUT_PATH $OUTPUT_PATH
