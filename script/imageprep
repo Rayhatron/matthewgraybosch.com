@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# NEVER RUN THIS AS PART OF THE BUILD PROCESS! IT TAKES TOO FUCKING LONG!
+# NEVER RUN THIS AS PART OF THE BUILD PROCESS ON TRAVIS CI! 
+# IT TAKES TOO FUCKING LONG AND CAUSES TIMEOUTS.
+# RUN THIS SCRIPT LOCALLY, COMMIT, AND PUSH TO MASTER.
 
 # We need to resize and compress images for display. 
 # Script based on "Efficient Image Resizing With ImageMagick" by Dave Newton
