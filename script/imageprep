@@ -12,7 +12,12 @@ export INPUT_PATH=_assets/images/fullsize/
 export OUTPUT_WIDTH=700
 export OUTPUT_PATH=_assets/images/resized/
 
-rsync -avzh _assets/images/fullsize/ _assets/images/resized/
-jpegoptim --size=150k --all-progressive --strip-all ./_assets/images/resized/*.jpg
+rsync -avzh $INPUT_PATH $OUTPUT_PATH
+
+for img in ${OUTPUT_PATH}*
+do
+  convert $img -resize 700 $img 
+  jpegoptim --size=150k --all-progressive --strip-all $img
+done
 
 echo "Image Processing: END..."
